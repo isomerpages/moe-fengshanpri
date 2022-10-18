@@ -16,3 +16,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong>Where I am, I shine forth;</strong><br /><strong>Lend a hand, spare a thought,</strong><br /><strong>I make a difference.</strong></p>
+<p style="text-align: center;"><strong>Where we go, we are known;</strong><br /><strong>Greater than the sum of our parts,</strong><br /><strong>core values make us one.</strong></p>
+<p style="text-align: center;"><strong>Fengshan&rsquo;s where we discover</strong><br /><strong>that learning&rsquo;s never done,</strong><br /><strong>that passion is a virtue,</strong><br /><strong>and two is greater than one.</strong><br /><strong>Through our aspirations,</strong><br /><strong>all others, too, will see;</strong><br /><strong>Years later, still</strong><br /><strong>the Fengshan heartbeat beats in me!</strong></p>
+<p style="text-align: center;"><strong>Lyrics by Tan T&rsquo;zu-Ping</strong><br /><strong>Music by Cuthbert Choo</strong></p>
