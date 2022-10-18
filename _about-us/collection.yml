@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Hall of Fame/2021.md
       - Hall of Fame/2020.md
       - Hall of Fame/2019.md
       - Hall of Fame/2018.md
