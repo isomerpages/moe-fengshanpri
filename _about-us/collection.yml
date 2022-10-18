@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Hall of Fame/2017.md
       - Hall of Fame/.keep
       - FAQs.md
