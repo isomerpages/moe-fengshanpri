@@ -5,7 +5,8 @@ description: ""
 third_nav_title: English
 ---
 <ul>
-<li><strong>Yearly &lsquo;I love English&rsquo; week</strong>
+<li>
+<h4><strong>Yearly &lsquo;I love English&rsquo; week</strong></h4>
 <ul>
 <li>Organized on an annual basis</li>
 <li>To enthuse, engage and motivate pupils in the learning of English</li>
@@ -16,7 +17,8 @@ third_nav_title: English
 </li>
 </ul>
 <ul>
-<li><strong>Literacy Programme</strong>
+<li>
+<h4><strong>Literacy Programme</strong></h4>
 <ul>
 <li>Reading cards for all levels</li>
 <li>In-house mobile library</li>
@@ -27,7 +29,8 @@ third_nav_title: English
 </li>
 </ul>
 <ul>
-<li><strong>Oral Communication skills</strong>
+<li>
+<h4><strong>Oral Communication skills</strong></h4>
 <ul>
 <li>School oral resource package</li>
 <li>Speech &amp; Drama lessons for P1&amp;P2 pupils</li>
@@ -37,14 +40,16 @@ third_nav_title: English
 </li>
 </ul>
 <ul>
-<li><strong>Enrichment programmes</strong>
+<li>
+<h4><strong>Enrichment programmes</strong></h4>
 <ul>
 <li>Creative writing programme</li>
 </ul>
 </li>
 </ul>
 <ul>
-<li><strong>Remediation for Lower Progress</strong>
+<li>
+<h4><strong>Remediation for Lower Progress</strong></h4>
 <ul>
 <li>P1 &amp; P2: Learning Support Programme (LSP), Reading Mum Programme, KidsREAD</li>
 <li>P3 &amp;P4: Reading Remediation Programme (RRP) and School-Based Dyslexia Remediation (SDR)</li>
@@ -54,7 +59,8 @@ third_nav_title: English
 </li>
 </ul>
 <ul>
-<li><strong>Experiential programmes</strong>
+<li>
+<h4><strong>Experiential programmes</strong></h4>
 <ul>
 <li>P1 and P2: related to STELLAR texts</li>
 <li>P3-P6: Tie up with NE Learning Journey</li>
@@ -62,7 +68,8 @@ third_nav_title: English
 </li>
 </ul>
 <ul>
-<li><strong>ICT integration</strong>
+<li>
+<h4><strong>ICT integration</strong></h4>
 <ul>
 <li>Leap Pad/ Leap Readers for LSP/ RRP/ SDR pupils</li>
 <li>MS PowerPoint for creation of e-books for P2 pupils</li>
