@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Cyberwellness.md
       - PRRICE Winners.md
       - Education Career Fair.md
       - Students’ Suggestion Scheme.md
