@@ -7,7 +7,7 @@ description: ""
 <tbody>
 <tr>
 <td colspan="2" width="369">
-<p><strong>Fengshan </strong><strong>Primary School Vendor Contacts</strong></p>
+<p style="text-align: center;"><strong>Fengshan </strong><strong>Primary School Vendor Contacts</strong></p>
 </td>
 </tr>
 <tr>
