@@ -83,7 +83,7 @@ third_nav_title: Mathematics
 </tr>
 <tr>
 <td>Mr Irwan Bin Md Talib</td>
-<td>P6</td>
+<td style="text-align: center;">P6</td>
 </tr>
 </tbody>
 </table>
