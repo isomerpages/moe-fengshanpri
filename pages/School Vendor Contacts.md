@@ -47,7 +47,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td>Dental clinic</td>
+<td><strong>Dental clinic</strong></td>
 <td>Telephone No: 64422459
 <p>(Nurse Tan)Opening Hours: 8.00am &ndash; 5.30pm</p>
 <p>Mondays-Thursdays: 8.00am-5.00pm</p>
