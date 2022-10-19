@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Character Focused Programme.md
       - Family Matters Programme.md
       - The In–Box.md
       - Leadership Development Programme.md
