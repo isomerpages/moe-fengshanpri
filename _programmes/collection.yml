@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Gratitude Week.md
       - P6 Graduation Party.md
       - Toys From the Heart Programme.md
       - Spot Me Good.md
