@@ -22,3 +22,4 @@ description: ""
 <p><strong>Schedule:<br /></strong>P3 to P6 &ndash; Tuesday (2:10pm &ndash; 4:10pm)</p>
 <p><strong>Venue:<br /></strong>Classroom (E2-02)</p>
 <p><strong>Teachers I/C :<br /></strong>Ms Felicia Foo*<br />Mdm Fauziah<br />Mrs Ivy Wong</p>
+<hr>
