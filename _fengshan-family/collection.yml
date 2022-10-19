@@ -2,5 +2,6 @@ collections:
   fengshan-family:
     output: true
     order:
+      - Partnership/Alumni.md
       - Partnership/Whee! Canopus@Fengshan.md
       - Partnership/.keep
