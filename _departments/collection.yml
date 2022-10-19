@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ICT/Home Based Learning.md
       - ICT/Cyber Wellness.md
       - ICT/.keep
       - Character & Citizen Education/Character & Citizenry Education (CCE).md
