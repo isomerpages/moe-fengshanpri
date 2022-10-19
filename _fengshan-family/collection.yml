@@ -2,6 +2,7 @@ collections:
   fengshan-family:
     output: true
     order:
+      - Fengshan School Leaders.md
       - Exco Members.md
       - Our Teaching Staff.md
       - Administrative Department (SAT).md
