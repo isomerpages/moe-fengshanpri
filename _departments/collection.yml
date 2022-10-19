@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Learning Environment.md
       - Science/Programme Highlights.md
       - Science/Information and Resources.md
       - Science/.keep
