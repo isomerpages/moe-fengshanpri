@@ -450,3 +450,17 @@ third_nav_title: Science
 </tbody>
 </table>
 <h4><strong>Lab Safety Rules</strong></h4>
+<img style="width: 65%;" src="/images/rules.jpg">
+<h4><strong>Websites &amp; Collaborative Tools</strong></h4>
+<p><a href="http://sciberdiver.wikispaces.com/">Sciberdiver</a></p>
+<p>&ldquo;A web portal containing a repository of science websites, specially selected to closely match the learning objectives in the science syllabus.&rdquo;</p>
+<p><a href="http://www.bbc.co.uk/bitesize/ks2/">BBC Bitesize &ndash; Home</a></p>
+<p>&ldquo;Learning resources for adults, children, parents and teachers: find videos and audio clips by level, subject and topic.&rdquo;</p>
+<p><a href="http://kitses.com/animation/swfs/digestion.swf">Digestion Animation</a></p>
+<p>&ldquo;Flash animation demonstrating the various organs involved in the human digestion.&rdquo;</p>
+<p><a href="https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc">Circuit Construction Kit (DC Only)</a></p>
+<p>&ldquo;Explore basic electricity relationships in series and parallel circuits.&rdquo;</p>
+<p><a href="https://www.mindmeister.com/">MindMeister</a></p>
+<p>&ldquo;Create, share and collaboratively work on mind maps.&rdquo;</p>
+<p><a href="https://www.mindomo.com/">Mindomo</a></p>
+<p>&ldquo;Create the best looking map online and share it with others.&rdquo;</p>
