@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Form Teacher Guidance Period.md
       - Values–in–action (VIA).md
       - NE–SS.md
