@@ -24,7 +24,7 @@ third_nav_title: ICT
 <img src="/images/cw2.png"><br>
 <img style="width: 85%;" src="/images/cw3.png">
 <h4><strong>Cyber Wellness Booth Activities during Gratitude&nbsp;Week 2018</strong></h4>
-<p><strong>Booth Activities &amp; Games</strong></p>
+<p><strong><span style="text-decoration: underline;">Booth Activities &amp; Games</span></strong></p>
 <p>The ambassadors created a number of activities and games meant to help them to educate their peers on the importance of cyber wellness. In the creation of these games, ambassadors have to integrate what they learnt and present them through the games.</p>
 <p><strong><span style="text-decoration: underline;">The activities and games include:</span></strong></p>
 <strong>Wheel of Questions</strong>
