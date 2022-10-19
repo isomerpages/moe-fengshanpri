@@ -2,5 +2,6 @@ collections:
   links:
     output: true
     order:
+      - For Pupils.md
       - For Parents.md
       - For Staff.md
