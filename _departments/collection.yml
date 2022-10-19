@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/.keep
       - ICT/ICT.md
       - ICT/Programme & Activities.md
       - ICT/Home Based Learning.md
