@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education/Lower Primary Sports.md
       - Physical Education/P3&P4 Swim–Safer Programme.md
       - Physical Education/.keep
