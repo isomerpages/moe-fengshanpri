@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - The In–Box.md
       - Leadership Development Programme.md
       - Reach Out For The Stars.md
       - Compassion Week.md
