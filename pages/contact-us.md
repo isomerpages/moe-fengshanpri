@@ -18,6 +18,11 @@ contacts:
   - content:
       - phone: +65 6586 0123
       - email: fsps@moe.edu.sg
-      - other: "Nearest MRT Station: Bedok MRT Station Buses: 17, 18, 45"
+      - other: "Nearest MRT Station: Bedok MRT Station"
     title: Telephone
+  - content:
+      - phone: +65 6585 0122
+      - email: ""
+      - other: "Buses: 17, 18, 45"
+    title: Fax
 ---
