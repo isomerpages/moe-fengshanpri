@@ -2,6 +2,7 @@ collections:
   fengshan-family:
     output: true
     order:
+      - Partnership/PSG.md
       - Partnership/SAC.md
       - Partnership/Alumni.md
       - Partnership/Whee! Canopus@Fengshan.md
