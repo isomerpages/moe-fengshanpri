@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
+      - English/.keep
+      - English/English.md
       - English/Overview.md
       - English/Key Programmes and Events.md
       - English/Read @ Home in FSPS.md
-      - English/English.md
-      - English/.keep
       - Mathematics/Mathematics.md
       - Mathematics/Overview.md
       - Mathematics/Events, Programmes & School Activities.md
