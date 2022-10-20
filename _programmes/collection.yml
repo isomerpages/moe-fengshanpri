@@ -2,6 +2,8 @@ collections:
   programmes:
     output: true
     order:
+      - "P6 Champion Mindset: Enhanced Learning Experience (ELE) using SAMLABs
+        STEAM kit & Lego.md"
       - Champion Mindset Attitude @ FSPS.md
       - MOE’s Sexuality Education.md
       - Character Focused Programme.md
