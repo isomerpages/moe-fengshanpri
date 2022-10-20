@@ -2,36 +2,37 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue.md
       - Departments.md
       - English/.keep
       - English/English.md
       - English/Overview.md
       - English/Key Programmes and Events.md
       - English/Read @ Home in FSPS.md
+      - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/Overview.md
       - Mathematics/Events, Programmes & School Activities.md
       - Mathematics/Assessments.md
       - Mathematics/Teaching Approaches.md
-      - Mathematics/.keep
+      - Mother Tongue.md
       - Mother Tongue/.keep
+      - Science/.keep
       - Science/Science.md
       - Science/Overview.md
       - Science/Learning Environment.md
       - Science/Programme Highlights.md
       - Science/Information and Resources.md
-      - Science/.keep
+      - ICT/.keep
       - ICT/ICT.md
       - ICT/Programme & Activities.md
       - ICT/Home Based Learning.md
       - ICT/Cyber Wellness.md
-      - ICT/.keep
+      - Character & Citizen Education/.keep
       - Character & Citizen Education/Character & Citizenry Education (CCE).md
       - Character & Citizen Education/Overview.md
       - Character & Citizen Education/Programmes.md
-      - Character & Citizen Education/.keep
       - Aesthetics.md
+      - Physical Education/.keep
       - Physical Education/Physical Education.md
       - Physical Education/PE Overview.md
       - Physical Education/Learning for Life Programme.md
@@ -40,4 +41,3 @@ collections:
       - Physical Education/Inter–Class Games.md
       - Physical Education/Lower Primary Sports.md
       - Physical Education/P3&P4 Swim–Safer Programme.md
-      - Physical Education/.keep
