@@ -32,7 +32,6 @@ description: ""
 <p>7.The Primary 5 &amp; 6 Growing Years (GY) package, &ldquo;Curious Minds (2<sup>nd</sup>&nbsp;Edition)&rdquo;, aims to meet students&rsquo; developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate&nbsp;<em>changes</em>, build healthy&nbsp;<em>relationships</em>, especially online relationships, and exercise&nbsp;<em>safety</em>.</p>
 <p><strong>At Fengshan Primary School, the following lessons from the Growing Years Programme will be taught:</strong></p>
 <p><strong>Primary 5</strong></p>
-<p><strong>&nbsp;</strong></p>
 <table>
 <thead>
 <tr>
@@ -150,4 +149,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-
