@@ -26,3 +26,38 @@ third_nav_title: Tamil
 </tr>
 </tbody>
 </table>
+<p><strong>PROGRAMMES FOR 2016</strong></p>
+<table cellspacing="0" cellpadding="0">
+<thead>
+<tr>
+<th scope="col">LEVEL</th>
+<th scope="col">ACTIVITIES</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>P1</td>
+<td>&ndash; Show N Tell with Agal Vilakku Painting (Enrichment class)<br />&ndash; PERI Holistic Assessment<br />&ndash; Moo-o Reading Platform<br />&ndash; MT Camp<br />&ndash; MT Fortnight Activities</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>&ndash; Pongal Pot Painting with Extended writing activity (Enrichment class)<br />&ndash; PERI Holistic Assessment<br />&ndash; Koobits (E-book creation)<br />&ndash; MT Fortnight Activities</td>
+</tr>
+<tr>
+<td>P3</td>
+<td>&ndash; Poetry Recitation (Enrichment class)<br />&ndash; PERI Holistic Assessment<br />&ndash; Murasu Anjal Touch Typing training<br />&ndash; MT Fortnight Activities</td>
+</tr>
+<tr>
+<td>P4</td>
+<td>&ndash; Poetry Creation (Enrichment class)<br />&ndash; PERI Holistic Assessment<br />&ndash; Edmodo , iMTL Portal<br />&ndash; MT Fortnight Activities</td>
+</tr>
+<tr>
+<td>P5</td>
+<td>&ndash; Tamil Literature (Enrichment class)<br />&ndash; PERI Holistic Assessment<br />&ndash; Edmodo, iMTL Portal,<br />&ndash; MT Fortnight Activities</td>
+</tr>
+<tr>
+<td>P6</td>
+<td>&ndash; PERI Holistic Assessment<br />&ndash; Edmodo, iMTL Portal, Quizlet<br />&ndash; MT Fortnight Activities</td>
+</tr>
+</tbody>
+</table>
