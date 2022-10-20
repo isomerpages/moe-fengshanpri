@@ -149,3 +149,113 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong>Primary 6</strong></p>
+<table>
+<thead>
+<tr>
+<td><strong>UNIT</strong></td>
+<td><strong>LESSONS / DURATION</strong></td>
+<td><strong>Lesson Objectives</strong>
+<p><strong>At the end of the lesson, pupils will be able to:</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5">Are We More Than Friends?</td>
+<td>
+<p>Who Are My Friends?</p>
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Identify the qualities of a healthy friendship</li>
+<li>Recognise the importance of making wise choices in friendship</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>Am I A Good Friend?</p>
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Identify the qualities that they have as a friend</li>
+<li>Recognise the importance of developing in oneself the qualities of a good friend</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>What is Love?
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Identify the characteristics of love and infatuation</li>
+<li>Distinguish between the characteristics of love versus infatuation</li>
+<li>Identify strong feelings arising from infatuation</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>Am I Falling In Love?</p>
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Manage strong feelings arising from infatuation</li>
+<li>Identify ways to manage and cope with teasing from peers</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Main Task
+<p>(30 min)</p>
+</td>
+<td>Description of the Main Task:
+<p>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">Friends or Foes?</td>
+<td>
+<p>Are You Really My Friend?</p>
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Identify the pros and cons of forming relationships through social networking websites</li>
+<li>Know ways to keep themselves safe when using social networking websites</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Is It All Safe?
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Know that some information (like pornography) received through the Internet may be harmful</li>
+<li>Know ways to keep themselves safe when using social networking websites or the Internet</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Main Task
+<p>(30 min)</p>
+</td>
+<td>Description of the Main Task:
+<p>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.&nbsp; These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Information for Parents</strong></p>
+<ol start="8">
+<li>Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
+<li>Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme</strong>&nbsp;need to complete an opt-out form which is found&nbsp;<a href="/files/SED-opt-out-form.pdf" target="_blank" rel="noopener">here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office. We will inform you when the form is ready.</li>
+<li>Parents can contact the school at 6586 0123 or email the school at&nbsp;<a href="mailto:fsps@moe.edu.sg">fsps@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</li>
+<li>Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</li>
+</ol>
