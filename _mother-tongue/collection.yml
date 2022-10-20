@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Tamil/Tamil.md
       - Tamil/Overview.md
       - Tamil/Programmes.md
       - Tamil/.keep
