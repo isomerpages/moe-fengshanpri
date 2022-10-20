@@ -27,3 +27,127 @@ description: ""
 <li>Form Teacher Guidance Period (FTGP)</li>
 <li>Character and Citizenship Education (CCE)</li>
 </ul>
+<p><strong><u>Growing Years (GY) Programme</u></strong>: &ldquo;Curious Minds (2<sup>nd</sup>&nbsp;Edition)&rdquo; (Primary 5 &amp; 6) Teaching &amp; Learning resource package</p>
+<p>6.The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. &ldquo;Curious Minds&rdquo; is a response to these challenges.</p>
+<p>7.The Primary 5 &amp; 6 Growing Years (GY) package, &ldquo;Curious Minds (2<sup>nd</sup>&nbsp;Edition)&rdquo;, aims to meet students&rsquo; developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate&nbsp;<em>changes</em>, build healthy&nbsp;<em>relationships</em>, especially online relationships, and exercise&nbsp;<em>safety</em>.</p>
+<p><strong>At Fengshan Primary School, the following lessons from the Growing Years Programme will be taught:</strong></p>
+<p><strong>Primary 5</strong></p>
+<p><strong>&nbsp;</strong></p>
+<table>
+<thead>
+<tr>
+<td><strong>UNIT</strong></td>
+<td><strong>LESSONS / DURATION</strong></td>
+<td>
+<p><strong>Lesson Objectives</strong></p>
+<p><strong>At the end of the lesson, pupils will be able to:</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">Gosh! I Am Changing</td>
+<td>
+<p>What Is Happening To Me?</p>
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Know what puberty is</li>
+<li>Identify the physical changes during puberty</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>What Can I Do? (Part 1)</p>
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Identify the stresses caused by physical and emotional changes during puberty</li>
+<li>Describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</li>
+<li>Describe the emotions caused by physical changes during puberty</li>
+<li>Recognise that one&rsquo;s identity does not change even when one&rsquo;s body is experiencing change due to puberty</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>What Can I Do? (Part 2)</p>
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Identify the stresses caused by physical and emotional changes during puberty</li>
+<li>Describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty</li>
+<li>Describe the emotions caused by physical changes during puberty</li>
+<li>Recognise that one&rsquo;s identity does not change even when one&rsquo;s body is experiencing change due to puberty</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>Main Task</p>
+<p>(30 min)</p>
+</td>
+<td>Description of the Main Task:
+<p>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</p>
+</td>
+</tr>
+<tr>
+<td>Where I Belong</td>
+<td>
+<p>What Are Families?</p>
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Know that there are different types of family structures</li>
+<li>Know that every family is unique</li>
+<li>State that the three basic functions of families are to provide love, protection and guidance</li>
+<li>Identify the right sources of help to turn to when in need</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Where I Belong</td>
+<td>
+<p>What is My Role?</p>
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Know that gender is about being male or female</li>
+<li>Choose not to stereotype by gender</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2">How Do I Keep Myself Safe?</td>
+<td>What is Safety?
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Know what sexual abuse is</li>
+<li>Know that there are laws in Singapore that can protect them from sexual abuse</li>
+<li>Know their rights in keeping themselves safe from sexual abuse</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p>Stop It! Run! Tell!</p>
+<p>(30 min)</p>
+</td>
+<td>
+<ul>
+<li>Protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult</li>
+<li>Know their responsibilities in minimising the risk of sexual harm</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
