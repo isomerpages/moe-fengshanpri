@@ -3,84 +3,21 @@ title: Exco Members
 permalink: /fengshan-family/exco/
 description: ""
 ---
-<table>
-<thead>
-<tr>
-<th style="text-align: center;">Name</th>
-<th style="text-align: center;">Designation</th>
-<th style="text-align: center;">Email</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Mdm Veronica Guo Liyan</td>
-<td>HOD MT</td>
-<td><a href="mailto:guo_liyan_veronica@moe.edu.sg" target="_blank" rel="noreferrer noopener">guo_liyan_veronica@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mdm Shanaz Nazeeha Ramli</td>
-<td>HOD ICT</td>
-<td><a href="mailto:shanaz_nazeeha_ramli@moe.edu.sg" target="_blank" rel="noreferrer noopener">shanaz_nazeeha_ramli@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mr Cheng Hak Keong</td>
-<td>HOD Math</td>
-<td><a href="mailto:cheng_hak_keong@moe.edu.sg" target="_blank" rel="noreferrer noopener">cheng_hak_keong@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mr Matthias Chua</td>
-<td>HOD Aesthetics</td>
-<td><a href="mailto:chua_khim_meng_matthias@moe.edu.sg" target="_blank" rel="noreferrer noopener">chua_khim_meng_matthias@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Ms Tan Chwee Li</td>
-<td>HOD Science</td>
-<td><a href="mailto:tan_chwee_li@moe.edu.sg" target="_blank" rel="noreferrer noopener">tan_chwee_li@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mdm Suriani Sabtu</td>
-<td>HOD EL-CV</td>
-<td><a href="mailto:suriani_sabtu@moe.edu.sg" target="_blank" rel="noreferrer noopener">suriani_sabtu@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mr Teo Choon Hoe Ivan</td>
-<td>HOD PE/CCA</td>
-<td><a href="mailto:ivan_teo@moe.edu.sg" target="_blank" rel="noreferrer noopener">ivan_teo@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mdm Zarinah Bte Mohamed Hussain</td>
-<td>LH/EL</td>
-<td><a href="mailto:zarinah_mohamed_hussain@moe.edu.sg" target="_blank" rel="noreferrer noopener">zarinah_mohamed_hussain@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mr Clement Lim</td>
-<td>LH/CL</td>
-<td><a href="mailto:lim_shihong_clement@moe.edu.sg" target="_blank" rel="noreferrer noopener">lim_shihong_clement@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mdm Hazliana Bte Mahat</td>
-<td>SH/ICT</td>
-<td><a href="mailto:hazliana_mahat@moe.edu.sg" target="_blank" rel="noreferrer noopener">hazliana_mahat@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Ms Shanthi Panjiawarnam</td>
-<td>YH/LP</td>
-<td><a href="mailto:shanthi_premkumar@moe.edu.sg" target="_blank" rel="noreferrer noopener">shanthi_premkumar@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mrs Cindy Leisinger</td>
-<td>AYH/P5</td>
-<td><a href="mailto:ho_xin_ying_cindy@moe.edu.sg" target="_blank" rel="noreferrer noopener">ho_xin_ying_cindy@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mr Jumadi Bin Ahmad</td>
-<td>SH PE/CCA</td>
-<td><a href="mailto:jumadi_b_ahmad@moe.edu.sg" target="_blank" rel="noreferrer noopener">jumadi_b_ahmad@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mdm Hafidah Mahat (ML)</td>
-<td>AYH/P1</td>
-<td><a href="mailto:hafidah_mahat@schools.gov.sg" target="_blank" rel="noreferrer noopener">hafidah_mahat@schools.gov.sg</a></td>
-</tr>
-</tbody>
-</table>
+  
+
+| Name | Designation | Email |
+| --- | --- | --- |
+| Mdm Veronica Guo Liyan | HOD MT | [guo\_liyan\_veronica@moe.edu.sg](mailto:guo_liyan_veronica@moe.edu.sg) |
+| Mdm Shanaz Nazeeha Ramli | HOD ICT | [shanaz\_nazeeha\_ramli@moe.edu.sg](mailto:shanaz_nazeeha_ramli@moe.edu.sg) |
+| Mr Cheng Hak Keong | HOD Math | [cheng\_hak\_keong@moe.edu.sg](mailto:cheng_hak_keong@moe.edu.sg) |
+| Mr Matthias Chua | HOD Aesthetics | [chua\_khim\_meng\_matthias@moe.edu.sg](mailto:chua_khim_meng_matthias@moe.edu.sg) |
+| Ms Tan Chwee Li | HOD Science | [tan\_chwee\_li@moe.edu.sg](mailto:tan_chwee_li@moe.edu.sg) |
+| Ms Hee Fei Ling | YH/LP | [hee\_fei\_ling@moe.edu.sg](mailto:hee_fei_ling@moe.edu.sg) |
+| Mr Teo Choon Hoe Ivan | HOD PE/CCA | [ivan\_teo@moe.edu.sg](mailto:ivan_teo@moe.edu.sg) |
+| Mdm Zarinah Bte Mohamed Hussain | LH/EL | [zarinah\_mohamed\_hussain@moe.edu.sg](mailto:zarinah_mohamed_hussain@moe.edu.sg) |
+| Mdm Michelle Moi | LH/MA |  |
+| Mdm Hazliana Bte Mahat | SH/ICT | [hazliana\_mahat@moe.edu.sg](mailto:hazliana_mahat@moe.edu.sg) |
+| Ms Shanthi Panjiawarnam | YH/LP | [shanthi\_premkumar@moe.edu.sg](mailto:shanthi_premkumar@moe.edu.sg) |
+| Mrs Cindy Leisinger | AYH/P5 | [ho\_xin\_ying\_cindy@moe.edu.sg](mailto:ho_xin_ying_cindy@moe.edu.sg) |
+| Mr Jumadi Bin Ahmad | SH PE/CCA | [jumadi\_b\_ahmad@moe.edu.sg](mailto:jumadi_b_ahmad@moe.edu.sg) |
+| Mdm Hafidah Mahat (ML) | AYH/P1 | [hafidah\_mahat@schools.gov.sg](mailto:hafidah_mahat@schools.gov.sg) |
