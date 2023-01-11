@@ -2,7 +2,6 @@ collections:
   fengshan-family:
     output: true
     order:
-      - Fengshan Family.md
       - Fengshan School Leaders.md
       - Exco Members.md
       - Our Teaching Staff.md
