@@ -18,4 +18,8 @@ sections:
         - title: ECHA Nomination Form
           description: The Edusave Character Award...
           url: /lp_announcement/edusave-character-awardecha-nomination-form-for-stakeholders-parents-coaches-psg/
+  - infobar:
+      title: Happy Chinese Year
+      description: click below to go to new site
+      button: Button Text
 ---
