@@ -46,4 +46,14 @@ KCare Operating Hours:** 7.00 am to 7.00 pm
 	
 Email to our school:  [mk@fengshan@moe.edu.sg](mailto:mk_fengshan@moe.edu.sg)
 	
+# MK Orientation K1 Slides 2022
+
+The Link to the MK@Fengshan K1 Orientation in 2022:
+	MK@FS-Slides-for-K1-Orientation_2022.pdf)
 	
+# MK Application Form
+	
+Link to the application is here:
+[MK@Fengshan Application Form](https://form.gov.sg/61ca9082b3479f00125adcde)
+	
+Step-by-Step guide to the form: [MK Waitlist Guide](https://go.gov.sg/mk-waitlist-guide)
