@@ -49,7 +49,7 @@ Email to our school:  [mk@fengshan@moe.edu.sg](mailto:mk_fengshan@moe.edu.sg)
 # MK Orientation K1 Slides 2022
 
 The Link to the MK@Fengshan K1 Orientation in 2022:
-	MK@FS-Slides-for-K1-Orientation_2022.pdf
+[Link to download the slides]()
 	
 # MK Application Form
 	
