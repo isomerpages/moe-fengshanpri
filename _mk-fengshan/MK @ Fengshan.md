@@ -4,27 +4,15 @@ permalink: /mk-fengshan/
 description: ""
 ---
 
-<img src="/images/mk1.png">
-<p>We are pleased to share with you that MOE will be setting up an MOE Kindergarten (MK) within Fengshan Primary School. The MK at Fengshan Primary School will enroll Kindergarten 1 (K1) children from January 2023.</p>
-<p>MOE has been running MKs since 2014 to provide <strong><em>A Strong Start for Every Child</em></strong>. The MK Curriculum nurtures children holistically so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy. To date, there are 28 MKs across Singapore, with another 8 MKs starting operations each year in January 2021 and 2022.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/mk2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/mk3.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/mk4.jpg"></td>
-</tr>
-</tbody>
-</table>
-<p>MOE has been running MKs since 2014 to provide **_A Strong Start for Every Child_**. The MK Curriculum nurtures children holistically so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy. To date, there are 28 MKs across Singapore, with another 8 MKs starting operations each year in January 2021 and 2022.
 
-Parents may visit the following links to find out more about the curriculum ([MK Curriculum](http://www.moe.gov.sg/preschool/moe-kindergarten/curriculum)) and learning environment ([MK Virtual Tour](https://www.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour)).
+**2023 MOE Kindergarten @ Fengshan Open House**
 
-Our MK collaborates with the following Early Years Centres:
+Our MK@Fengshan Open House will be held on 18 February 2023 from 9.00am to 1.00pm. This is the first time in three years that we are holding a physical event.
 
-PCF Sparkletots Preschool @ Bedok North Ave 2 Blk 409
+We warmly welcome you and your child to sign up for the Open House to find out why MK is the quality preschool choice and how we ignite joy of learning in our children!  
+[](https://go.gov.sg/mkopenhouse2023web)Sign up for MK@Fengshan Open House [here](https://go.gov.sg/mkopenhouse2023pmk)!
 
-We look forward to welcoming you and your child in 2023.
+For more information on the 2023 MK Open House, please visit the [MOE MK website](https://www.moe.gov.sg/mk).
 	
 # MK@Fengshan Links
 	
