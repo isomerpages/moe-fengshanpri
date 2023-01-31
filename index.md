@@ -8,7 +8,6 @@ notification: Dear Visitor, the website is currently undergoing updates and as
   our school is migrating to a new website
 sections:
   - hero:
-      background: /images/banner.gif
       key_highlights:
         - title: Our History
           description: Learn our school history
