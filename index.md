@@ -15,6 +15,5 @@ sections:
         - title: Announcement
           description: School Latest Announcement
           url: /lp_announcement/edusave-character-awardecha-nomination-form-for-stakeholders-parents-coaches-psg/
-      background: /images/Homepage Design/Anchored Hearts, Driven Minds, Leaders of
-        Tomorrow.png
+      background: /images/Homepage Design/Homepage Final v1.png
 ---
