@@ -13,14 +13,16 @@ third_nav_title: Science
 <h4><strong>Science Committee Members:</strong></h4>
 <p><strong>HOD</strong></p>
 <p>Miss Tan Chwee Li</p>
+<p><strong>LH (Internal)</strong></p>
+<p>Miss Geraldine Ma Wanting</p>
 <p><strong>ST</strong></p>
-<p>Mdm Tan Ai Ling</p>
 <p>Miss Xu Hui Min</p>
 <p><strong>Members</strong></p>
-<p>Mrs Cheryl Phua</p>
-<p>Mrs Cindy Leisinger</p>
-<p>Mr James Wong</p>
+<p>Mr Phoon Yee Pung</p>
+<p>Mrs Vanessa Chan</p>
 <p>Mrs Katherine Phoon</p>
 <p>Mr Mark Tay</p>
-<p>Mr Phoon Yee Pung</p>
+<p>Ms Xu Fang Ling</p>
+<p>Ms Winnie Teng</p>
+
 <p>Mdm Rashida Mohamed Shariff</p>
