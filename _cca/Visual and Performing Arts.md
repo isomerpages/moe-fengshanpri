@@ -3,40 +3,126 @@ title: Visual and Performing Arts
 permalink: /cca/visual-and-performing-arts/
 description: ""
 ---
-<h4><strong>Choir</strong></h4>
-<p><strong>Schedule:<br /></strong>P3 to P6 &ndash; Tuesday (2:10pm &ndash; 4:10pm)</p>
-<p><strong>Venue:<br /></strong>ISH Multi-purpose Room (Lvl 1)</p>
-<p><strong>Teachers I/C:</strong><br />Mrs Micki Koh*<br />Mr Alwin Tien<br />Ms Tay Rui Shan<br />Ms Allen Losey</p>
-<hr />
-<h4><strong>Concert Band</strong></h4>
-<p><strong>Schedule:<br /></strong>P3 to P6 &ndash; Tuesday (2:10pm &ndash; 4:10pm)</p>
-<p><strong>Venue:<br /></strong>Band Room</p>
-<p><strong>Teachers I/C:<br /></strong>Mdm Nuradilah*<br />Mdm Haslina<br />Ms Lee Sok Kiang<br />Ms Geraldine Ma<br />Mdm Lian Zimin</p>
-<hr />
-<h4><strong>Chinese Dance</strong></h4>
-<p><strong>Schedule:<br /></strong>P3 to P6 &ndash; Tuesday (2:10pm &ndash; 4:10pm)</p>
-<p><strong>Venue:<br /></strong>ISH Dance Studio</p>
-<p><strong>Teachers I/C :<br /></strong>Ms Goh Qin Ying*<br />Ms Huang Chiung-Yao<br />Ms Hu Xuan Xuan</p>
-<div><hr /></div>
-<h4><strong>Indian Dance</strong></h4>
-<p><strong>Schedule:<br /></strong>P3 to P6 &ndash; Tuesday (2:10pm &ndash; 4:10pm),</p>
-<p><strong>Venue:<br /></strong>Library</p>
-<p><strong>Teachers I/C:<br /></strong>Ms Meera*<br />Mrs Haja<br />Mrs Ganesan<br /><strong>Instructor:</strong> Ms Kamariah Bte Yusuf</p>
-<div><hr /></div>
-<h4><strong>Malay Dance (inclusive of Malay LDDS)</strong></h4>
-<p><strong>Schedule:<br /></strong>P3 to P6 &ndash; Tuesday (2:10pm &ndash; 4:10pm)</p>
-<p><strong>Venue:<br /></strong>PAL Room</p>
-<p><strong>Teachers I/C:<br /></strong>Mdm Fatihah*<br />Mdm Raba&rsquo;ah<br />Mdm Suzana<br />Mdm Farhana<br /><strong>Instructor:</strong>&nbsp;Nur Saliza Mohd Salleh (Fitness Arts Pte Ltd)</p>
-<div><hr /></div>
-<h4><strong>Photography Club</strong></h4>
-<p><strong>Schedule:<br /></strong>P3 to P6 &ndash; Tuesday (2:00pm &ndash; 4:00pm)</p>
-<p><strong>Venue:<br /></strong>Computer Lab 3</p>
-<p><strong>Teachers I/C:<br /></strong>Ms Koh Jing Han*<br />Mdm Zhao Qianxi<br />Ms Chia Soo Yin</p>
-<div><hr /></div>
-<h4><strong>Art&nbsp;Club</strong></h4>
-<p><strong>Schedule:<br /></strong>P3 to P6 &ndash; Tuesday (2:10pm &ndash; 4:10pm)</p>
-<p><strong>Venue:<br /></strong>Art Room</p>
-<p><strong>Teachers I/C:<br /></strong>Ms June Chong Chia Fong*<br />Mdm Nur Nadiah</p>
+Choir
+-----
+
+**Schedule:**
+
+P3 to P6 – Tuesday (2:30pm – 4:30pm)
+
+**Venue:**
+
+ISH Multi-purpose Room (Lvl 1)
+
+**Teachers I/C:**  
+Ms Allen Losey\*
+
+Ms Huang Chiung Yao
+
+Mdm Zhao Qianxi
+
+* * *
+
+Concert Band
+------------
+
+**Schedule:**
+
+P3 to P6 – Tuesday (2:30pm – 4:30pm)
+
+**Venue:**
+
+Band Room
+
+**Teachers I/C:**
+
+Mdm Nuradilah\*
+
+Mrs Ganesan  
+Ms Lee Sok Kiang
+
+Mdm Lian Zimin
+
+* * *
+
+Chinese Dance
+-------------
+
+**Schedule**
+
+P3 to P6 – Tuesday (2:30pm – 4:30pm)
+
+**Venue:**
+
+ISH Dance Studio
+
+**Teachers I/C :**
+
+Ms Goh Qin Ying\*  
+Ms Hu Xuan Xuan
+
+* * *
+
+**Indian Dance**
+----------------
+
+**Schedule:**
+
+P3 to P6 – Tuesday (2:30pm – 4:30pm),
+
+**Venue:**
+
+Library
+
+**Teachers I/C:**
+
+Ms Meera\*  
+Mrs Haja
+
+**Instructor:**  Ms Kamariah Bte Yusuf
+
+* * *
+
+Malay Dance (inclusive of Malay LDDS)
+-------------------------------------
+
+ **Schedule:**
+
+P3 to P6 – Tuesday (2:30pm – 4:30pm)
+
+**Venue:**
+
+PAL Room
+
+**Teachers I/C:**
+
+Mdm Fatihah\*
+
+Mdm Raba’ah
+
+**Instructor:** Nur Saliza Mohd Salleh (Fitness Arts Pte Ltd)
+
+* * *
+
+##### **Visual Art Club**
+
+**Schedule :**
+
+P3 to P6 – Tuesday (2:30pm – 4:30pm)
+
+**Venue:**
+
+Art Room
+
+**Teachers I/C :**
+
+Ms June Chong Chia Fong\*
+
+Ms Koh Jing Han
+
+Mdm Nur Nadiah
+
+Ms Chia Soo Yin
 <p><strong>Performing Arts groups at the Singapore Youth Festival</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
