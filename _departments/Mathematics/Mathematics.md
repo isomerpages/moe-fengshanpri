@@ -22,8 +22,7 @@ third_nav_title: Mathematics
 <td style="text-align: center;">HOD Mathematics</td>
 </tr>
 <tr>
-<td>Ms Lisa Koh Sok Ling</td>
-<td style="text-align: center;">LH Mathematics (Internal)</td>
+
 </tr>
 <tr>
 <td>Mdm Marcellian Arlany</td>
@@ -46,8 +45,8 @@ third_nav_title: Mathematics
 <td style="text-align: center;">P3</td>
 </tr>
 <tr>
-<td>Mrs Sharon Lee Hong Yoke</td>
-<td style="text-align: center;">P3</td>
+
+<
 </tr>
 <tr>
 <td>Mdm Farhana Begum d/o Abd Jabbar</td>
