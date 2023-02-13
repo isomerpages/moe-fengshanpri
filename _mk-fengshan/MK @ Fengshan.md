@@ -4,7 +4,7 @@ permalink: /mk-fengshan/
 description: ""
 ---
 ## 2023 MOE Kindergarten @ Fengshan Open House
-![](/images/MK@Fengshan%202023%20Open%20House.png)
+![](/images/MF%20Fengshan%20Open%20House%202023.png)
 
 Our MK@Fengshan Open House will be held on 18 February 2023 from 9.00am to 1.00pm. This is the first time in three years that we are holding a physical event.
 
