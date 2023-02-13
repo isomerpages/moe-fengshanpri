@@ -7,8 +7,8 @@ Student ICT Learning Site
 -------------------------
 
 1.  [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-2.  [Student iCON](https://workspace.google.com/dashboard)   [Student iCON Login Guide](https://fengshanpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2021/09/Student-iCON-Onboarding-Guide-V2.1-31-Aug.pdf)
-3.  [OPAC Website](https://schoolibrary.moe.edu.sg/fengshanpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)        [OPAC Guide](https://fengshanpri-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2022/01/OPACSERR-Guide-for-Students_V2.pdf)      [Offline Form(if OPAC is down)](https://for.edu.sg/fsps-lib-borrowform)
+2.  [Student iCON](https://workspace.google.com/dashboard) [Student iCON Login Guide](/files/Fengshan%20Document%20Links/Student-iCON-Onboarding-Guide-V21-31-Aug.pdf)
+3.  [OPAC Website](https://schoolibrary.moe.edu.sg/fengshanpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)   [OPAC Guide for Student](/files/Fengshan%20Document%20Links/OPACSERR-Guide-for-Students_V2.pdf)     [Offline Form(if OPAC is down)](https://for.edu.sg/fsps-lib-borrowform)
 4.  [Whoos Reading](https://www.whooosreading.org/)
 5.  [SkillsFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 6.  [Schoolbag.sg](https://www.schoolbag.sg/)
