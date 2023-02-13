@@ -13,7 +13,6 @@ third_nav_title: Mathematics
 <h4><strong>Mathematics Committee Members:</strong></h4>
 <table>
 <tbody>
-<tr>
 <td><strong>Name of Member</strong></td>
 <td style="text-align: center;"><strong>Level</strong></td>
 </tr>
