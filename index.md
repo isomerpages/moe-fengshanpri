@@ -15,7 +15,7 @@ sections:
         - title: Announcement
           description: School Latest Announcement
           url: /lp_announcement/edusave-character-awardecha-nomination-form-for-stakeholders-parents-coaches-psg/
-      background: /images/Homepage Design/Homepage Final v 1200x600.png
+      background: /images/Homepage Design/Homepage Final v3.png
   - infopic:
       title: MK @ Fengshan Open House
       subtitle: MK@Fengshan NEws
