@@ -4,6 +4,8 @@ links:
     collection: about-us
   - title: MK @ Fengshan
     url: /mk-fengshan/
+  - title: MK Fengshan
+    collection: mk-fengshan
   - title: Fengshan Family
     collection: fengshan-family
   - title: Departments
@@ -29,5 +31,3 @@ links:
     collection: cca
   - title: Links
     collection: links
-  - title: MK Fengshan
-    collection: mk-fengshan
