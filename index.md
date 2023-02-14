@@ -12,9 +12,9 @@ sections:
         - title: Our History
           description: Learn our school history
           url: /about-us/the-history/
-        - title: Announcement
-          description: School Latest Announcement
-          url: /lp_announcement/edusave-character-awardecha-nomination-form-for-stakeholders-parents-coaches-psg/
+        - title: School Matters
+          description: Our school information
+          url: /about-us/school-matters/
       background: /images/Homepage Design/Homepage Final v 1920x720.png
   - infopic:
       title: MK @ Fengshan Open House
