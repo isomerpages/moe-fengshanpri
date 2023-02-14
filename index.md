@@ -16,4 +16,12 @@ sections:
           description: School Latest Announcement
           url: /lp_announcement/edusave-character-awardecha-nomination-form-for-stakeholders-parents-coaches-psg/
       background: /images/Homepage Design/Homepage Final v 1200x600.png
+  - infopic:
+      title: MK @ Fengshan Open House
+      subtitle: MK@Fengshan NEws
+      description: Opens at 18 February 2023 from 9.00am to 1.00pm
+      button: Click here to register
+      url: https://go.gov.sg/mkopenhouse2023pmk
+      image: /images/Homepage Design/MF Fengshan Open House 2023.png
+      alt: Image alt text
 ---
