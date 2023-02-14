@@ -1,0 +1,16 @@
+---
+title: Character Focused Programme
+permalink: /departments/character-and-citizenry-education-cce/programmes/character-focused-programme/
+description: ""
+---
+<h4><strong>Character and Citizenship Education (CCE)</strong></h4>
+<p><em>The Character &amp; Citizenry Education (CCE) Department focuses on the holistic development of our pupils, with the vision of nurturing morally upright individuals and future leaders imbued with PRRICE values. To realize our vision, we have our own Character Education Package &amp; Lifeskills Programmes.</em></p>
+<p>The Character-Focused Programme is designed for P1-P6 and it introduces PRRICE, our school&rsquo;s core values (Perseverance, Respect, Responsibility, Integrity and Compassion), incorporates SEL competencies as well as essential lifeskills. To acknowledge and reward pupils who exhibit PRRICE values, kindness and good behaviour, the school has a &ldquo;SPOT ME GOOD&rdquo; programme, &lsquo;PRRICE Values Badges&rsquo; award and Edusave Character Award(ECHA). The Conduct Grade for pupils is also derived using the Holistic Report Grade scoring using PRRICE values indicators.</p>
+<p>In line with the school&rsquo;s vision of developing &ldquo;Leaders of Tomorrow&rdquo;, the leadership development programme is based on expanding spheres of influence. The pupils are first taught how to lead themselves by managing their own behaviour and gradually learn to lead others in the school as leaders in the classroom or the school. There is a progressive training programme for the Core student leaders as they learn how to become PERSONAL, PEER and PEOPLE leaders. The school&rsquo;s structured leadership programme provides opportunities to develop and hone every pupil&rsquo;s leadership qualities. Every class adopts a leadership development focus as pupils are rostered termly to take on leadership roles in the class. Leadership training is provided by various departments for the respective Pupil Leaders, like ICT leaders and Bully-free leaders. Outstanding leaders are nominated for EAGLES award.</p>
+<p>Our Case Management Team (CMT) aims to assist the school in consolidating their resources in the effective management of pupils with emotional needs, learning disabilities and behavioural problems. To cater to the well-being needs of the pupils in school, the&nbsp;Kidsloft@ Fengshan Student Care Centre was established to provide after-school-care and to equip the pupils with lifeskills. In addition, the Supervised Study Time (SST) programme was launched to cater to the learning needs of the P6 pupils who required a conducive study environment after school hours.</p>
+<p>To ensure that pupils have a say in the school, the department has a &ldquo;Student Suggestion Scheme (SSS)&rsquo;, whereby the pupils&rsquo; suggestions are factored into the development of school programme and the improvement of processes in the school.</p>
+<p>Through its programmes and initiatives, the CCE department hopes to develop leaders of tomorrow with good character and the determination to succeed in the future.</p>
+<h4><strong>CCP Structure:</strong></h4>
+<img src="/images/cfp1.png"><br>
+<img src="/images/cfp2.jpg"><br>
+<img src="/images/cfp3.png">

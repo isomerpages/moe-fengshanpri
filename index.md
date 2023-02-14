@@ -1,32 +1,30 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Fengshan Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo1.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Dear Visitor, the website is currently undergoing updates and as
+  our school is migrating to a new website
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: Our History
+          description: Learn our school history
+          url: /about-us/the-history/
+        - title: Vision and mission
+          description: Fengshan vision and mission
+          url: /about-us/vision-and-mission/
+        - title: School Matters
+          description: Our school information
+          url: /about-us/school-matters/
+      background: /images/Homepage Design/Homepage Final v 1920x720.png
+  - infopic:
+      title: MK @ Fengshan Open House
+      subtitle: MK@Fengshan NEws
+      description: Opens at 18 February 2023 from 9.00am to 1.00pm
+      button: Click here to register
+      url: https://go.gov.sg/mkopenhouse2023pmk
+      image: /images/Homepage Design/MF Fengshan Open House 2023.png
+      alt: Image alt text
 ---
-

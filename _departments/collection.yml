@@ -1,0 +1,42 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Departments.md
+      - English/.keep
+      - English/English.md
+      - English/Overview.md
+      - English/Key Programmes and Events.md
+      - English/Read @ Home in FSPS.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Overview.md
+      - Mathematics/Events, Programmes & School Activities.md
+      - Mathematics/Assessments.md
+      - Mathematics/Teaching Approaches.md
+      - Mother Tongue.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Overview.md
+      - Science/Learning Environment.md
+      - Science/Programme Highlights.md
+      - Science/Information and Resources.md
+      - ICT/.keep
+      - ICT/ICT.md
+      - ICT/Programme & Activities.md
+      - ICT/Home Based Learning.md
+      - ICT/Cyber Wellness.md
+      - Character & Citizen Education/.keep
+      - Character & Citizen Education/Character & Citizenry Education (CCE).md
+      - Character & Citizen Education/Overview.md
+      - Character & Citizen Education/Programmes.md
+      - Aesthetics.md
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/PE Overview.md
+      - Physical Education/Learning for Life Programme.md
+      - Physical Education/PAL Programme.md
+      - Physical Education/Annual Games Day Carnival.md
+      - Physical Education/Inter–Class Games.md
+      - Physical Education/Lower Primary Sports.md
+      - Physical Education/P3&P4 Swim–Safer Programme.md

@@ -1,15 +1,31 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: MK Fengshan
+    collection: mk-fengshan
+  - title: Fengshan Family
+    collection: fengshan-family
+  - title: Departments
+    url: /departments/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Mother Tongue
+        url: /departments/mother-tongue/
+      - title: Science
+        url: /departments/science/
+      - title: ICT
+        url: /departments/ict/
+      - title: Character & Citizen Education
+        url: /departments/character-and-citizenry-education-cce/
+      - title: Aesthetics
+        url: /aesthetics-department/
+      - title: Physical Education
+        url: /departments/physical-education/
+  - title: CCA
+    collection: cca
+  - title: Links
+    collection: links
