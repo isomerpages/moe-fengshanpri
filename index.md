@@ -18,7 +18,6 @@ sections:
         - title: School Matters
           description: Our school information
           url: /about-us/school-matters/
-      background: /images/Homepage Design/Homepage Final v 1920x720.png
   - infopic:
       title: MK @ Fengshan Open House
       subtitle: MK@Fengshan NEws
