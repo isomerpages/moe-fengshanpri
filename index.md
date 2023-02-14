@@ -14,7 +14,7 @@ sections:
           url: /about-us/the-history/
         - title: Vision and mission
           description: Fengshan vision and mission
-          url: ""
+          url: /about-us/vision-and-mission/
         - title: School Matters
           description: Our school information
           url: /about-us/school-matters/
