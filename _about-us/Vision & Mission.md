@@ -22,7 +22,7 @@ description: ""
 </td>
 <td><strong>Anchored Hearts An individual who:</strong>
 <ul>
-<li>Embodies PRRICE values</li>
+<li>Embodies CARES values</li>
 <li>Is rooted to Singapore</li>
 <li>Is loyal and committed to his family, school, community and country, has a sense of identity and global awareness (<em>Confident Person &amp; Concerned Citizen</em>)</li>
 </ul>
