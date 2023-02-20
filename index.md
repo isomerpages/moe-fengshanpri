@@ -18,4 +18,5 @@ sections:
         - title: School Matters
           description: Our school information
           url: /about-us/school-matters/
+      background: /images/Homepage Design/Homepage Final v2 1920x720.png
 ---
