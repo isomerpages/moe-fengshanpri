@@ -18,12 +18,5 @@ sections:
         - title: School Matters
           description: Our school information
           url: /about-us/school-matters/
-  - infopic:
-      title: MK @ Fengshan Open House
-      subtitle: MK@Fengshan NEws
-      description: Opens at 18 February 2023 from 9.00am to 1.00pm
-      button: Click here to register
-      url: https://go.gov.sg/mkopenhouse2023pmk
-      image: /images/Homepage Design/MF Fengshan Open House 2023.png
-      alt: Image alt text
+      background: /images/Homepage Design/Homepage Final v2 1920x720.png
 ---
