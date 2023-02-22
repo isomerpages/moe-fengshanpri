@@ -3,8 +3,6 @@ title: School Services
 permalink: /explore/for-parents/school-vendor-contacts/
 description: ""
 ---
-
-
 <table border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -22,12 +20,12 @@ description: ""
 </td>
 </tr>
 <tr>
-<td width="177"><strong>Asencio Pte. Ltd</strong>
+<td width="177"><strong>In Trend Uniform</strong>
 <p>(<strong>School Uniform supplier)</strong></p>
 </td>
-<td width="192">Sales timing: Every First Thursday of the month at School Canteen except school holidays Office Hotline: 67643102
-<p>Enquiries on School Uniform: <a href="mailto:uniforms@asencio.com.sg" target="_blank" rel="noopener noreferrer">uniforms@asencio.com.sg</a></p>
-<p>Website:&nbsp;<a href="https://asencio.com.sg/" target="_blank" rel="noopener noreferrer">https://asencio.com.sg/</a></p>
+<td width="192">Contact No: 67410930
+Venue: 1 Kaki Bukit Road #01-31 Enterprise One S(415934)
+<p>Website:&nbsp;<a href="https://www.intrenduniforms.com " target="_blank" rel="noopener noreferrer">https://www.intrenduniforms.com </a></p>
 </td>
 </tr>
 <tr>
