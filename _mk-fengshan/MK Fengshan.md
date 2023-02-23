@@ -42,7 +42,6 @@ The Link to the MK@Fengshan K1 Orientation in 2022:
 ### MK Application Form
 	
 Link to the application is here:
-[MK@Fengshan Application Form 2024]
-(https://go.gov.sg/mkfengshanwaitlist)
+[MK@Fengshan Application Form 2024](https://go.gov.sg/mkfengshanwaitlist)
 	
 Step-by-Step guide to the form: [MK Waitlist Guide](https://go.gov.sg/mk-waitlist-guide)
