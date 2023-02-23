@@ -3,11 +3,6 @@ title: MK Fengshan
 permalink: /mk-fengshan/
 description: ""
 ---
-
-
-
-
-
 ## 2023 MOE Kindergarten @ Fengshan Open House
 ![](/images/MF%20Fengshan%20Open%20House%202023.png)
 
@@ -47,6 +42,6 @@ The Link to the MK@Fengshan K1 Orientation in 2022:
 ### MK Application Form
 	
 Link to the application is here:
-[MK@Fengshan Application Form](https://form.gov.sg/61ca9082b3479f00125adcde)
+[MK@Fengshan Application Form]( https://go.gov.sg/mkfengshanwaitlist)
 	
 Step-by-Step guide to the form: [MK Waitlist Guide](https://go.gov.sg/mk-waitlist-guide)
