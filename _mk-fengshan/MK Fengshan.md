@@ -3,11 +3,6 @@ title: MK Fengshan
 permalink: /mk-fengshan/
 description: ""
 ---
-
-
-
-
-
 ## 2023 MOE Kindergarten @ Fengshan Open House
 ![](/images/MF%20Fengshan%20Open%20House%202023.png)
 
@@ -39,14 +34,14 @@ KCare Operating Hours:** 7.00 am to 7.00 pm
 	
 Email to our school:  [mk@fengshan@moe.edu.sg](mailto:mk_fengshan@moe.edu.sg)
 	
-### MK Orientation K1 Slides 2022
+### MK Orientation K1 Slides 2022/3
 
-The Link to the MK@Fengshan K1 Orientation in 2022:
+The Link to the MK@Fengshan K1 Orientation in 2022/3:
 [MK Slides Orientation 2022](/files/MK@Fengshan/MK@FS-Slides-for-K1-Orientation_2022.pdf)
 	
 ### MK Application Form
 	
 Link to the application is here:
-[MK@Fengshan Application Form](https://form.gov.sg/61ca9082b3479f00125adcde)
+[MK@Fengshan Application Form 2024](https://go.gov.sg/mkfengshanwaitlist)
 	
 Step-by-Step guide to the form: [MK Waitlist Guide](https://go.gov.sg/mk-waitlist-guide)
