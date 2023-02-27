@@ -3,7 +3,7 @@ title: School Services
 permalink: /explore/for-parents/school-vendor-contacts/
 description: ""
 ---
-## Fengshan Primary School Vendor Contacts
+## Our School Vendor Contacts
 
 ### Pacific Bookstore (School Bookshop)
 
