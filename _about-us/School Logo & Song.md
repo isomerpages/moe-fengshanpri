@@ -25,7 +25,7 @@ description: ""
 Lyrics by Tan T’zu-Ping
 <br>Music by Cuthbert Choo
 
-
+## Our School Logo
 
 The **strokes** form the letters **“F”**, **“P”** and **“S”** – the initials of Fengshan Primary School.
 
