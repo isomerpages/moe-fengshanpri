@@ -26,10 +26,7 @@ Lyrics by Tan T’zu-Ping
 <br>Music by Cuthbert Choo
 
 ## Our School Logo
-
-<br>
-
-![](/images/School%20Logo%20and%20Photo%20Design/Fengshan%20Pri%20Sch%20Logo%20(no%20bg%20&%20without%20text).png)
+<img src="/images/School%20Logo%20and%20Photo%20Design/Fengshan%20Pri%20Sch%20Logo%20(no%20bg%20&%20without%20text).png" width="50" height="32" alt="Photo of 3 cats">
 
 The **strokes** form the letters **“F”**, **“P”** and **“S”** – the initials of Fengshan Primary School.
 
