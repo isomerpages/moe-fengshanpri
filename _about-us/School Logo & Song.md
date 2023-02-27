@@ -26,7 +26,6 @@ Lyrics by Tan T’zu-Ping
 <br>Music by Cuthbert Choo
 
 ## Our School Logo
-<img src="/images/School%20Logo%20and%20Photo%20Design/Fengshan%20Pri%20Sch%20Logo%20(no%20bg%20&%20without%20text).png" width="50" height="32" alt="Photo of 3 cats">
 
 The **strokes** form the letters **“F”**, **“P”** and **“S”** – the initials of Fengshan Primary School.
 
@@ -35,3 +34,6 @@ The **fiery fluidity of the strokes** represents **diversity** in the expres
 The **maroon colour** captures the **passion and dynamism of the students**, as well as a **caring community spirit**, reflective of the Fengshan heartbeat.
 
 The movement evident in the **upward strokes** portrays the **strive for lifelong learning**. Dual strokes represent unity and teamwork – the school and community working together with mutual trust and collaboration.
+
+<img src="/images/School%20Logo%20and%20Photo%20Design/Fengshan%20Pri%20Sch%20Logo%20(no%20bg%20&%20without%20text).png" width="50" height="32" alt="Photo of 3 cats">
+
