@@ -27,6 +27,10 @@ Lyrics by Tan T’zu-Ping
 
 ## Our School Logo
 
+<br>
+
+![](/images/School%20Logo%20and%20Photo%20Design/Fengshan%20Pri%20Sch%20Logo%20(no%20bg%20&%20without%20text).png)
+
 The **strokes** form the letters **“F”**, **“P”** and **“S”** – the initials of Fengshan Primary School.
 
 The **fiery fluidity of the strokes** represents **diversity** in the expression of talents, and the school’s celebration of achievements.
