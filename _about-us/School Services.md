@@ -7,7 +7,7 @@ description: ""
 <tbody>
 <tr>
 <td colspan="2" width="369">
-<p style="text-align: center;"><strong>Fengshan </strong><strong>Primary School Vendor Contacts</strong></p>
+ <p style="text-align: center;"><strong>Fengshan </strong><strong>Primary School Vendor Contacts</strong></p>
 </td>
 </tr>
 <tr>
@@ -48,13 +48,18 @@ Venue: 1 Kaki Bukit Road #01-31 Enterprise One S(415934)
 </tr>
 <tr>
 <td><strong>Dental clinic</strong></td>
-<td>Telephone No: 64422459
-<p>(Nurse Tan)Opening Hours: 8.00am &ndash; 5.30pm</p>
+<td>Assistant Dental Manager: Mdm Lee H M
+<p></p>
+<p>Telephone No: 89402018</p>
+<p>Monday to Thursdays: 8.00am to 5.30pm
+Fridays: 8.00am to 5.00pm
+
+(Closed during lunch time from 1.00pm to 2.00pm</p>
 <p>Mondays-Thursdays: 8.00am-5.00pm</p>
-<p>Fridays &amp; school holidays: 8.00am-5.00pm</p>
-<p>Closed during lunch time: 12.30-1.30pm</p>
+<p>Fridays: 8.00am-5.00pm</p>
+
 <p>For Emergency:</p>
-<p>Call HPB for appointment:6435 3782</p>
+<p>Call 89402018; 91122045; 89401058</p>
 </td>
 </tr>
 </tbody>
