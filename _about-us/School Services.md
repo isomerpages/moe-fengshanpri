@@ -3,7 +3,7 @@ title: School Services
 permalink: /explore/for-parents/school-vendor-contacts/
 description: ""
 ---
-## Our School Vendor Contacts
+## Our School Services Contacts
 
 ### Pacific Bookstore (School Bookshop)
 
