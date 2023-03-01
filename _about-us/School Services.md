@@ -15,7 +15,8 @@ Website: www.pacificbookstores.com
 ### In Trend Uniform (School Uniform supplier)
 
 Contact No: 67410930 
-Venue: 1 Kaki Bukit Road #01-31 Enterprise One S(415934)
+Venue: 1 Kaki Bukit Road 1 #01-31 Enterprise One S(415934)
+
 Website: https://www.intrenduniforms.com 
 
 ### Kim Chye Bus Services (School Transport)
