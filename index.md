@@ -4,8 +4,8 @@ title: Fengshan Primary School
 description: Brief site description here
 image: /images/logo1.jpg
 permalink: /
-notification: Dear Visitor, the website is currently undergoing updates and as
-  our school is migrating to a new website
+notification: Dear visitor, our website is currently undergoing migration.
+  Please bear with us as we perform updates.
 sections:
   - hero:
       key_highlights:
