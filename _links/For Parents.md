@@ -3,31 +3,20 @@ title: For Parents
 permalink: /explore/for-parents/
 description: ""
 ---
+# Links for Parents
 
-Links
------
+## MOE Website Link
+https://www.moe.gov.sg/
 
-1.  [MOE](https://www.moe.gov.sg/)
-2.  [E-Learning( Student Learning Space or SLS)](https://fengshanpri-moe-edu-sg-admin.cwp.sg/explore/for-parents/e-learning/)﻿
-3.  [Pupils' Travel Declaration](https://fengshanpri-moe-edu-sg-admin.cwp.sg/pupils-travel-declaration/)
-4.  [School Vendor Contacts](https://fengshanpri-moe-edu-sg-admin.cwp.sg/explore/for-parents/school-vendor-contacts/)
-5.  [Parents' Handbook 2023](https://fengshanpri-moe-edu-sg-admin.cwp.sg/lp_announcement/parents-handbook-2023/)   
-6.  [Parent Kit](http://www.moe.gov.sg/parentkit)
+## MOE Parent Kit
+http://www.moe.gov.sg/parentkit
 
-Meet the Parents Session for Primary 2
---------------------------------------
+## Fengshan Parents Handbook 2023
+[Download Parents Handbook 2023](/files/Fengshan%20Document%20Links/PARENT_HANDBOOK_2022.pdf)
 
-Principal Presentation Video on 3 Feb 2023
+### Other Links
 
-[https://drive.google.com/file/d/14B4GNaFcupLd8Aueo5ePZK-fKqy0cyAs/view?usp=share\_link](https://drive.google.com/file/d/14B4GNaFcupLd8Aueo5ePZK-fKqy0cyAs/view?usp=share_link)
+To  go to matters for school services such  school uniform, dental, student care or bookstore, do go to the correct link in the school website  below or  [click here](https://www.fengshanpri.moe.edu.sg/explore/for-parents/school-vendor-contacts/)
 
-(Link will expire on 17 Feb 2023)
-
-Meet the Parents Session for Primary 3 and 4
---------------------------------------------
-
-Principal Presentation Video on 3 Feb 2023
-
-[https://drive.google.com/file/d/1gp9ie9ggcMuf2T4TjoFdTjT1CPLWctUT/view?usp=share\_link](https://drive.google.com/file/d/1gp9ie9ggcMuf2T4TjoFdTjT1CPLWctUT/view?usp=share_link)
-
-(Link will expire on 17 Feb 2023)
+Where to access:
+At the school top menu go to -> "**About Us**". Select "**School Services**"
