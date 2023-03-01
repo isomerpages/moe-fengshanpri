@@ -12,8 +12,7 @@ Student ICT Learning Site
 4.  [Whoos Reading](https://www.whooosreading.org/)
 5.  [SkillsFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 6.  [Schoolbag.sg](https://www.schoolbag.sg/)
-7.  [The In-Box](https://fengshanpri-moe-edu-sg-admin.cwp.sg/departments/character-and-citizenry-education-cce/programmes/the-in-box/)
-8.  [Maths Koobits](https://member.koobits.com/?utm_source=web_nav&utm_medium=btn&utm_campaign=k21web&utm_content=login)
+7.  [Maths Koobits](https://member.koobits.com/?utm_source=web_nav&utm_medium=btn&utm_campaign=k21web&utm_content=login)
 
 Recommended Educational Website
 -------------------------------
