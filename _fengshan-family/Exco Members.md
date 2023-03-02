@@ -3,8 +3,6 @@ title: Exco Members
 permalink: /fengshan-family/exco/
 description: ""
 ---
-  
-
 | Name | Designation | Email |
 | --- | --- | --- |
 | Mdm Veronica Guo Liyan | HOD MT | [guo\_liyan\_veronica@moe.edu.sg](mailto:guo_liyan_veronica@moe.edu.sg) |
@@ -15,7 +13,7 @@ description: ""
 | Ms Hee Fei Ling | YH/LP | [hee\_fei\_ling@moe.edu.sg](mailto:hee_fei_ling@moe.edu.sg) |
 | Mr Teo Choon Hoe Ivan | HOD PE/CCA | [ivan\_teo@moe.edu.sg](mailto:ivan_teo@moe.edu.sg) |
 | Mdm Zarinah Bte Mohamed Hussain | LH/EL | [zarinah\_mohamed\_hussain@moe.edu.sg](mailto:zarinah_mohamed_hussain@moe.edu.sg) |
-| Mdm Michelle Moi | LH/MA |  |
+| Mdm Michelle Moi | LH/MA |[Michelle_Moi@moe.edu.sg](mailto:Michelle_Moi@moe.edu.sg) |
 | Mdm Hazliana Bte Mahat | SH/ICT | [hazliana\_mahat@moe.edu.sg](mailto:hazliana_mahat@moe.edu.sg) |
 | Ms Shanthi Panjiawarnam | YH/LP | [shanthi\_premkumar@moe.edu.sg](mailto:shanthi_premkumar@moe.edu.sg) |
 | Mrs Cindy Leisinger | AYH/P5 | [ho\_xin\_ying\_cindy@moe.edu.sg](mailto:ho_xin_ying_cindy@moe.edu.sg) |

@@ -16,7 +16,7 @@ http://www.moe.gov.sg/parentkit
 
 ### Other Links
 
-To  go to matters for school services such  school uniform, dental, student care or bookstore, do go to the correct link in the school website  below or  [click here](https://www.fengshanpri.moe.edu.sg/explore/for-parents/school-vendor-contacts/)
+For matters pertaining school services such as school uniform, dental, student care or bookstore, please access the correct link in the school website  below or  [click here](https://www.fengshanpri.moe.edu.sg/explore/for-parents/school-vendor-contacts/)
 
-Where to access:
+How to access the school services:
 At the school top menu go to -> "**About Us**". Select "**School Services**"
