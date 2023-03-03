@@ -11,7 +11,7 @@ description: ""
 | Mr Matthias Chua | HOD Aesthetics | [chua\_khim\_meng\_matthias@moe.edu.sg](mailto:chua_khim_meng_matthias@moe.edu.sg) |
 | Ms Tan Chwee Li | HOD Science | [tan\_chwee\_li@moe.edu.sg](mailto:tan_chwee_li@moe.edu.sg) |
 | Ms Hee Fei Ling | YH/LP | [hee\_fei\_ling@moe.edu.sg](mailto:hee_fei_ling@moe.edu.sg) |
-| Mr Teo Choon Hoe Ivan | HOD PE/CCA | [ivan\_teo@moe.edu.sg](mailto:ivan_teo@moe.edu.sg) |
+| Mr Teo Choon Hoe Ivan | HOD PE&CCA | [ivan\_teo@moe.edu.sg](mailto:ivan_teo@moe.edu.sg) |
 | Mdm Zarinah Bte Mohamed Hussain | SH/CCE | [zarinah\_mohamed\_hussain@moe.edu.sg](mailto:zarinah_mohamed_hussain@moe.edu.sg) |
 | Mdm Michelle Moi | LH/MA |[Michelle_Moi@moe.edu.sg](mailto:Michelle_Moi@moe.edu.sg) |
 | Mdm Hazliana Bte Mahat | SH/ICT | [hazliana\_mahat@moe.edu.sg](mailto:hazliana_mahat@moe.edu.sg) |
