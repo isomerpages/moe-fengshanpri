@@ -21,4 +21,3 @@ The school leverages on the collective strengths of individual SAC members as it
 <img style="width: 75%;" src="/images/sac.jpg" /><br>
 <img style="width: 70%;" src="/images/sac1.jpg" /><br>
 <img style="width: 70%;" src="/images/sac2.jpg" />
-
