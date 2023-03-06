@@ -1,4 +1,5 @@
 collections:
   pages-in-archive:
     output: true
-    order: []
+    order:
+      - 2017.md
