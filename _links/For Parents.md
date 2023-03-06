@@ -31,6 +31,20 @@ To download the Parent Gateway app Apple OS mobile devices, click [here](https:
 
 To understand on how to reset the Singpass, click [here](https://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail),
 
-To apply for a Singpass account and the requirements click [here](https://www.singpass.gov.sg/home/ui/assets/pdf/Singpass_Registration_Guide.pdf). 
+To apply for a Singpass account at the SingPass website click [here]([Singpass - Register for Singpass](https://www.singpass.gov.sg/home/ui/register/instructions)). 
+
+As per Singpass website (correct as of 6 March 2023), the following groups of users are eligible to apply for Singpass:
+
+*   Singapore Citizen and Permanent Resident
+*   Employment Pass and Personalised Employment Pass holders
+*   EntrePass holders
+*   S Pass holders
+*   Dependant's Pass holders (of EP, PEP, EntrePass and S Pass holders)
+*   Long Term Visit Pass-Plus (LTVP+) holders
+*   Long Term Visit Pass holders
+*   Work Permit holders
+*   Student Pass holders
+*   Immigration Exemption Order holders
+<br>**Reference**: https://www.singpass.gov.sg/main/html/faq.html
 
 For any inquiries with regards to eligibility and accessing the Parents Gateway, please contact the General office provided in Contact Us in this page
