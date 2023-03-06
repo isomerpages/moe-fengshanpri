@@ -14,7 +14,7 @@ http://www.moe.gov.sg/parentkit
 ## Fengshan Parents Handbook 2023
 [Parents Download Handbook 2023](/files/Fengshan%20Document%20Links/Parents-Handbook-2023.pdf)
 
-### Other Links
+### Our School Services (see in About Us) page
 
 For matters pertaining school services such as school uniform, dental, student care or bookstore, please access the correct link in the school website  below or  [click here](https://www.fengshanpri.moe.edu.sg/explore/for-parents/school-vendor-contacts/)
 
