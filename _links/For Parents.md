@@ -33,7 +33,7 @@ As a reminder, Parents Gateway is **not available for computers/laptop login bro
 
 To understand on how to reset the Singpass, click [here](https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail),
 
-To apply for a Singpass account at the SingPass website click [here]([Singpass - Register for Singpass](https://www.singpass.gov.sg/home/ui/register/instructions)). 
+To apply for a Singpass account at the SingPass website click [here]([Singpass - Register](https://www.singpass.gov.sg/home/ui/register/instructions)). 
 
 As per Singpass website (correct as of 6 March 2023), the following groups of users are eligible to apply for Singpass:
 
