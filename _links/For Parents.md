@@ -33,4 +33,4 @@ To understand on how to reset the Singpass, click [here](https://www.singpass.g
 
 To apply for a Singpass account and the requirements click [here](https://www.singpass.gov.sg/singpass/register/instructions). 
 
-For any inquiries with regards to eligibility and accessing the Parents Gateway, please contact the General office given at the bottom of this page.
+For any inquiries with regards to eligibility and accessing the Parents Gateway, please contact the General office provided in Contact Us in this page
