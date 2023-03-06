@@ -23,7 +23,9 @@ At the school top menu go to -> "**About Us**". Select "**School Services**"
 
 ### Parents Gateway
 
-Parent Gateway is one of the mobile app that the school uses to inform or disseminate class or school-based information as well as updating information, consent form and managing school appointment (coming soon) . The Parent Gateway app is free and available for download to all mobile devices (subject to minimum requirements in the OS version of the mobile device), and accessible using SingPass account.
+Parent Gateway is one of the mobile app that the school uses to inform or disseminate class or school-based information as well as updating information, consent form and managing school appointment (coming soon) . The Parent Gateway app is free and available for download to all mobile devices (subject to minimum requirements in the OS version of the mobile device), and accessible using SingPass account. 
+
+As a reminder, Parents Gateway is **not available for computers/laptop login browser**, rather users require a mobile Android/iOS device to access Parents Gateway app.
 
 To download the Parent Gateway app Android OS mobile devices, click [here](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG). (Require version 6.0 and up)
 
