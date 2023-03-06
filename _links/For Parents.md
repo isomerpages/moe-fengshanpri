@@ -25,9 +25,9 @@ At the school top menu go to -> "**About Us**". Select "**School Services**"
 
 Parent Gateway is one of the mobile app that the school uses to inform or disseminate class or school-based information as well as updating information, consent form and managing school appointment (coming soon) . The Parent Gateway app is free and available for download to all mobile devices (subject to minimum requirements in the OS version of the mobile device), and accessible using SingPass account.
 
-To download the Parent Gateway app Android OS mobile devices, click [here](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG). (Require version 5.0 and up)
+To download the Parent Gateway app Android OS mobile devices, click [here](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG). (Require version 6.0 and up)
 
-To download the Parent Gateway app Apple OS mobile devices, click [here](https://apps.apple.com/sg/app/parents-gateway/id1267198708). (Requires iOS 8.0 or later. Compatible with iPhone, iPad and iPod touch)
+To download the Parent Gateway app Apple OS mobile devices, click [here](https://apps.apple.com/sg/app/parents-gateway/id1267198708). (Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch)
 
 To understand on how to reset the Singpass, click [here](https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail),
 
