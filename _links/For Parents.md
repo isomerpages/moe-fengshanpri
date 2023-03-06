@@ -29,7 +29,7 @@ To download the Parent Gateway app Android OS mobile devices, click [here](http
 
 To download the Parent Gateway app Apple OS mobile devices, click [here](https://apps.apple.com/sg/app/parents-gateway/id1267198708). (Requires iOS 8.0 or later. Compatible with iPhone, iPad and iPod touch)
 
-To understand on how to reset the Singpass, click [here](https://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail),
+To understand on how to reset the Singpass, click [here](https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail),
 
 To apply for a Singpass account at the SingPass website click [here]([Singpass - Register for Singpass](https://www.singpass.gov.sg/home/ui/register/instructions)). 
 
