@@ -27,9 +27,9 @@ Parent Gateway is one of the mobile app that the school uses to inform or disse
 
 As a reminder, Parents Gateway is **not available for computers/laptop login browser**, rather parents/legal guardian are required to download the app from their mobile Android/iOS device to access Parents Gateway app.
 
-To download the Parent Gateway app Android OS mobile devices, click [here](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG). (Require version 6.0 and up)
+**For Android Users:** To download the Parent Gateway app devices, click [here](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG). (Require version 6.0 and up)
 
-To download the Parent Gateway app Apple OS mobile devices, click [here](https://apps.apple.com/sg/app/parents-gateway/id1267198708). (Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch)
+**For Apple Users:** To download the Parent Gateway app Apple OS mobile devices, click [here](https://apps.apple.com/sg/app/parents-gateway/id1267198708). (Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch)
 
 To understand on how to reset the Singpass, click [here](https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail),
 
