@@ -142,9 +142,8 @@ Ms Chen Wenjing
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/ps1.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ps2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ps3.jpg"></td>
+<td style="width: 50%;"><img src="/images/ps1.jpg"></td>
+<td style="width: 50%;"><img src="/images/ps2.jpg"></td>
 </tr>
 </tbody>
 </table>
