@@ -137,8 +137,9 @@ Hall, Heartbeat@Bedok
 Mdm Cheryl Lim
 <br>Mdm Tan Wee Su  
 Ms Chen Wenjing
+
+### Fengshan Primary Netball Senior Team EZ -3rd
 <hr>
-<p><strong>Fengshan Primary Netball Senior Team EZ 3rd</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -155,7 +156,10 @@ Ms Chen Wenjing
 </tr>
 </tbody>
 </table>
-<p><strong>Fengshan Primary Netball Senior Team EZ 1st</strong></p>
+
+### Fengshan Primary Netball Junior Team EZ - 1st
+
+<hr>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
