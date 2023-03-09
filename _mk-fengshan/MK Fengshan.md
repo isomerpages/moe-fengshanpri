@@ -32,7 +32,7 @@ KCare contact:** 8020 1514
 
 KCare Operating Hours:** 7.00 am to 7.00 pm
 	
-Email to our school:  [mk@fengshan@moe.edu.sg](mailto:mk_fengshan@moe.edu.sg)
+Email to our school:  [mk_fengshan@moe.edu.sg](mailto:mk_fengshan@moe.edu.sg)
 	
 ### MK Orientation K1 Slides 2022/3
 
