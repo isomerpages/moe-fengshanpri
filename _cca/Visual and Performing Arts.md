@@ -152,7 +152,7 @@ Ms Chia Soo Yin
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 75%;"><img src="/images/pa3.jpg"></td>
+<td style="width: 85%;"><img src="/images/pa3.jpg"></td>
 <td style="width: 65%;">&nbsp;</td>
 </tr>
 </tbody>
@@ -163,7 +163,7 @@ Ms Chia Soo Yin
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 75%;"><img src="/images/pa4.jpg"></td>
+<td style="width: 85%;"><img src="/images/pa4.jpg"></td>
 <td style="width: 65%;">&nbsp;</td>
 </tr>
 </tbody>
@@ -172,7 +172,7 @@ Ms Chia Soo Yin
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><img src="/images/pa5.jpg"></td>
+<td style="width: 85%;"><img src="/images/pa5.jpg"></td>
 <td style="width: 65%;">&nbsp;</td>
 </tr>
 </tbody>
