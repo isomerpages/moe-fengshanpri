@@ -125,9 +125,9 @@ Mdm Nur Nadiah
 
 Ms Chia Soo Yin
 
-### Performing Arts groups at the Singapore Youth
+### Performing Arts groups at the Singapore Youth Festival 
 
-#### Festival 
+#### Malay Dance
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -137,8 +137,8 @@ Ms Chia Soo Yin
 </tbody>
 </table>
 
-#### Malay Dance
 
+#### Indian Dance
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -148,8 +148,8 @@ Ms Chia Soo Yin
 </tbody>
 </table>
 
-#### Indian Dance
 
+#### Percussion Ensemble
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -159,8 +159,8 @@ Ms Chia Soo Yin
 </tbody>
 </table>
 
-#### Percussion Ensemble
 
+#### Chinese Dance
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -169,7 +169,9 @@ Ms Chia Soo Yin
 </tr>
 </tbody>
 </table>
-<p>Chinese Dance</p>
+
+#### Choir
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -178,5 +180,5 @@ Ms Chia Soo Yin
 </tr>
 </tbody>
 </table>
-<p>Choir</p>
+
 <hr>
