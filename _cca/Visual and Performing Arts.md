@@ -103,8 +103,9 @@ Mdm Raba’ah
 
 Nur Saliza Mohd Salleh (Fitness Arts Pte Ltd)
 
+* * *
 
-#### Visual Art Club
+### Visual Art Club
 
 ### Schedule :
 
