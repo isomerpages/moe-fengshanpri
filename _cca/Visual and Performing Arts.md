@@ -135,29 +135,35 @@ Ms Chia Soo Yin
 </tr>
 </tbody>
 </table>
-<p>Malay Dance</p>
+
+#### Malay Dance
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><img src="/images/pa2.jpg"></td>
+<td style="width: 75%;"><img src="/images/pa2.jpg"></td>
 <td style="width: 65%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
-<p>Indian Dance</p>
+
+#### Indian Dance
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><img src="/images/pa3.jpg"></td>
+<td style="width: 75%;"><img src="/images/pa3.jpg"></td>
 <td style="width: 65%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
-<p>Percussion Ensemble</p>
+
+#### Percussion Ensemble
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 35%;"><img src="/images/pa4.jpg"></td>
+<td style="width: 75%;"><img src="/images/pa4.jpg"></td>
 <td style="width: 65%;">&nbsp;</td>
 </tr>
 </tbody>
