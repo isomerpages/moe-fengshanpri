@@ -3,39 +3,39 @@ title: Uniformed Groups
 permalink: /cca/uniformed-groups/
 description: ""
 ---
-Boys Brigade
+## Boys Brigade
 ------------
 
-**Schedule:**
+### Schedule:
 
 P3 to P6 – Tuesday (2:30pm – 4:30pm)
 
-**Venue:**
+#### Venue:
 
 Classrooms (D2-03/04)
 
-**Teachers I/C:**
+#### Teachers I/C:
 
 Ms Jolin Tan\*
 
 Mr Phoon Yee Pung
 
-**Instructors:** Boys Brigade Volunteers
+##### Instructors: Boys Brigade Volunteers
 
 * * *
 
-Scouts
+## Scouts
 ------
 
-**Schedule:**
+### Schedule:
 
 P3 to P6 – Tuesday (2:30pm – 4:30pm)
 
-**Venue:**
+### Venue:
 
 Classroom (E2-01)
 
-**Teachers I/C :**
+### Teachers I/C :
 
 Mdm Siti Khadijah\*  
 Mr Firdaus  
@@ -43,18 +43,18 @@ Mdm Marcellian Arlany
 
 * * *
 
-Brownies (Girl Guides)
+## Brownies (Girl Guides)
 ----------------------
 
-**Schedule:**
+### Schedule:
 
 All Levels – Tuesday (2:30pm – 4:30pm)
 
-**Venue:**
+### Venue:
 
 Classrooms (D2-01/02)
 
-**Teachers I/C :**
+### Teachers I/C :
 
 Mdm Marlina\*
 
@@ -64,18 +64,18 @@ Mdm Rashida
 
 * * *
 
-Red Cross Youth
+## Red Cross Youth
 ---------------
 
-**Schedule:**
+### Schedule:
 
 P3 to P6 – Tuesday (2:30pm – 4:30pm)
 
-**Venue:**
+### Venue:
 
 Classroom (E2-02)
 
-**Teachers I/C :**
+### Teachers I/C :
 
 Mrs Ivy Wong\*
 
