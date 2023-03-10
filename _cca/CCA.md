@@ -3,11 +3,7 @@ title: CCA
 permalink: /cca/
 description: ""
 ---
-*   [Home](https://fengshanpri.moe.edu.sg/)
- *   CCA
-
-CCA
-===
+# CCA
 
 The CCA programme provides every pupil with opportunities to participate and excel in activities outside the school curriculum.
 
@@ -19,7 +15,7 @@ The CCA Programme will enable our pupils to:
 
 The CCAs are categorised accordingly to 4 main groups. They are:
 
-**Physical Sports**
+## Physical Sports
 -------------------
 
 *   Basketball
@@ -28,7 +24,7 @@ The CCAs are categorised accordingly to 4 main groups. They are:
 *   Wushu
 *   Health & Fitness Club
 
-**Uniformed Groups**
+## Uniformed Groups
 --------------------
 
 *   Boys Brigade
@@ -36,7 +32,7 @@ The CCAs are categorised accordingly to 4 main groups. They are:
 *   Scouts
 *   Red Cross
 
-**Visual & Performing Arts**
+## Visual & Performing Arts
 ----------------------------
 
 *   Choir
@@ -46,7 +42,7 @@ The CCAs are categorised accordingly to 4 main groups. They are:
 *   MLDDs (incl. Malay Dance)
 *   Visual Art Club
 
-Clubs & Societies
+## Clubs & Societies
 -----------------
 
 *   Science and Environmental Club
