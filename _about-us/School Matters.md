@@ -8,8 +8,8 @@ description: ""
 <thead>
 <tr>
 <th style="text-align: center;">Level</th>
-<th style="text-align: center;">Dismissal Time except Wednesday</th>
-<th style="text-align: center;">Dismissal Time on Wednesday</th>
+<th style="text-align: center;">School hours on Monday, Thursday and Friday</th>
+<th style="text-align: center;">School hours on Wednesday</th>
 <th style="text-align: center;">Dismissal Gate</th>
 <th style="text-align: center;">Recess Time</th>
 </tr>
@@ -59,8 +59,18 @@ description: ""
 </tr>
 </tbody>
 </table>
+
+
+
+| Level |School hours on Tuesday | Dismissal Gate |
+| -------- | -------- | -------- |
+| Primary 4     |7.30 a.m. –2.30 p.m     |Gate 1    |
+| Primary 5     | 7.30 a.m. –2.30 p.m      | Gate 2     |
+| Primary 6     | 7.30 a.m. –2.30 p.m     | Gate 1    |
+
+
 <p><strong>* All pupils are given an additional 10-minute snack break.</strong></p>
-<p><strong>** Dismissal timings are subject to change (Staggered dismissal pending prevailing situation in 2022</strong></p>
+
 <p><strong>[Do refer to updates on dismissal timings sent through Parents Gateway]</strong></p>
 <hr>
 
