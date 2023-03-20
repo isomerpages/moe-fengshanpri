@@ -140,6 +140,6 @@ For security reasons, visitors are allowed to report at Security Post situated n
 
 Your Identification Card (IC) must be presented for verification before being provided a “Visitor’s Pass” from the security guards on duty.
 
-Visitors may then proceed to the General Office to inform the staff on front desk duty the purpose of your visit to the school. 
+Visitors may then proceed to the General Office to inform the school staff at the front desk for their respective appointment.
 
-Do note that the classroom blocks are out of bounds to all visitors. Therefore, you should not be moving around the school on your own and should directly report to the General Office for assistance.
+**Do note that the classroom blocks are out of bounds to all visitors**. Therefore, you should not be moving around the school on your own and should directly report to the General Office for assistance.
