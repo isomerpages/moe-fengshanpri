@@ -136,7 +136,7 @@ If you are picking up your child, do confirm which gate he/she will be waiting f
 
 #### School Security and Registration at Security Post
 
-For security reasons, visitors are allowed to report at Security Post situated near the above mentioned gate via the school’s Main Gate for registration. For verification, visitors with valid appointment(s) are allowed to report and enter school premises by the school's Security Post. Visitor(s) could contact the school general helpline at 6586 0123 to get their appointment slot before coming to school, unless requested by respective school officer.
+For security reasons, visitors should report at Security Post via the school’s Main Gate for registration. For verification, visitors with valid appointment(s) are allowed to report and enter school premises by the school's Security Post. Visitor(s) could contact the school general helpline at 6586 0123 to get their appointment slot before coming to school, unless requested by respective school officer.
 
 Your Identification Card (IC) must be presented for verification before being provided a “Visitor’s Pass” from the security guards on duty.
 
