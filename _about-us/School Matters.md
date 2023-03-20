@@ -113,11 +113,11 @@ To ensure that the P1 and P2 pupils reach home safely after school, we require a
 
 As such, the Main Gate (Gate 2) and Gate 1 will be closed from 1.30 pm to 1.40 pm (Mon/Tues/Fri) and from 1.00 pm to 1.10 pm (Wed/Thurs). 
 
-#### No vehicles or visitors will be allowed to enter or leave the premise via the main gate during this period.
+#### No visitor parking and restricted visiting hours and delivery to school
 
 We seek your cooperation for visitors to avoid coming into the school premises during the dismissal timing, between 1.00 pm to 1.40 pm.
 
-All vehicles will not be allowed to enter the school by security from 11.30am to 2.00pm, as well as 4.00pm due to school bus/van movement for dismissal.
+All vehicles will not be allowed to enter the school by security from 11.30am to 2.00pm, as well as after 4.00pm due to school bus/van movement for dismissal.
 
 #### Dismissal during inclement weather (rainy days)
 
