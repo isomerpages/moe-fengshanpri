@@ -134,7 +134,7 @@ Pupils waiting for their siblings are to wait at designated tables in the cantee
 If you are picking up your child, do confirm which gate he/she will be waiting for you. To ensure pupils leave the school premises smoothly, please avoid coming into the school premises during the dismissal period. Your child will meet you outside the school gate.
 
 
-#### School Security
+#### School Security and Registration at Security Post
 
 For security reasons, visitors are allowed to report at Security Post situated near the above mentioned gate via the school’s Main Gate for registration. For verification, visitors with valid appointment(s) are allowed to report and enter school premises by the school's Security Post. Visitor(s) could contact the school general helpline at 6586 0123 to get their appointment slot before coming to school, unless requested by respective school officer.
 
