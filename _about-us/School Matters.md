@@ -109,9 +109,13 @@ description: ""
 
 #### Dismissal Procedures for P1 and P2 Pupils
 
-To ensure that the P1 and P2 pupils reach home safely after school, we require an adult to pick them up after school if they are not taking the school bus. All P1/2 dismissal will be done via Gate 3. 
+To ensure that P1 and P2 pupils reach home safely after school, we require an adult to pick them up after school if they are not taking the school bus.  All P1/2 dismissal will be done via Gate 3.  As such, the Main Gate (Gate 2) and Gate 1 will be closed from 1.20 pm to 1.30 pm (Mon/Tues/Thurs/Fri) and from 1.05 pm to 1.15 pm (Wed). 
 
-As such, the Main Gate (Gate 2) and Gate 1 will be closed from 1.30 pm to 1.40 pm (Mon/Tues/Fri) and from 1.00 pm to 1.10 pm (Wed/Thurs). 
+For the safety of pupils, we seek your cooperation to avoid coming into the school premises during the dismissal timings. Do move forward towards Gate 3 only when your child’s/ward’s class is announced by our staff or when you see the class placard being held up by our staff as an indication for you to move forward. If you arrive after the dismissal of your child’s/ward’s class, please wait for further instructions before moving towards the gate. This will help to decongest the area as well as ensure the safe and orderly dismissal of our students. 
+
+#### Dismissal Procedures for P3 to P6 Pupils
+
+All P3 to P6 pupils will be dismissed via the Gate 1 or 2 as indicated in the dismissal timings on page 5.  Pupils waiting for their siblings are to wait at designated tables in the canteen. To ensure pupils leave the school premises smoothly, please avoid coming into the school premises during the dismissal period. Your child/ward will meet you outside the designated school gate. 
 
 #### No visitor parking and restricted visiting hours and delivery during dismissal
 
@@ -121,9 +125,7 @@ Vendor delivery vehicles will not be allowed to enter the school by security bet
 
 #### Dismissal during inclement weather (rainy days)
 
-Parents/guardians are to pick up your P1 and P2 children/wards from the school canteen during inclement weather.
-
-All parents/guardians are reminded to pick up your children/wards and exit the school promptly so that the canteen is available for the dismissal of P3 to P6 pupils.
+Parents/guardians are to wait for your children/wards outside Gate 3 during wet weather. An announcement will be made through the Parents Gateway app. As dismissal will be staggered by level and then class, we seek your patience in waiting for your child/ward, and cooperation not to congregate prematurely along the sheltered walkway until the class being dismissed is announced.
 
 #### Dismissal Procedures for P3 to P6 pupils
 
