@@ -3,7 +3,7 @@ title: School Matters
 permalink: /about-us/school-matters/
 description: ""
 ---
-### School Operating Hours
+## School Operating Hours
 <table>
 <thead>
 <tr>
@@ -107,6 +107,8 @@ description: ""
 </tbody>
 </table>
 
+## Dismissal Procedures for School
+
 #### Dismissal Procedures for P1 and P2 Pupils
 
 To ensure that P1 and P2 pupils reach home safely after school, we require an adult to pick them up after school if they are not taking the school bus.  All P1/2 dismissal will be done via Gate 3.  As such, the Main Gate (Gate 2) and Gate 1 will be closed from 1.20 pm to 1.30 pm (Mon/Tues/Thurs/Fri) and from 1.05 pm to 1.15 pm (Wed). 
@@ -117,23 +119,14 @@ For the safety of pupils, we seek your cooperation to avoid coming into the scho
 
 All P3 to P6 pupils will be dismissed via the Gate 1 or 2 as indicated in the dismissal timings on page 5.  Pupils waiting for their siblings are to wait at designated tables in the canteen. To ensure pupils leave the school premises smoothly, please avoid coming into the school premises during the dismissal period. Your child/ward will meet you outside the designated school gate. 
 
-#### No visitor parking and restricted visiting hours and delivery during dismissal
-
-We seek your cooperation for visitors to avoid coming into the school premises during the dismissal timing, between 1.00 pm to 1.40 pm. Visitors could park at the nearest public parking lots located beside school (behind HDB flat block 413 beside school).
-
-Vendor delivery vehicles will not be allowed to enter the school by security between 11.30am to 2.00pm, as well as after 4.00pm due to school bus/van movement for dismissal.
-
 #### Dismissal during inclement weather (rainy days)
 
 Parents/guardians are to wait for your children/wards outside Gate 3 during wet weather. An announcement will be made through the Parents Gateway app. As dismissal will be staggered by level and then class, we seek your patience in waiting for your child/ward, and cooperation not to congregate prematurely along the sheltered walkway until the class being dismissed is announced.
 
-#### Dismissal Procedures for P3 to P6 pupils
 
-From 1.40 pm onwards (Mon/Tues/Fri) and 1.10 pm onwards (Wed/Thurs), all P3 to P6 classes will be dismissed towards the canteen. 
 
-Pupils waiting for their siblings are to wait at designated tables in the canteen. P3-6 pupils have a choice of Gate 1, Gate 3 or the Side Gate near the Main Gate to make their way home.
 
-If you are picking up your child, do confirm which gate he/she will be waiting for you. To ensure pupils leave the school premises smoothly, please avoid coming into the school premises during the dismissal period. Your child will meet you outside the school gate.
+## School Security and Safety
 
 
 #### School Security and Registration at Security Post
@@ -145,3 +138,9 @@ Your Identification Card (IC) must be presented for verification before being pr
 Visitors may then proceed to the General Office to inform the school staff at the front desk for their respective appointment.
 
 **Do note that the classroom blocks are out of bounds to all visitors**. Therefore, you should not be moving around the school on your own and should directly report to the General Office for assistance.
+
+#### No visitor parking and restricted visiting hours and delivery during dismissal
+
+We seek your cooperation for visitors to avoid coming into the school premises during the dismissal timing, between 1.00 pm to 1.40 pm. Visitors could park at the nearest public parking lots located beside school (behind HDB flat block 413 beside school).
+
+Vendor delivery vehicles will not be allowed to enter the school by security between 11.30am to 2.00pm, as well as after 4.00pm due to school bus/van movement for dismissal.
