@@ -115,9 +115,9 @@ As such, the Main Gate (Gate 2) and Gate 1 will be closed from 1.30 pm to 1.40 p
 
 #### No visitor parking and restricted visiting hours and delivery during dismissal
 
-We seek your cooperation for visitors to avoid coming into the school premises during the dismissal timing, between 1.00 pm to 1.40 pm.
+We seek your cooperation for visitors to avoid coming into the school premises during the dismissal timing, between 1.00 pm to 1.40 pm. Visitors could park at the nearest parking locations nearest to school (behing HDB flat block 413 beside school.
 
-All vehicles will not be allowed to enter the school by security from 11.30am to 2.00pm, as well as after 4.00pm due to school bus/van movement for dismissal.
+Vendor delivery vehicles will not be allowed to enter the school by security between 11.30am to 2.00pm, as well as after 4.00pm due to school bus/van movement for dismissal.
 
 #### Dismissal during inclement weather (rainy days)
 
