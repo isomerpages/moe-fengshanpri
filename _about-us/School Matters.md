@@ -123,7 +123,11 @@ All P3 to P6 pupils will be dismissed via the Gate 1 or 2 as indicated in the di
 
 Parents/guardians are to wait for your children/wards outside Gate 3 during wet weather. An announcement will be made through the Parents Gateway app. As dismissal will be staggered by level and then class, we seek your patience in waiting for your child/ward, and cooperation not to congregate prematurely along the sheltered walkway until the class being dismissed is announced.
 
+#### Guidelines on Sending and Receiving Children/Wards 
 
+Parents/Guardians should pick up your child/ward from the designated dismissal gates at dismissal time. If you send or pick your child/ward in a vehicle, do note that the school has only one main gate for the entry and exit of vehicles. In order to ensure the safety of the pupils, the school has to minimise the frequency of vehicles entering the school. Therefore, please use the public car park next to HDB Blk 413 as there is a sheltered walkway to the school through Gate 3. 
+
+The carpark provides a 10-minute grace period for drivers for alighting. Do try to keep the alighting duration short so that other drivers can also pick up their children. Should you require more time, please park your vehicle at a parking lot. 
 
 
 ## School Security and Safety
