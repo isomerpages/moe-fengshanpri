@@ -17,8 +17,8 @@ description: ""
 <tbody>
 <tr>
 <td><strong>Primary 1</strong></td>
-<td>7.30 a.m. &ndash; 1.20 p.m.</td>
-<td>7.30 a.m. &ndash; 1.05 p.m.</td>
+<td>7.30 a.m. &ndash; 1.30 p.m.</td>
+<td>7.30 a.m. &ndash; 1.15 p.m.</td>
 <td style="text-align: center;">Gate 3</td>
 <td style="text-align: center;">9.45 a.m. &ndash; 10.15 a.m.</td>
 </tr>
