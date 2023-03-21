@@ -3,6 +3,7 @@ title: FAQs
 permalink: /about-us/faqs/
 description: ""
 ---
+
 <h4><strong>How do I meet my child&rsquo;s teacher?</strong></h4>
 <p><strong>Consultation with Teachers</strong></p>
 <p>You may need to consult your child&rsquo;s teachers regarding his/her progress and homework from time to time. Please call the teachers on their direct office line or email them to make an appointment before you come to school to meet them as teachers cannot leave their classes unattended to meet you. You would have received the teachers&rsquo; direct line numbers and their email addresses at the beginning of the year.</p>

@@ -3,20 +3,20 @@ title: Physical Sports
 permalink: /physical-sports/
 description: ""
 ---
-**Basketball**
+## Basketball
 --------------
 
-**Schedule:**
+#### Schedule:
 
 School Team – Monday & Thursday (4.00pm – 5.10pm).
 
 Development Team – Tuesday (2.30pm – 4.30pm)
 
-**Venue:**
+#### Venue:
 
 ISH Basketball Court
 
-**Teachers I/C:**
+#### Teachers I/C:
 
 Mr Travis Neo\*  
 Mr James Wong  
@@ -27,10 +27,10 @@ Mr Welzl Valentin Xin Wei
 
 * * *
 
-**Netball**
+## Netball
 -----------
 
-**Schedule:**
+#### Schedule:
 
 Development Team – Tuesday (2.30pm – 4.30pm)
 
@@ -40,11 +40,11 @@ Seniors – Wednesday (3.20 pm – 5.15 pm)
 
 Seniors/Juniors – Thursday (4.00 pm – 5.15pm)
 
-**Venue:**
+#### Venue:
 
 School Hall/ISH Level 4
 
-**Teachers I/C:**
+#### Teachers I/C:
 
 Ms Jessica Tsang\*
 
@@ -56,26 +56,26 @@ Ms Wong Kah Wai
 
 Ms Rosela Hashim
 
-**Coach:**
+#### Coach:
 
 Ms Hing Chay Kheng
 
-* * *
 
-Football
+
+## Football
 --------
 
-**Schedule:**
+#### Schedule:
 
 Development Team – Tuesday (2.30pm – 4.30pm)
 
 School Team – Monday & Thursday (4.10pm – 5.30pm) 
 
-**Venue:**
+#### Venue:
 
 ISH (First half), Football Field
 
-**Teachers I/C:**
+#### Teachers I/C:
 
 Mr Haikal\*
 
@@ -87,65 +87,64 @@ Mdm Marisa Lee
 
 Mr Abdul Halim
 
-**Coach:**
+#### Coach:
 
 Mr Mohamed Rezal Bin Hassan
 
 Mr Mohamed Azahari
 
-* * *
 
-Wushu
+
+## Wushu
 -----
 
-**Schedule:**
+#### Schedule:
 
 School Team – Tuesday (2.30 pm – 4.30 pm) & Wed (1.45pm – 3.45pm)
 
-**Venue:**
+#### Venue:
 
 Lobby, School Hall/ISH Level 1
 
-**Teachers I/C:**
+#### Teachers I/C:
 
 Mr Zhang Lian\*  
 Mrs Katherine Phoon
 
 Mdm Vanessa Ang
 
-**Coach:**
+#### Coach:
 
 Mr Loy Ming Xin (Wen Wu Learning Studio)
 
 Mr Koh Yi Yew (Wen Wu Learning Studio)
 
-* * *
 
-Health And Fitness Club
+
+## Health And Fitness Club
 -----------------------
 
-**Schedule:**
+#### Schedule:
 
 P3 to P6 – Tuesday (2.30pm – 4.30pm)
 
-**Venue:**
+#### Venue:
 
 Hall, Heartbeat@Bedok
 
-**Teachers I/C :**
+#### Teachers I/C :
 
-Mdm Cheryl Lim\*
-
-Mdm Tan Wee Su  
+Mdm Cheryl Lim
+<br>Mdm Tan Wee Su  
 Ms Chen Wenjing
+
+### Fengshan Primary Netball Senior Team EZ -3rd
 <hr>
-<p><strong>Fengshan Primary Netball Senior Team EZ 3rd</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/ps1.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ps2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ps3.jpg"></td>
+<td style="width: 50%;"><img src="/images/ps1.jpg"></td>
+<td style="width: 50%;"><img src="/images/ps2.jpg"></td>
 </tr>
 </tbody>
 </table>
@@ -157,7 +156,10 @@ Ms Chen Wenjing
 </tr>
 </tbody>
 </table>
-<p><strong>Fengshan Primary Netball Senior Team EZ 1st</strong></p>
+
+### Fengshan Primary Netball Junior Team EZ - 1st
+
+<hr>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>

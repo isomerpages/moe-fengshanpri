@@ -3,19 +3,15 @@ collections:
     output: true
     order:
       - About Us.md
-      - School Logo & Song.md
-      - Principal’s Message.md
       - School Values.md
+      - School Matters.md
+      - Principal’s Message.md
+      - School Logo & Song.md
       - Vision & Mission.md
       - Our History.md
-      - School Matters.md
       - School Services.md
       - School Virtual Tour.md
       - Hall of Fame/.keep
-      - Hall of Fame/Hall of Fame.md
+      - Hall of Fame/2023.md
       - Hall of Fame/2021.md
       - Hall of Fame/2020.md
-      - Hall of Fame/2019.md
-      - Hall of Fame/2018.md
-      - Hall of Fame/2017.md
-      - FAQs.md
