@@ -70,4 +70,3 @@ third_nav_title: ICT
 <p><strong>For all technical assistance and support&nbsp;</strong></p>
 <p>Please email to <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>&nbsp;or contact SLS helpdesk at&nbsp;(65) 6702 6513.</p>
 <p>&nbsp;</p>
-	
