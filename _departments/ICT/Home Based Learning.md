@@ -31,6 +31,21 @@ third_nav_title: ICT
 <p>Your account will be locked after&nbsp;<u><strong>10 consecutive</strong></u>&nbsp;attempts to log in with an incorrect password. You can either contact your School-based Helpline during school hours or SLS Helpdesk for after school hours.</p>
 <p style="text-align: center;">
 	
+#### Q4 : I used the &ldquo;Password Reset Link
+	
+<strong>Method&rdquo; but I cannot find my password reset email. What can I do?</strong></p>
+<p>If you cannot see the email in your inbox, it may be in the spam or junk email folder. It is also possible that you have not keyed in or verified the email address in SLS.</p>
+<p>Note: The URL in the email will expire within 20 minutes. If the URL has expired, go to the login page and select &ldquo;Forgot Password&rdquo; to try again.</p>
+	
+#### Q5 : Can I change the security questions?
+
+<p>Students can log in to SLS to change the answers to their security questions. However, the questions are fixed.</p>
+	
+#### Q6 : What are the Operating System and Browser Requirements for SLS?
+	
+<p>SLS is accessible through internet browsers on either Windows PC, Mac, iPad or Android tablets. For a good user experience, tablets should have a screen size of at least 7 inches. However, a small number of resources may not work on tablets due to missing plugins. Currently, SLS is not fully optimised to display on mobile phones even though users can access the system and resources. The recommended operating systems and browsers are:</p>
+<img src="/images/sls1.png">
+	
 ### SLS Support for Home-based Learning
 	
 #### School Operating Hours
@@ -49,17 +64,10 @@ third_nav_title: ICT
 <p>*Closed on Sundays &amp; Public Holidays</p>
 <p>Alternatively, students can email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p>
 	
-#### Online Form (On HBL Days)
+#### Online Form (On HBL Days) - Disabled on normal term
 	
-<p>Please use the FormSG (click&nbsp;<a href="https://form.gov.sg/5d65d57cd6754c0012d6d775">here</a>) as attached to request for passwords reset/to unlock accounts. Please ensure that you provide a contactable number as a reference.</p>
+<p>Please use the FormSG (click&nbsp;<a href="https://form.gov.sg/5d65d57cd6754c0012d6d775">disabled link</a>) as attached to request for passwords reset/to unlock accounts. Please ensure that you provide a contactable number as a reference.</p>
 <p><strong>For all technical assistance and support&nbsp;</strong></p>
 <p>Please email to <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>&nbsp;or contact SLS helpdesk at&nbsp;(65) 6702 6513.</p>
 <p>&nbsp;</p>
-<p><strong>Q4 : I used the &ldquo;Password Reset Link</strong>&nbsp;<strong>Method&rdquo; but I cannot find my password reset email. What can I do?</strong></p>
-<p>If you cannot see the email in your inbox, it may be in the spam or junk email folder. It is also possible that you have not keyed in or verified the email address in SLS.</p>
-<p>Note: The URL in the email will expire within 20 minutes. If the URL has expired, go to the login page and select &ldquo;Forgot Password&rdquo; to try again.</p>
-<p><strong>Q5 : Can I change the security questions?</strong></p>
-<p>Students can log in to SLS to change the answers to their security questions. However, the questions are fixed.</p>
-<p><strong>Q6 : What are the Operating System and Browser Requirements for SLS?</strong></p>
-<p>SLS is accessible through internet browsers on either Windows PC, Mac, iPad or Android tablets. For a good user experience, tablets should have a screen size of at least 7 inches. However, a small number of resources may not work on tablets due to missing plugins. Currently, SLS is not fully optimised to display on mobile phones even though users can access the system and resources. The recommended operating systems and browsers are:</p>
-<img src="/images/sls1.png">
+	
