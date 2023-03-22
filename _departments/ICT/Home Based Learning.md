@@ -4,21 +4,36 @@ permalink: /departments/ict/e-learning/
 description: ""
 third_nav_title: ICT
 ---
-<p><strong>E-LEARNING</strong></p>
-<p>At Fengshan Primary School, we believe in helping every child find joy in learning and using technology to empower our children to learn better. Besides giving the opportunities for our students to engage in self-directed learning, HBL also aims to ensure that learning continues for students on days when school may be closed due to emergency situations.</p>
-<p>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</p>
-<p><strong>Instruction Guide on Logging into the SLS (Student Learning Space) Portal</strong></p>
+### E-LEARNING
+<p>At Fengshan Primary School, we believe in helping every child find joy in learning and using technology to empower our children to learn better. Besides giving the opportunities for our students to engage in self-directed learning, HBL also aims to ensure that learning continues for students on days when school may be closed due to emergency situations
+	
+### Instruction Guide on Logging into the SLS (Student Learning Space) Portal
+
 <p>Click on the link&nbsp;<strong>Explore &gt; For Pupils &gt; &ldquo;Student Learning Space</strong>&rdquo;. You will be directed to SLS website. Alternatively, you can directly go to&nbsp;<a href="https://vle.learning.moe.edu.sg/login">https://vle.learning.moe.edu.sg/login</a></p>
 <img style="width: 50%;" src="/images/sls.png" />
-<p style="text-align: center;"><strong>FREQUENTLY ASKED QUESTIONS</strong></p>
-<p><strong>Q1 : I have forgotten my password. What should I do?</strong></p>
+<p style="text-align: center;">
+	
+### Frequently Asked Question (FAQs)
+	
+	
+#### Q1 : I have forgotten my password. What should I do?
+	
 <p>Please refer to <strong>paragraphs 6-10&nbsp;</strong>in&nbsp;<a href="/files/Step-by-Step-Help-Guide-for-SLS.pdf" target="_blank" rel="noopener">Step by Step Help Guide for SLS</a>. You may refer to&nbsp;<a href="https://go.gov.sg/loginissues" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://go.gov.sg/loginissues&amp;source=gmail&amp;ust=1577022458203000&amp;usg=AFQjCNFXD03FpAutZCa2hzQj7eTHBQuIyA">go.gov.sg/loginissues</a>&nbsp;for all login issues.</p>
-<p><strong>Q2 : I have forgotten my username. What should I do?</strong></p>
+
+#### Q2 : I have forgotten my username. What should I do?
+
 <p>The format of your <strong>user name</strong>&nbsp;is a combination of the first 5 characters of your Name, the last 4 digits and the letter of your&nbsp;<strong>NRIC/FIN/BC, e.g. (RACHE1234Z).</strong></p>
 <p>In rare cases, two or more students might share the same 10 characters. In such cases, their username may be affixed with a number, e.g. (RACHE1234Z_01). If you are still not sure of your username, please approach your teacher.</p>
-<p><strong>Q3 : My account has been locked. What should I do?</strong></p>
+<p><strong>
+	
+#### Q3 : My account has been locked. What should I do?
+	
 <p>Your account will be locked after&nbsp;<u><strong>10 consecutive</strong></u>&nbsp;attempts to log in with an incorrect password. You can either contact your School-based Helpline during school hours or SLS Helpdesk for after school hours.</p>
-<p style="text-align: center;"><strong>SLS Support for Home-based Learning</strong></p>
+<p style="text-align: center;">
+	
+### SLS Support for Home-based Learning
+	
+	
 <p><strong>School Operating Hours</strong></p>
 <p>During school operating hours, students should contact the&nbsp;<strong>School-based Helpline&nbsp;</strong>for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments. Student can also approach their Form teacher/subject teacher for password reset.</p>
 <p><strong>School-based Helpline: (65) 6586 0123 /65860175</strong></p>
