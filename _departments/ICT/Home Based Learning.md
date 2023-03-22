@@ -33,22 +33,24 @@ third_nav_title: ICT
 	
 ### SLS Support for Home-based Learning
 	
+#### School Operating Hours
 	
-<p><strong>School Operating Hours</strong></p>
 <p>During school operating hours, students should contact the&nbsp;<strong>School-based Helpline&nbsp;</strong>for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments. Student can also approach their Form teacher/subject teacher for password reset.</p>
 <p><strong>School-based Helpline: (65) 6586 0123 /65860175</strong></p>
 <p><strong>Mondays &ndash; Fridays: 8:00 am &ndash; 4:00 pm</strong></p>
 <p>For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p>
-<p>&nbsp;</p>
-<p><strong>Non-School Operating Hours</strong></p>
+	
+#### Non-School Operating Hours
+	
 <p>Students can only contact the&nbsp;<strong>SLS Helpdesk&nbsp;</strong>outside the school operating hours.</p>
 <p><strong>SLS Helpdesk: 6702 6513</strong></p>
 <p><strong>Mondays &ndash; Fridays: 4:00 pm &ndash; 9:00 pm</strong></p>
 <p><strong>Saturdays: 9:00 am &ndash; 9:00 pm</strong></p>
 <p>*Closed on Sundays &amp; Public Holidays</p>
 <p>Alternatively, students can email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p>
-<p>&nbsp;</p>
-<p><strong>Online Form (On HBL Days)</strong></p>
+	
+#### Online Form (On HBL Days)
+	
 <p>Please use the FormSG (click&nbsp;<a href="https://form.gov.sg/5d65d57cd6754c0012d6d775">here</a>) as attached to request for passwords reset/to unlock accounts. Please ensure that you provide a contactable number as a reference.</p>
 <p><strong>For all technical assistance and support&nbsp;</strong></p>
 <p>Please email to <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>&nbsp;or contact SLS helpdesk at&nbsp;(65) 6702 6513.</p>
