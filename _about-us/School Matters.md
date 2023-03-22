@@ -87,22 +87,11 @@ description: ""
 </thead>
 <tbody>
 <tr>
-<td><strong>Mondays, Tuesdays &amp; Fridays</strong></td>
-<td>6.45am &ndash; 6.00pm</td>
-<td>6.45am &ndash; 7.30am 1.40pm &ndash; 2.00pm</td>
-<td>6.45am &ndash; 7.30am 1.30pm &ndash; 2.00pm</td>
+<td><strong>Mondays, Tuesdays Wednesday, Thursday &amp; Fridays</strong></td>
+<td>6.45am &ndash; 5.30pm</td>
+<td>6.45am &ndash; 7.30am 1.30pm &ndash; 1.45pm</td>
+<td>6.45am &ndash; 7.30am 1.30pm &ndash; 1.45pm</td>
 </tr>
-<tr>
-<td><strong>Wednesdays &amp; Thursdays</strong></td>
-<td>6.45am &ndash; 6.00pm</td>
-<td>6.45am &ndash; 7.30am 1.10pm &ndash; 1.30pm</td>
-<td>6.45am &ndash; 7.30am 1.00pm &ndash; 1.30pm</td>
-</tr>
-<tr>
-<td><strong>Saturdays</strong></td>
-<td>8.00am &ndash; 12.00pm</td>
-<td>Closed</td>
-<td>Closed</td>
 </tr>
 </tbody>
 </table>
