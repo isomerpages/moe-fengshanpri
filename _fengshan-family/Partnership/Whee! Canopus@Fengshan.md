@@ -36,5 +36,27 @@ To become the Student Care Centre of choice that strives to develop students wit
 
 Whee!Canopus facilitates the learning and holistic development of students through an array of values-based programmes that incorporates the school’s values. 
 Our students will have more to look forward to as we have lined up new and improved programmes to aid them towards becoming well-rounded individuals.
-Another bonus not to be missed, are the ad-hoc enrichment programmes that are fully funded by Whee!Canopus, to ensure that every student is given the same opportunity to embrace new skills. 
+Another bonus not to be missed, are the ad-hoc enrichment programmes that are fully funded by Whee!Canopus, to ensure that every student is given the same opportunity to embrace new skills.
 
+
+
+Whee!Canopus Curriculum: Values-based Programme
+TIME	DAILY ACTIVITIES
+
+
+| Time | Daily Activities|
+| -------- | -------- |
+| 10.30am – 1.30pm   | Staff Planning / Admin Work / Contact Time    | 
+|1.30pm – 2.15pm  | Lunch  &amp; Shower    | 
+| 2.15pm – 3.15pmm   | Study Time -  Whee!Learn     | 
+| 3.15pm – 4.00pm   | Staff Planning / Admin Work / Contact Time    | 
+| 10.30am – 1.30pm   | Staff Planning / Admin Work / Contact Time    | 
+| 10.30am – 1.30pm   | Staff Planning / Admin Work / Contact Time    | 
+
+	Staff Planning / Admin Work / Contact Time
+	
+	Nap/Rest – Whee!Charge
+4.00pm – 5.00pm	*Character Development / *Enrichment Programmes / *Outdoor Play 
+5.00pm – 5.30pm	Tea Break
+5.30pm – 6.30pm	Indoor Play
+ 
