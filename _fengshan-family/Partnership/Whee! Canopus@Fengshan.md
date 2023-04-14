@@ -29,8 +29,12 @@ To become the Student Care Centre of choice that strives to develop students wit
 * **N**oble: Think and act based on strong moral values
 * **O**wnership: Take pride in our work
 * **P**artnership: Establish a trusting relationship with all partners
-
 * **U**nity: Trust in teamwork
-**S**park: Instil fun in our programmes
+* **S**park: Instil fun in our programmes
 
+### Whee!Canopus Curriculum: Values-based Programme
+
+Whee!Canopus facilitates the learning and holistic development of students through an array of values-based programmes that incorporates the school’s values. 
+Our students will have more to look forward to as we have lined up new and improved programmes to aid them towards becoming well-rounded individuals.
+Another bonus not to be missed, are the ad-hoc enrichment programmes that are fully funded by Whee!Canopus, to ensure that every student is given the same opportunity to embrace new skills. 
 
