@@ -49,9 +49,10 @@ TIME	DAILY ACTIVITIES
 | 10.30am – 1.30pm   | Staff Planning / Admin Work / Contact Time    | 
 |1.30pm – 2.15pm  | Lunch  &amp; Shower    | 
 | 2.15pm – 3.15pmm   | Study Time -  Whee!Learn     | 
-| 3.15pm – 4.00pm   | Staff Planning / Admin Work / Contact Time    | 
-| 10.30am – 1.30pm   | Staff Planning / Admin Work / Contact Time    | 
-| 10.30am – 1.30pm   | Staff Planning / Admin Work / Contact Time    | 
+| 3.15pm – 4.00pm   | Nap/Rest - Whee!Charge   | 
+| 4.00pm– 5.00pm   | Character Development / Enrichment Programmes / Outdoor Play   | 
+| 5.00pm – 5.30pm   | Tea Break    | 
+| 5.30pm – 6.30pm   | Indoor Play    | 
 
 	Staff Planning / Admin Work / Contact Time
 	
@@ -59,4 +60,3 @@ TIME	DAILY ACTIVITIES
 4.00pm – 5.00pm	*Character Development / *Enrichment Programmes / *Outdoor Play 
 5.00pm – 5.30pm	Tea Break
 5.30pm – 6.30pm	Indoor Play
- 
