@@ -60,3 +60,5 @@ TIME	DAILY ACTIVITIES
 4.00pm – 5.00pm	*Character Development / *Enrichment Programmes / *Outdoor Play 
 5.00pm – 5.30pm	Tea Break
 5.30pm – 6.30pm	Indoor Play
+
+![](/images/wheecanopus%20pic%202.png)
