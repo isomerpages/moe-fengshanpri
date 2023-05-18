@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Canteen Opening.md
       - About Us.md
       - School Values.md
       - School Matters.md
@@ -16,3 +15,4 @@ collections:
       - Hall of Fame/2023.md
       - Hall of Fame/2021.md
       - Hall of Fame/2020.md
+      - School Canteen Opening.md
