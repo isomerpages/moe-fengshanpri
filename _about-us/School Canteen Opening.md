@@ -38,3 +38,21 @@ Completed application form
 * Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant/s.
 * Photocopy of Identification Card (front &amp; back)
 * Records of past catering/canteen experiences, if any
+
+<br>
+
+#### Submission of Application 
+
+Please submit the completed application form with the supporting documents to the school’s General Office or email fsps@moe.edu.sg by 30 June 2023.
+
+#### Enquiries
+
+For further enquiries, please contact below:
+
+**Contact Name:** Mdm Rasidah Sam
+
+**Contact Number:** 6586 0315.
+
+Email:  Rasidah_SAM@schools.gov.sg
+
+Address: Fengshan Primary, 307 Bedok North Road, Singapore 469680
