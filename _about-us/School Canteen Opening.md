@@ -3,11 +3,17 @@ title: School Canteen Opening
 permalink: /about-us/schoolcanteen/
 description: ""
 ---
- Fengshan Primary School is inviting applicants to operate a “**Muslim Cooked Food Stall”**. Menu may include noodle and/or rice items. 
+### School Canteen Advertisement
+
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| Malay Cooked Food Stall | 30 Jun 2023 | Rice or noodle stalls are acceptable.|
+
+Fengshan Primary School is inviting applicants to operate a “**Muslim Cooked Food Stall”**. Menu may include noodle and/or rice items. 
 
 We are a single session school with an estimated student population of 1200. The canteen operating hours are from Mondays to Fridays, 7am to 3pm during School Term. 
 
-Requirements
+#### Requirements
 Applicants should meet the following criteria: 
 
 * Singapore Citizens or Singapore Permanent Resident.
@@ -22,9 +28,10 @@ Applicants should meet the following criteria:
 
 <br> 
 
-Application Procedure and Food Tasting
+#### Application Procedure and Food Tasting
 
 * Download and complete the application form. You may also request for a hardcopy from the School’s General Office. 
+[ [Application Form] ](/files/Fengshan%20Document%20Links/application%20form%20for%20canteen%20(fsps)%2019%20may%2023.pdf)
 * Interested must submit the following documents:
 Completed application form
 * Proposed menu and price list of all items to be sold
