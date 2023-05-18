@@ -31,3 +31,13 @@ Hari Raya Puasa was held on 25th April 2023 at MK@Fengshan
 
 
 ![](/images/MOE%20MK%20Files/mk%20pic%20004%20hari%20raya%20puasa%20celebrations%20-%2025th%20april%202023.jpg)
+Children making Honey Cornflakes in school as part of Hari Raya Celebrations
+
+<br>
+
+![](/images/MOE%20MK%20Files/mk%20pic%20005%20hari%20raya%20puasa%20celebrations%20-%2025th%20april%202023.jpg)
+Going visiting to our friends’ classrooms
+
+<br>
+
+
