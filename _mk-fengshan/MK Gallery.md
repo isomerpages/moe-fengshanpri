@@ -70,5 +70,3 @@ Children went for a learning journey to Heartbeat@Bedok to explore their own tow
 Children engaged in book reading at Bedok Regional Library located at Heartbeat@Bedok
 
 <br>
-
-
