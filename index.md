@@ -19,4 +19,16 @@ sections:
           description: Our school information
           url: /about-us/school-matters/
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: School Canteen Advertisement
+      subtitle: Application Open
+      description: Malay Cooked Food Stall
+      button: "Click here "
+      url: /about-us/schoolcanteen/
 ---
