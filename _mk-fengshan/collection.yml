@@ -2,6 +2,6 @@ collections:
   mk-fengshan:
     output: true
     order:
-      - MOE Kindergarten Gallery.md
       - MK Fengshan.md
       - Our Staff at MK.md
+      - MOE Kindergarten Gallery.md
