@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Canteen Opening.md
       - About Us.md
       - School Values.md
       - School Matters.md
