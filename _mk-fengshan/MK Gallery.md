@@ -66,7 +66,7 @@ Watching our friends walk down the runway durign the Hari Raya Fashion show.
 
 <br>
 
-![](/images/MOE%20MK%20Files/mk%20pic%20010%20learning%20journey:%20heartbeat%20@%20bedok%20-%2028th%20april%202023.jpg)
+![](/images/MOE%20MK%20Files/Hari%20Raya%20Puasa%2025%20April%202023/mk%20pic%20010%20learning%20journey:%20heartbeat%20@%20bedok%20-%2028th%20april%202023.jpg)
 Children engaged in book reading at Bedok Regional Library located at Heartbeat@Bedok
 
 <br>
