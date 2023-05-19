@@ -4,19 +4,24 @@ permalink: /departments/ict/
 description: ""
 third_nav_title: ICT
 ---
-<h4 style="text-align: center;"><strong>Committee Members (2022)</strong></h4>
-<p style="text-align: center;">Mdm Shanaz Nazeeha Ramli (HOD)</p>
-<p style="text-align: center;">Mdm Hazliana Mahat (SH)</p>
-<p style="text-align: center;">Mr Muhammad Fariz (ICT Manager)</p>
-<p style="text-align: center;">Mrs Koh Jing Han</p>
-<p style="text-align: center;">Miss Winnie Teng</p>
-<p style="text-align: center;">Mdm Nuradilah Abdul Wahid</p>
-<p style="text-align: center;">Mdm Theivanai d/o Palanisamy</p>
-<p style="text-align: center;">Mr Welzl Valentin Xin Wei</p>
-<p style="text-align: center;"><strong>ICT Support Staff</strong></p>
-<p style="text-align: center;">Mr Azlan Abu Hassan (ICT Educator)</p>
-<p style="text-align: center;">Mr&nbsp;Jamil Calope Omar (NCS Desktop Engineer )</p>
-<p style="text-align: center;">Miss Nurain binte Udi Suriadi (NCS Desktop Engineer )</p>
+### Committee Members (2022)
+
+</p>
+
+| Name | Designation | Column 3 |
+| -------- | -------- | -------- |
+| Mdm Shanaz Nazeeha Ramli     | HOD-ICT | Text     |
+| Mdm Hazliana Mahat    | SH/ICT | Text     |
+| Mr. Muhammad Fariz    | ICT Manager | Text     |
+| Ms. Winnie Teng    | ICT Champion| Text     |
+|Mdm. Nuradilah Abdul Wahid     |  ICT Champion | Text     |
+| Mr. Welzl Valentin Xin Wei  |  ICT Champion | Text     |
+| Mdm. Theivanai d/o Palanisamy   |  ICT Champion | Text     |
+| Mr. Azlan Abu Hassan   | ICT Educator | Text     |
+| Mr. Jamil Calope Omar  | NCS-DE | Text     |
+| Ms. Nurain binte Udi Suriadi| NCS-DE | Text     |
+</p>
+
 <h4 style="text-align: center;"><strong>Our Focus</strong></h4>
 <p style="text-align: center;">Integration of ICT into Quality Programmes to enhance and motivate learning</p>
 <p style="text-align: center;">To integrate values education in relation to ICT through cyberwellness education</p>
