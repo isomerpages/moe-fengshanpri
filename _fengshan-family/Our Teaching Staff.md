@@ -12,7 +12,7 @@ description: ""
 | Mdm Fauziah Fadzillah	| Lead Teacher (ML) | fauziah_muhd_fadzillah@moe.edu.sg|
 | Mdm Theivanai d/o Palanisamy	| Senior Teacher (TL)	| theivanai_palanisamy@moe.edu.sg|
 | Ms Xu Huimin	| Senior Teacher (Science)| xu_huimin_a@moe.edu.sg|
-| Miss Huang Chiung-Yao| Senior Teacher (CL)| huang_chiung-yao@schools.gov.sg|
+| Ms Huang Chiung-Yao| Senior Teacher (CL)| huang_chiung-yao@schools.gov.sg|
 | Ms Chia Soo Yin| Senior Teacher (English)| chia_soo_yin@moe.edu.sg|
 | Mdm. Ang Chea Ing ( Mrs. Allen Losey)| Senior Teacher (Music)| allen_losey@moe.edu.sg|
 | Mr. Mr Abdul Halim Bin Abdul Ghani | Senior Teacher (Math)| abdul_halim_abdul_ghani@moe.edu.sg|
