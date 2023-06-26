@@ -53,23 +53,32 @@ Link:https://esms.stsynthesis.com/MOE/Default.aspx
 
 Asset management login for asset custodians. For any reset or account related, please approach General office for more information.
 
-## Application for Forms and Shortlinks
+## School Apps, Form Builder and Shortlink Creator
 
-#### FormSG 
+#### Parents Gateway-(For School Staff Only)
+
+Link: https://forms.moe.edu.sg/
+
+Parents Gateway admin portal to manage responses from PG Apps.
+<br>Require MiMS account to login PG portal.
+
+#### FormSG  form building and data collection features
 
 Main Link:https://form.gov.sg
 <br>Collation form link: https://collate.form.gov.sg/
 
-Creation of secure government forms online. To use MiMS login to access the site
+Creation of secure government forms online. 
+<br> Requires MIMS username and outlook to access the site
 
-#### MOE AllEars
+#### MOE AllEars Form Builder
 
 Link: https://forms.moe.edu.sg/
 
-Online one-stop form creation and tracking for MOE staff
+Online one-stop form creation and tracking for student and staff
+<br>Requires MIMS username  to access the site
 
-[Parents Gateway (For Education Officers/Admin)](https://pg.moe.edu.sg/)
 
 14. [SSOE2 Service Portal Site](https://ssoe2.moe.edu.sg/)
-15. [FormSG](/#!/) (Link for data collation can be found [here](https://collate.form.gov.sg/))
-16. [MOE All Ears](https://forms.moe.edu.sg/)
+
+
+https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fowa
