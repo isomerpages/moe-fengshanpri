@@ -19,6 +19,10 @@ description: ""
 <li><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-educators" target="_blank" rel="noopener noreferrer">Cyber Wellness Resources For Educators</a></li>
 <li><a href="https://pg.moe.edu.sg/" target="_blank" rel="noopener noreferrer">Parent Gateway (for Education Officers/Admin)</a></li>
 <li><a href="https://esms.stsynthesis.com/" target="_blank" rel="noopener noreferrer">ESMS Synthesis (For Admin)</a></li>
-<li><a href="https://ssoe2.moe.edu.sg/" target="_blank" rel="noopener noreferrer">SSOE2 Service Portal</a></li>
-<li><a href="https://form.gov.sg/#!/">FormSG</a> (separate link for data collation&nbsp;<a href="https://collate.form.gov.sg/">here</a>)</li>
 </ol>
+
+12. [Parents Gateway (For Education Officers/Admin)](https://pg.moe.edu.sg/)
+13. [ESMS Synthesis](https://ssoe2.moe.edu.sg/) (For Admin Login)
+14. [SSOE2 Service Portal Site](https://ssoe2.moe.edu.sg/)
+15. [FormSG](https://form.gov.sg/#!/) (Link for data collation can be found [here](https://collate.form.gov.sg/))
+16. [MOE All Ears](https://forms.moe.edu.sg/)
