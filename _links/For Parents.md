@@ -19,21 +19,26 @@ http://www.moe.gov.sg/parentkit
 For matters pertaining school services such as school uniform, dental, student care or bookstore, please access the correct link in the school website  below or  [click here](https://www.fengshanpri.moe.edu.sg/explore/for-parents/school-vendor-contacts/)
 
 How to access the school services:
-At the school top menu go to -> "**About Us**". Select "**School Services**"
+At the school top menu go to -&gt; "**About Us**". Select "**School Services**"
 
 ### Parents Gateway
 
-Parent Gateway is one of the mobile app that the school uses to inform or disseminate class or school-based information as well as updating information, consent form and managing school appointment (coming soon) . The Parent Gateway app is free and available for download to all mobile devices (subject to minimum requirements in the OS version of the mobile device), and accessible using SingPass account. 
+Parent Gateway is one of the mobile app that the school uses to inform&nbsp;or disseminate class or school-based information as well as updating information, consent form and managing school appointment (coming soon) . The Parent Gateway app is free and available for download to all mobile devices (subject to minimum requirements in the OS version of the mobile device), and accessible using SingPass account. 
 
 As a reminder, Parents Gateway is **not available for computers/laptop login browser**, rather parents/legal guardian are required to download the app from their mobile Android/iOS device to access Parents Gateway app.
 
-**For Android Users:** To download the Parent Gateway app devices, click [here](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG). (Require version 6.0 and up)
+##### For Android Users
+To download the Parent Gateway app devices, click&nbsp;[here](https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG). (Require version 6.0 and up)
 
-**For Apple Users:** To download the Parent Gateway app Apple OS mobile devices, click [here](https://apps.apple.com/sg/app/parents-gateway/id1267198708). (Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch)
+##### For Apple Users 
 
-To understand on how to reset the Singpass, click [here](https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail),
+To download the Parent Gateway app Apple OS mobile devices, click&nbsp;[here](https://apps.apple.com/sg/app/parents-gateway/id1267198708). (Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch)
 
-To apply for a Singpass account at the SingPass website click [here]([Singpass - Register](https://www.singpass.gov.sg/home/ui/register/instructions)). 
+##### SingPass requirement for Parents Gateway
+
+To understand on how to reset the Singpass, click&nbsp;[here](https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail),
+
+To apply for a Singpass account at the SingPass website click&nbsp;[here]([Singpass - Register](https://www.singpass.gov.sg/home/ui/register/instructions)).&nbsp;
 
 As per Singpass website (correct as of 6 March 2023), the following groups of users are eligible to apply for Singpass:
 
