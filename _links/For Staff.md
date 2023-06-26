@@ -3,22 +3,142 @@ title: For Staff
 permalink: /explore/for-staff/
 description: ""
 ---
-<ol>
-<li><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank" rel="noopener noreferrer">MOE Intranet</a></li>
-<li><a href="https://rbs.avero-tech.com/">Resource Booking System</a></li>
-<li><a href="https://icon.moe.edu.sg/" target="_blank" rel="noopener noreferrer">iCON Email</a></li>
-<li><a href="https://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener noreferrer">School Cockpit</a></li>
-<li><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" target="_blank" rel="noopener noreferrer">MiMS Portal</a></li>
-<li><a href="https://idm.opal2.moe.edu.sg" target="_blank" rel="noopener noreferrer">OPAL2</a></li>
-<li><a href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp" target="_blank" rel="noopener noreferrer">Pac@Gov</a></li>
-<li><a href="https://www.hrp.gov.sg/hrp/#/" target="_blank" rel="noopener noreferrer">HRP Portal</a></li>
-<li>
-<div><a href="https://go.gov.sg/fsps-transportbooking" target="_blank" rel="noopener noreferrer">Online Transport Booking Form 2023</a></div>
-</li>
-<li><a href="http://gg.gg/fsps_suggestion" target="_blank" rel="noopener noreferrer">FSPS Ideas in Action</a></li>
-<li><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-educators" target="_blank" rel="noopener noreferrer">Cyber Wellness Resources For Educators</a></li>
-<li><a href="https://pg.moe.edu.sg/" target="_blank" rel="noopener noreferrer">Parent Gateway (for Education Officers/Admin)</a></li>
-<li><a href="https://esms.stsynthesis.com/" target="_blank" rel="noopener noreferrer">ESMS Synthesis (For Admin)</a></li>
-<li><a href="https://ssoe2.moe.edu.sg/" target="_blank" rel="noopener noreferrer">SSOE2 Service Portal</a></li>
-<li><a href="https://form.gov.sg/#!/">FormSG</a> (separate link for data collation&nbsp;<a href="https://collate.form.gov.sg/">here</a>)</li>
-</ol>
+## Staff Access Management 
+
+### MIMS management portal
+
+Link: https://idp.mims.moe.gov.sg
+
+All staff are to access this manage and apply all MOE related applications including iCON, Outlook and SLS, as well as self-reset password.
+
+
+### HR &amp; Payroll (HRP) Portal
+
+Link: http://hrp.gov.sg/
+
+Staff to login to HRP site for one-stop portal HR related application and matters
+
+### School Cockpit Link
+
+Link: https://schoolcockpit.moe.gov.sg/
+
+School cockpit (SC Link) access login site.
+
+### School Cockpit (SC) Mobile
+
+Link: https://scmobile.moe.edu.sg/
+
+SCMobile link for mobile attendance and managing **FlexiList** for attendance and activities
+
+### iCON Email and Google Apps
+
+Link: https://icon.moe.edu.sg/
+
+Access link for staff to access iCON email and Google workspace app.
+
+### SSOE2 Service Portal (ICT)
+
+Link: https://ssoe2.moe.edu.sg/
+
+Access link for staff to access ICT portal to raise incident, service request or purchase of ICT hardware, software and services.
+
+### CES Outlook link (Require SSOE2 devices)
+
+Link:https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fowa
+
+Alternative link to access CES Email outlook on SSOE2 devices **only**.
+
+## School Resources Booking Portal
+
+#### AVERO Resource Booking System (RBS)
+
+Link: https://rbs.avero-tech.com/
+
+Link for booking of school resources and rooms for meeting and activities.
+
+#### Transport Booking 
+
+Link: https://go.gov.sg/fsps-transportbooking
+<br> Booking Updates link: https://go.gov.sg/fsps-transportbooking-responce
+
+Staff to access transport bus /van booking using the form above, as well as monitoring of updates and status of booking.
+Require ICON login to access the site and booking.
+
+#### ST Synthesis ESMS Asset Management
+
+Link:https://esms.stsynthesis.com/MOE/Default.aspx
+
+Asset management login for asset custodians. For any reset or account related, please approach General office for more information.
+
+## School Apps, Form Builder and Shortlink Creator
+
+### Parents Gateway-(For School Staff Only)
+
+Link: https://forms.moe.edu.sg/
+
+Parents Gateway admin portal to manage responses from PG Apps.
+<br>Require MiMS account to login PG portal.
+
+### FormSG  form building and data collection features
+
+Main Link:https://form.gov.sg
+<br>Collation form link: https://collate.form.gov.sg/
+
+Creation of secure government forms online. 
+<br> Requires MIMS username and outlook to access the site
+
+### MOE AllEars Form Builder
+
+Link: https://forms.moe.edu.sg/
+
+Online one-stop form creation and tracking for student and staff
+<br>Requires MIMS username  to access the site
+
+### Go.gov.sg shortlink creator
+
+Link: https://form.gov.sg/
+
+**Go.gov.sg**&nbsp;short links can only be created by school staff,to ensure the link is from a trustworthy source. Require MIMS username and email to access the site.
+
+### For.edu shortlink creator 
+
+Link: https://forms.moe.edu.sg/
+
+**for.edu.sg**&nbsp;short links alternative for school staff to ensure the link is from trustworthy course. 
+
+
+## School Access and Learning Portal
+
+####  OPAL2  Learing Portal
+Link: https://idm.opal2.moe.edu.sg/
+
+OPAL2.0 is a digital learning space for school staff in MOE.
+
+####  Fengshan Primary ICT department
+Link: https://go.gov.sg/fsps-ictdept
+
+Resources site for school IT applications,templates, school resources information and loan. Require iCON account to access site.
+
+#### L&amp;D Sharing at Fengshan
+
+Link: https://go.gov.sg/fsps-ld-sharing
+
+One-stop Resource Site for School’s Key Learning Programmes. Require iCON account to access site.
+
+#### MOE Intranet 
+
+Link: https://intranet.moe.gov.sg/
+
+Maint site for MOE Intranet (Require SSOE2 devices).
+
+See the links below to  MOE Intranet 
+
+* Professional Development (PD): https://intranet.moe.gov.sg/academy/Pages/professional-development/PD_index.aspx
+
+* People Finder: https://pfs.moe.gov.sg/pq/homepage.do
+
+* People Finder: https://pfs.moe.gov.sg/pq/homepage.do
+
+* IT Information for School Users: https://intranet.moe.gov.sg/itd/pages/schools.aspx
+
+* Circular and Notifications: https://intranet.moe.gov.sg/my-workspace-admin/pages/circulars/index.aspx
