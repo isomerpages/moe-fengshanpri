@@ -5,33 +5,45 @@ description: ""
 ---
 ## Staff Access Management 
 
-#### MIMS management portal
+### MIMS management portal
 
 Link: https://idp.mims.moe.gov.sg
 
 All staff are to access this manage and apply all MOE related applications including iCON, Outlook and SLS, as well as self-reset password.
 
 
-
-#### HR &amp; Payroll (HRP) Portal
+### HR &amp; Payroll (HRP) Portal
 
 Link: http://hrp.gov.sg/
 
 Staff to login to HRP site for one-stop portal HR related application and matters
 
-#### School Cockpit Link
+### School Cockpit Link
 
 Link: https://schoolcockpit.moe.gov.sg/
 
 School cockpit (SC Link) access login site.
 
-#### School Cockpit (SC) Mobile
+### School Cockpit (SC) Mobile
 
 Link: https://scmobile.moe.edu.sg/
 
-SCMobile link for mobile attendance and **FlexiList** portal
+SCMobile link for mobile attendance and managing **FlexiList** for attendance and activities
 
-## Resources Booking Portal
+### iCON Email and Google Apps
+
+Link: https://icon.moe.edu.sg/
+
+Access link for staff to access iCON email and Google workspace app.
+
+### SSOE2 Service Portal (ICT)
+
+Link: https://ssoe2.moe.edu.sg/
+
+Access link for staff to access ICT portal to raise incident, service request or purchase of ICT hardware, software and services.
+
+
+## School Resources Booking Portal
 
 #### AVERO Resource Booking System (RBS)
 
@@ -55,14 +67,14 @@ Asset management login for asset custodians. For any reset or account related, p
 
 ## School Apps, Form Builder and Shortlink Creator
 
-#### Parents Gateway-(For School Staff Only)
+### Parents Gateway-(For School Staff Only)
 
 Link: https://forms.moe.edu.sg/
 
 Parents Gateway admin portal to manage responses from PG Apps.
 <br>Require MiMS account to login PG portal.
 
-#### FormSG  form building and data collection features
+### FormSG  form building and data collection features
 
 Main Link:https://form.gov.sg
 <br>Collation form link: https://collate.form.gov.sg/
@@ -70,15 +82,28 @@ Main Link:https://form.gov.sg
 Creation of secure government forms online. 
 <br> Requires MIMS username and outlook to access the site
 
-#### MOE AllEars Form Builder
+### MOE AllEars Form Builder
 
 Link: https://forms.moe.edu.sg/
 
 Online one-stop form creation and tracking for student and staff
 <br>Requires MIMS username  to access the site
 
+### Go.gov.sg shortlink creator
 
-14. [SSOE2 Service Portal Site](https://ssoe2.moe.edu.sg/)
+Link: https://form.gov.sg/
 
+**Go.gov.sg**&nbsp;short links can only be created by school staff,to ensure the link is from a trustworthy source. Require MIMS username and email to access the site.
+
+#### For.edu shortlink creator 
+
+Link: https://forms.moe.edu.sg/
+**for.edu.sg**&nbsp;short links alternative for school staff to ensure the link is from trustworthy course. 
+
+
+## Teaching and Learning Link
 
 https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fowa
+
+(https://ssoe2.moe.edu.sg/)
+<br>Require MIMS username and email to access the site.
