@@ -19,11 +19,12 @@ description: ""
 
 ## Primary 1
 
+
 | Class	 | Name | Email |
 | -------- | -------- | -------- |
 | 1A     | Ms. Tan Wanyi  <br> Ms. June Chong Chia Fong  | tan_wanyi@moe.edu.sg  <br> chong_chia_fong@moe.edu.sg  |
-| 1B     | Miss Meera d/o Pathmanathan <br> Mdm. Tan Wee  Su  | meera_pathmanathan@moe.edu.sg   <br> tan_wee_su@moe.edu.sg   |
-| 1C     | Ms. Tan Gek Keow Jolin  |tan_gek_keow@moe.edu.sg |
+| 1B     | Miss Meera d/o Pathmanathan | meera_pathmanathan@moe.edu.sg |
+| 1C     | Ms. Tan Gek Keow Jolin <br> Ms. Tan Wee Su  |tan_gek_keow@moe.edu.sg <br> tan_wee_su@moe.edu.sg |
 | 1D     | Mdm. Norjahan Begum d/o M Ussaina <br> Ms Jessica Tsang Si’en  | norjahan_begum@moe.edu.sg   <br> Jessica_Tsang_Sien@moe.edu.sg  |
 | 1E     | Mdm Tay Rui Shan Isabel  <br> Mdm. Aw Shihui  | tay_rui_shan@moe.edu.sg   <br> aw_shihui@moe.edu.sg |
 | 1F     | Mdm. Marlina binte Mokhtar <br> Mr. Teo Choon Hoe Ivan  | marlina_mokhtar@moe.edu.sg <br> ivan_teo@moe.edu.sg |
