@@ -107,9 +107,38 @@ Link: https://forms.moe.edu.sg/
 **for.edu.sg**&nbsp;short links alternative for school staff to ensure the link is from trustworthy course. 
 
 
-## Learning Portal
+## School and Learning Portal
 
 ####  OPAL2  Learing Portal
 Link: https://idm.opal2.moe.edu.sg/
 
 OPAL2.0 is a digital learning space for school staff in MOE.
+
+####  Fengshan Primary ICT department
+Link: https://go.gov.sg/fsps-ictdept
+
+Resources site for school IT applications,templates, school resources information and loan. Require iCON account to access site.
+
+#### L&amp;D Sharing at Fengshan
+
+Link: https://go.gov.sg/fsps-ld-sharing
+
+One-stop Resource Site for School’s Key Learning Programmes. Require iCON account to access site.
+
+#### MOE Intranet 
+
+Link: https://intranet.moe.gov.sg/
+
+Maint site for MOE Intranet (Require SSOE2 devices).
+
+See the links below to  MOE Intranet 
+
+* Professional Development (PD): https://intranet.moe.gov.sg/academy/Pages/professional-development/PD_index.aspx
+
+* People Finder: https://pfs.moe.gov.sg/pq/homepage.do
+
+* People Finder: https://pfs.moe.gov.sg/pq/homepage.do
+
+* IT Information for School Users: https://intranet.moe.gov.sg/itd/pages/schools.aspx
+
+* Circular and Notifications: https://intranet.moe.gov.sg/my-workspace-admin/pages/circulars/index.aspx
