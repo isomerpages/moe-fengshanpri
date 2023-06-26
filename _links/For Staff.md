@@ -17,8 +17,6 @@ description: ""
 </li>
 <li><a href="http://gg.gg/fsps_suggestion" target="_blank" rel="noopener noreferrer">FSPS Ideas in Action</a></li>
 <li><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-educators" target="_blank" rel="noopener noreferrer">Cyber Wellness Resources For Educators</a></li>
-<li><a href="https://pg.moe.edu.sg/" target="_blank" rel="noopener noreferrer">Parent Gateway (for Education Officers/Admin)</a></li>
-<li><a href="https://esms.stsynthesis.com/" target="_blank" rel="noopener noreferrer">ESMS Synthesis (For Admin)</a></li>
 </ol>
 
 12. [Parents Gateway (For Education Officers/Admin)](https://pg.moe.edu.sg/)
