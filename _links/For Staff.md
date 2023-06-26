@@ -107,7 +107,7 @@ Link: https://forms.moe.edu.sg/
 **for.edu.sg**&nbsp;short links alternative for school staff to ensure the link is from trustworthy course. 
 
 
-## School and Learning Portal
+## School Access and Learning Portal
 
 ####  OPAL2  Learing Portal
 Link: https://idm.opal2.moe.edu.sg/
