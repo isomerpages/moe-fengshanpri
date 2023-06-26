@@ -15,7 +15,6 @@ description: ""
 | Ms Xu Huimin	| Senior Teacher (Science)| xu_huimin_a@moe.edu.sg|
 | Ms Huang Chiung-Yao| Senior Teacher (CL)| huang_chiung_yao@moe.edu.sg|
 | Ms Chia Soo Yin| Senior Teacher (English)| chia_soo_yin@moe.edu.sg|
-| Mr. Mr Abdul Halim Bin Abdul Ghani | Senior Teacher (Math)| abdul_halim_abdul_ghani@moe.edu.sg|
 
 ## Primary 1
 
