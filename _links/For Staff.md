@@ -7,44 +7,44 @@ description: ""
 
 ### MIMS management portal
 
-Link: https://idp.mims.moe.gov.sg
+Link:  [https://idp.mims.moe.gov.sg](https://idp.mims.moe.gov.sg)
 
 All staff are to access this manage and apply all MOE related applications including iCON, Outlook and SLS, as well as self-reset password.
 
 
 ### HR &amp; Payroll (HRP) Portal
 
-Link: http://hrp.gov.sg/
+Link:  [ https://scmobile.moe.edu.sg/]( https://scmobile.moe.edu.sg/)
 
 Staff to login to HRP site for one-stop portal HR related application and matters
 
 ### School Cockpit Link
 
-Link: https://schoolcockpit.moe.gov.sg/
+Link:  [https://schoolcockpit.moe.gov.sg/](https://schoolcockpit.moe.gov.sg/)
 
 School cockpit (SC Link) access login site.
 
 ### School Cockpit (SC) Mobile
 
-Link: https://scmobile.moe.edu.sg/
+Link: [ https://scmobile.moe.edu.sg/]( https://scmobile.moe.edu.sg/)
 
 SCMobile link for mobile attendance and managing **FlexiList** for attendance and activities
 
 ### iCON Email and Google Apps
 
-Link: https://icon.moe.edu.sg/
+Link:  [https://icon.moe.edu.sg/](https://icon.moe.edu.sg/)
 
 Access link for staff to access iCON email and Google workspace app.
 
 ### SSOE2 Service Portal (ICT)
 
-Link: https://ssoe2.moe.edu.sg/
+Link:  [https://ssoe2.moe.edu.sg/](https://ssoe2.moe.edu.sg/)
 
 Access link for staff to access ICT portal to raise incident, service request or purchase of ICT hardware, software and services.
 
 ### CES Outlook link (Require SSOE2 devices)
 
-Link:https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fowa
+Link: [Outlook Login Email (Web Version)](https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fow)
 
 Alternative link to access CES Email outlook on SSOE2 devices **only**.
 
