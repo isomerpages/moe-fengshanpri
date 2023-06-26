@@ -42,6 +42,11 @@ Link: https://ssoe2.moe.edu.sg/
 
 Access link for staff to access ICT portal to raise incident, service request or purchase of ICT hardware, software and services.
 
+### CES Outlook link (Require SSOE2 devices)
+
+Link:https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fowa
+
+Alternative link to access CES Email outlook on SSOE2 devices **only**.
 
 ## School Resources Booking Portal
 
@@ -95,15 +100,16 @@ Link: https://form.gov.sg/
 
 **Go.gov.sg**&nbsp;short links can only be created by school staff,to ensure the link is from a trustworthy source. Require MIMS username and email to access the site.
 
-#### For.edu shortlink creator 
+### For.edu shortlink creator 
 
 Link: https://forms.moe.edu.sg/
+
 **for.edu.sg**&nbsp;short links alternative for school staff to ensure the link is from trustworthy course. 
 
 
-## Teaching and Learning Link
+## Learning Portal
 
-https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fowa
+####  OPAL2  Learing Portal
+Link: https://idm.opal2.moe.edu.sg/
 
-(https://ssoe2.moe.edu.sg/)
-<br>Require MIMS username and email to access the site.
+OPAL2.0 is a digital learning space for school staff in MOE.
