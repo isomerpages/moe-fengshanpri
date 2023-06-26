@@ -74,7 +74,7 @@ Asset management login for asset custodians. For any reset or account related, p
 
 ### Parents Gateway-(For School Staff Only)
 
-Link:[ https://forms.moe.edu.sg/]( https://forms.moe.edu.sg/)
+Link:[ https://pg.moe.edu.sg/]( https://pg.moe.edu.sg/)
 
 Parents Gateway admin portal to manage responses from PG Apps.
 <br>Require MiMS account to login PG portal.
