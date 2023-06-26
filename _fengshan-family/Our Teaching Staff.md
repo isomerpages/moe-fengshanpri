@@ -87,8 +87,6 @@ description: ""
 
 ## Subject Teachers
 
-
-Subject	Teacher	Email
 | Name	| Designation	| Form Teacher Email|
 | -------- | -------- | -------- |
 | CL | 	Mdm Veronica Guo Liyan |guo_liyan_veronica@moe.edu.sg
