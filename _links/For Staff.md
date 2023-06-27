@@ -14,7 +14,7 @@ All staff are to access this manage and apply all MOE related applications inclu
 
 ### HR &amp; Payroll (HRP) Portal
 
-Link:  [https://www.hrp.gov.sg/](https://www.hrp.gov.sg/)https://www.hrp.gov.sg/
+Link:  [https://www.hrp.gov.sg/](https://www.hrp.gov.sg/)
 
 Staff to login to HRP site for one-stop portal HR related application and matters
 
