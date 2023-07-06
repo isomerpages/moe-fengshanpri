@@ -4,8 +4,7 @@ title: Fengshan Primary School
 description: Brief site description here
 image: /images/logo1.jpg
 permalink: /
-notification: Dear visitor, our website is currently undergoing migration.
-  Please bear with us as we perform updates.
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -19,10 +18,4 @@ sections:
           description: Our school information
           url: /about-us/school-matters/
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
-  - infobar:
-      title: School Canteen Advertisement
-      subtitle: Application Open
-      description: Malay Cooked Food Stall
-      button: "Click here "
-      url: /about-us/schoolcanteen/
 ---
