@@ -31,6 +31,3 @@ links:
     collection: links
   - title: Music@Fengshan
     url: https://sites.google.com/moe.edu.sg/musiclearningfsps
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
