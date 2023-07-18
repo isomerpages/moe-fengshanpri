@@ -28,8 +28,6 @@ links:
   - title: CCA
     collection: cca
   - title: Links
-    collection: links
-  - title: Links
     url: /links
     sublinks:
       - title: For Pupils
