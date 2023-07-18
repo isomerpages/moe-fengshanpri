@@ -38,4 +38,3 @@ Building Staff Competency in the area of ICT
 | **P3** | **Enhanced Learning Through Problem-Based Learning** <br>Scratch Programming <br>Advanced Microsoft Word<br> Intermediate Microsoft PowerPoint<br>Intermediate Internet Skills<br>Emailing<br>Internet Safety|
 | **P4** | **Enhanced Learning Through Problem-Based Learning** <br>Scratch Programming <br>Basic Microsoft Excel<br>Intermediate Internet Skills – Internet Search<br>Advanced Microsoft PowerPoint<br>Internet Safety|
 | **P5 and P6** | **Application of all ICT Skills learnt from P1 – P4** |
-
