@@ -6,8 +6,6 @@ third_nav_title: ICT
 ---
 ### Committee Members (2022)
 
-</p>
-
 | Name | Designation | Column 3 |
 | -------- | -------- | -------- |
 | Mdm Shanaz Nazeeha Ramli     | HOD-ICT | Text     |
@@ -18,16 +16,15 @@ third_nav_title: ICT
 | Mr. Welzl Valentin Xin Wei  |  ICT Champion | Text     |
 | Mdm. Theivanai d/o Palanisamy   |  ICT Champion | Text     |
 | Mr. Azlan Abu Hassan   | ICT Educator | Text     |
-| Mr. Jamil Calope Omar  | NCS-DE | Text     |
+| Mr.&nbsp;Jamil Calope Omar  | NCS-DE | Text     |
 | Ms. Nurain binte Udi Suriadi| NCS-DE | Text     |
-</p>
 
 <h4 style="text-align: center;"><strong>Our Focus</strong></h4>
 <p style="text-align: center;">Integration of ICT into Quality Programmes to enhance and motivate learning</p>
 <p style="text-align: center;">To integrate values education in relation to ICT through cyberwellness education</p>
 <p style="text-align: center;">Preparing pupils for the digital world of today and tomorrow</p>
 <p style="text-align: center;">Building Staff Competency in the area of ICT</p>
-<h4 style="text-align: center;"><strong>ICT Framework (P1 &ndash; P6)</strong></h4>
+<h4 style="text-align: center;"><strong>ICT Framework (P1 – P6)</strong></h4>
 <div class="table-responsive">
 <table border="0" width="686" cellspacing="0" cellpadding="0">
 <thead>
@@ -73,14 +70,14 @@ third_nav_title: ICT
 <td style="text-align: center;" valign="top"><strong>Enhanced Learning Through Problem-Based Learning</strong>
 <p>Scratch Programming</p>
 <p>Basic Microsoft Excel</p>
-<p>Intermediate Internet Skills &ndash; Internet Search</p>
+<p>Intermediate Internet Skills – Internet Search</p>
 <p>Advanced Microsoft PowerPoint</p>
 <p>Internet Safety</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" valign="top"><strong>P5 &amp; P6</strong></td>
-<td style="text-align: center;" valign="top">Application of all ICT Skills learnt from P1 &ndash; P4</td>
+<td style="text-align: center;" valign="top">Application of all ICT Skills learnt from P1 – P4</td>
 </tr>
 </tbody>
 </table>
