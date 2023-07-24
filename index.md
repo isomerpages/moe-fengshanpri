@@ -18,4 +18,11 @@ sections:
           description: Our school information
           url: /about-us/school-matters/
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
+  - infopic:
+      title: Happenings @ Fengshan Primary
+      subtitle: FEATURED VIDEO
+      description: See our latest school video featured in Youtube
+      button: CLICK HERE
+      url: https://www.youtube.com/watch?v=NgrV6DAvTQ4&ab_channel=ETDtogo
+      alt: Image alt text
 ---
