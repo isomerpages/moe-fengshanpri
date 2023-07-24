@@ -8,7 +8,7 @@ description: ""
 
 #### Schedule:
 
-School Team – Monday & Thursday (4.00pm – 5.10pm).
+School Team – Monday &amp; Thursday (4.00pm – 5.10pm).
 
 Development Team – Tuesday (2.30pm – 4.30pm)
 
@@ -19,11 +19,10 @@ ISH Basketball Court
 #### Teachers I/C:
 
 Mr Travis Neo\*  
-Mr James Wong  
+Mr&nbsp;James Wong  
 Mdm Aw Shihui
 
 Mdm Suzana  
-Mr Welzl Valentin Xin Wei
 
 * * *
 
@@ -34,7 +33,7 @@ Mr Welzl Valentin Xin Wei
 
 Development Team – Tuesday (2.30pm – 4.30pm)
 
-Juniors – Wednesday (1.40 pm – 3.40 pm)
+Juniors – Wednesday (1.40&nbsp;pm – 3.40 pm)
 
 Seniors – Wednesday (3.20 pm – 5.15 pm)
 
@@ -69,7 +68,7 @@ Ms Hing Chay Kheng
 
 Development Team – Tuesday (2.30pm – 4.30pm)
 
-School Team – Monday & Thursday (4.10pm – 5.30pm) 
+School Team – Monday &amp; Thursday (4.10pm – 5.30pm)&nbsp;
 
 #### Venue:
 
@@ -85,8 +84,6 @@ Ms Ruhaidah
 
 Mdm Marisa Lee
 
-Mr Abdul Halim
-
 #### Coach:
 
 Mr Mohamed Rezal Bin Hassan
@@ -100,7 +97,7 @@ Mr Mohamed Azahari
 
 #### Schedule:
 
-School Team – Tuesday (2.30 pm – 4.30 pm) & Wed (1.45pm – 3.45pm)
+School Team – Tuesday (2.30 pm – 4.30 pm) &amp; Wed (1.45pm – 3.45pm)
 
 #### Venue:
 
@@ -115,9 +112,9 @@ Mdm Vanessa Ang
 
 #### Coach:
 
-Mr Loy Ming Xin (Wen Wu Learning Studio)
+Mr Loy Ming Xin&nbsp;(Wen Wu Learning Studio)
 
-Mr Koh Yi Yew (Wen Wu Learning Studio)
+Mr Koh Yi Yew&nbsp;(Wen Wu Learning Studio)
 
 
 
@@ -138,42 +135,4 @@ Mdm Cheryl Lim
 <br>Mdm Tan Wee Su  
 Ms Chen Wenjing
 
-### Fengshan Primary Netball Senior Team EZ -3rd
-<hr>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/ps1.jpg"></td>
-<td style="width: 50%;"><img src="/images/ps2.jpg"></td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/ps4.jpg"></td>
-<td style="width: 50%;"><img src="/images/ps5.jpg"></td>
-</tr>
-</tbody>
-</table>
 
-### Fengshan Primary Netball Junior Team EZ - 1st
-
-<hr>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/ps6.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps7.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps8.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps9.jpg"></td>
-</tr>
-<tr>
-<td style="width: 25%;"><img src="/images/ps10.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps11.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps12.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps13.jpg"></td>
-</tr>
-</tbody>
-</table>
-<img src="/images/ps14.jpg">

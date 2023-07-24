@@ -17,6 +17,8 @@ ISH Multi-purpose Room (Lvl 1)
 ### Teachers I/C:
 Ms Allen Losey\*
 
+Mr Welzl Valentin Xin Wei 
+
 Ms Huang Chiung Yao
 
 Mdm Zhao Qianxi
@@ -77,7 +79,7 @@ Library
 Ms Meera\*  
 Mrs Haja
 
-### Instructor:  
+### Instructor:&nbsp;&nbsp;
 
 Ms Kamariah Bte Yusuf
 
@@ -107,7 +109,7 @@ Nur Saliza Mohd Salleh (Fitness Arts Pte Ltd)
 
 ### Visual Art Club
 
-### Schedule :
+### Schedule&nbsp;:
 
 P3 to P6 – Tuesday (2:30pm – 4:30pm)
 
