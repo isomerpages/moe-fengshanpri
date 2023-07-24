@@ -135,42 +135,4 @@ Mdm Cheryl Lim
 <br>Mdm Tan Wee Su  
 Ms Chen Wenjing
 
-### Fengshan Primary Netball Senior Team EZ -3rd
-<hr>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/ps1.jpg"></td>
-<td style="width: 50%;"><img src="/images/ps2.jpg"></td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/ps4.jpg"></td>
-<td style="width: 50%;"><img src="/images/ps5.jpg"></td>
-</tr>
-</tbody>
-</table>
 
-### Fengshan Primary Netball Junior Team EZ - 1st
-
-<hr>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/ps6.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps7.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps8.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps9.jpg"></td>
-</tr>
-<tr>
-<td style="width: 25%;"><img src="/images/ps10.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps11.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps12.jpg"></td>
-<td style="width: 25%;"><img src="/images/ps13.jpg"></td>
-</tr>
-</tbody>
-</table>
-<img src="/images/ps14.jpg">
