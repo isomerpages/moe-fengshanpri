@@ -24,6 +24,5 @@ sections:
       description: See our latest school video featured in Youtube
       button: CLICK HERE
       url: https://www.youtube.com/watch?v=NgrV6DAvTQ4&ab_channel=ETDtogo
-      alt: Image alt text
       image: /images/School Logo and Photo Design/fengshan pri school pic.png
 ---
