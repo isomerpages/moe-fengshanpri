@@ -44,7 +44,7 @@ Completed application form
 
 #### Submission of Application 
 
-Please submit the completed application form with the supporting documents to the school’s General Office or email fsps@moe.edu.sg by 30 June 2023.
+Please submit the completed application form with the supporting documents to the school’s General Office or email fsps@moe.edu.sg by 31 Oct 2023.
 
 #### Enquiries
 
