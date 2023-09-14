@@ -28,7 +28,6 @@ sections:
       alt: Happening at Fengshan 2023
   - infopic:
       title: School Canteen Stall Application
-      subtitle: Add an image and text
       id: infopic
       description: Applications opens now till 31 Oct 2023
       button: Click here for more info
