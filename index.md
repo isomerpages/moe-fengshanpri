@@ -34,4 +34,5 @@ sections:
       button: Click here for more info
       url: /about-us/schoolcanteen/
       alt: Image alt text
+      image: /images/School Logo and Photo Design/canteen stall opening muslim.png
 ---
