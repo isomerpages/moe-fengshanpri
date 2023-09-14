@@ -7,11 +7,12 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Cooked Food Stall | 30 Jun 2023 | Rice or noodle stalls are acceptable.|
+| **Malay Cooked Food Stall **| **31 Oct 2023** | **Rice or noodle stalls are acceptable.**|
 
-Fengshan Primary School is inviting applicants to operate a “**Muslim Cooked Food Stall”**. Menu may include noodle and/or rice items. 
+Fengshan Primary School is inviting applicants to operate a **"Muslim Cooked Food Stall"**. Menu may include noodle and/or rice items. 
 
 We are a single session school with an estimated student population of 1200. The canteen operating hours are from Mondays to Fridays, 7am to 3pm during School Term. 
+
 
 #### Requirements
 Applicants should meet the following criteria: 
@@ -43,7 +44,7 @@ Completed application form
 
 #### Submission of Application 
 
-Please submit the completed application form with the supporting documents to the school’s General Office or email fsps@moe.edu.sg by 30 June 2023.
+Please submit the completed application form with the supporting documents to the school’s General Office or email fsps@moe.edu.sg by 31 Oct 2023.
 
 #### Enquiries
 
