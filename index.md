@@ -41,4 +41,13 @@ sections:
       url: /about-us/schoolcanteen/
       alt: Image alt text
       image: /images/School Logo and Photo Design/canteen stall opening muslim.png
+  - infopic:
+      title: Home-Based Learning 2023
+      subtitle: Lesson Overview
+      id: infopic
+      description: Click here for more details on completing your home-based lesson
+      button: (P3) 28 SEP 2023
+      url: https://drive.google.com/drive/folders/1PGsclLLZGeN5BdRda8fFnZAp5HMVaiId?usp=sharing
+      image: /images/School Logo and Photo Design/hbl picture.png
+      alt: Image alt text
 ---
