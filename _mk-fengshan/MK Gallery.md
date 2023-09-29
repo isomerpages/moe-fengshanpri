@@ -9,19 +9,19 @@ description: ""
 
    MK@Fengshan Celebrated Racial harmony day through many fun and engaging activities prepared by our dear teachers
 	 
-[ Picture 1]
+![](/images/MOE%20MK%20Files/Racial%20Harmony%20Day%2017%20July%2023/moe%20mk%20update%2029%20sept%2023%20picture%201.png)
 
 Chinese calligraphy inspired activity where they traced the words, ‘Respect,&nbsp; Care, Together and Harmony’ in chinese characters.
 
-[Picture 2]
+![](/images/MOE%20MK%20Files/Racial%20Harmony%20Day%2017%20July%2023/moe%20mk%20update%2029%20sept%2023%20picture%202.png)
 
    Children were introduced to the malay puppetry artform called ‘ Wayang Kulit.’ They decorated their characters with beautiful designs carried out puppetry activityes during their learning centre time.
 
-[Picture 3]
+![](/images/MOE%20MK%20Files/Racial%20Harmony%20Day%2017%20July%2023/moe%20mk%20update%2029%20sept%2023%20picture%203.png)
 
 Acrylic keychain making activity where the children designed and baked their own keychains. These keychains were then exchanged with their friends as a symbol of respect between friends of different ethnicities.
 
-[Picture 4]
+![](/images/MOE%20MK%20Files/Racial%20Harmony%20Day%2017%20July%2023/moe%20mk%20update%2029%20sept%2023%20picture%204.png)
 
 Children came to school in a variety of costumes from different ethnicities.
 
