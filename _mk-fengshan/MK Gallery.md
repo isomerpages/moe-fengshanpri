@@ -5,6 +5,41 @@ description: ""
 ---
 # Our Kindergarten Gallery
 
+##    Racial Harmony Day - 17th July 2023
+
+   MK@Fengshan Celebrated Racial harmony day through many fun and engaging activities prepared by our dear teachers
+	 
+[ Picture 1]
+
+Chinese calligraphy inspired activity where they traced the words, ‘Respect,&nbsp; Care, Together and Harmony’ in chinese characters.
+
+[Picture 2]
+
+   Children were introduced to the malay puppetry artform called ‘ Wayang Kulit.’ They decorated their characters with beautiful designs carried out puppetry activityes during their learning centre time.
+
+[Picture 3]
+
+Acrylic keychain making activity where the children designed and baked their own keychains. These keychains were then exchanged with their friends as a symbol of respect between friends of different ethnicities.
+
+[Picture 4]
+
+Children came to school in a variety of costumes from different ethnicities.
+
+##    National Day Celebration - 8th August 2023
+
+As part of our National Day Celebrations, we collaborated with Fengshan Primary School and participated in the very first lower primary Sports Day!
+
+[ Picture 5]
+
+Children participated in games with Fengshan Primary School Students.
+
+[ Picture 6]
+
+Our parents were also invited to play the games with us!
+
+
+
+
 ## Life@MK - 13th April 2023 
 
 **Parents were invited during Life@MK to share with them about how children learn through play**
