@@ -5,6 +5,73 @@ description: ""
 ---
 # Our Kindergarten Gallery
 
+##   Singapore Zoo Learning Journey - 11th August 2023
+
+![](/images/MOE%20MK%20Files/11%20August%2023%20Singapore%20Zoo%20LJ/11th%20august%202023%20-%20singapore%20zoo%20learning%20journey%20pic%201.png)
+
+Children arriving at MK early and excited for our learning journey!
+
+![](/images/MOE%20MK%20Files/11%20August%2023%20Singapore%20Zoo%20LJ/11th%20august%202023%20-%20singapore%20zoo%20learning%20journey%20pic%202.png)
+
+A very long bus ride to the zoo!
+
+![](/images/MOE%20MK%20Files/11%20August%2023%20Singapore%20Zoo%20LJ/11th%20august%202023%20-%20singapore%20zoo%20learning%20journey%20pic%203.png)
+
+It was pouring when we arrived but that did not dampen our spirits and&nbsp; we were still able to see some animals.
+
+![](/images/MOE%20MK%20Files/11%20August%2023%20Singapore%20Zoo%20LJ/11th%20august%202023%20-%20singapore%20zoo%20learning%20journey%20pic%204.png)
+
+We caught The Splash Show at the Zoo’s Ampitheatre
+
+![](/images/MOE%20MK%20Files/11%20August%2023%20Singapore%20Zoo%20LJ/11th%20august%202023%20-%20singapore%20zoo%20learning%20journey%20pic%205.png)
+
+The rain stopped after the show so we went on to explore
+	 
+
+
+##    National Day Celebration - 8th August 2023
+
+As part of our National Day Celebrations, we collaborated with Fengshan Primary School and participated in the very first lower primary Sports Day!
+
+![](/images/MOE%20MK%20Files/National%20Day%20Celeb%208%20Aug%2023/moe%20mk%20update%2029%20sept%2023%20picture%205.png)
+
+Children participated in games with Fengshan Primary School Students.
+
+![](/images/MOE%20MK%20Files/National%20Day%20Celeb%208%20Aug%2023/moe%20mk%20update%2029%20sept%2023%20picture%206.png)
+
+Our parents were also invited to play the games with us!
+
+ ![](/images/MOE%20MK%20Files/National%20Day%20Celeb%208%20Aug%2023/moe%20mk%20update%2029%20sept%2023%20picture%207.png)
+
+Children were awarded with gold medals for their participation, given by Mdm Siew, Vice-Principal of Fengshan Primary School.
+
+![](/images/MOE%20MK%20Files/National%20Day%20Celeb%208%20Aug%2023/moe%20mk%20update%2029%20sept%2023%20picture%208.png)
+
+The children cheering on their lower primary school friends as they spectated at the games.
+
+
+##    Racial Harmony Day - 17th July 2023
+
+   MK@Fengshan Celebrated Racial harmony day through many fun and engaging activities prepared by our dear teachers
+	 
+![](/images/MOE%20MK%20Files/Racial%20Harmony%20Day%2017%20July%2023/moe%20mk%20update%2029%20sept%2023%20picture%201.png)
+
+Chinese calligraphy inspired activity where they traced the words, ‘Respect,&nbsp; Care, Together and Harmony’ in chinese characters.
+
+![](/images/MOE%20MK%20Files/Racial%20Harmony%20Day%2017%20July%2023/moe%20mk%20update%2029%20sept%2023%20picture%202.png)
+
+   Children were introduced to the malay puppetry artform called ‘ Wayang Kulit.’ They decorated their characters with beautiful designs carried out puppetry activityes during their learning centre time.
+
+![](/images/MOE%20MK%20Files/Racial%20Harmony%20Day%2017%20July%2023/moe%20mk%20update%2029%20sept%2023%20picture%203.png)
+
+Acrylic keychain making activity where the children designed and baked their own keychains. These keychains were then exchanged with their friends as a symbol of respect between friends of different ethnicities.
+
+![](/images/MOE%20MK%20Files/Racial%20Harmony%20Day%2017%20July%2023/moe%20mk%20update%2029%20sept%2023%20picture%204.png)
+
+Children came to school in a variety of costumes from different ethnicities.
+
+
+
 ## Life@MK - 13th April 2023 
 
 **Parents were invited during Life@MK to share with them about how children learn through play**
