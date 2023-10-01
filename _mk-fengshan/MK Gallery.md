@@ -5,6 +5,25 @@ description: ""
 ---
 # Our Kindergarten Gallery
 
+##   Singapore Zoo Learning Journey - 11th August 2023
+
+
+Children arriving at MK early and excited for our learning journey!
+
+
+A very long bus ride to the zoo!
+
+
+It was pouring when we arrived but that did not dampen our spirits and&nbsp; we were still able to see some animals.
+
+
+We caught The Splash Show at the Zoo’s Ampitheatre
+
+
+
+The rain stopped after the show so we went on to explore
+	 
+
 
 ##    National Day Celebration - 8th August 2023
 
