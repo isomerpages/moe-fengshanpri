@@ -29,15 +29,21 @@ Children came to school in a variety of costumes from different ethnicities.
 
 As part of our National Day Celebrations, we collaborated with Fengshan Primary School and participated in the very first lower primary Sports Day!
 
-[ Picture 5]
+![](/images/MOE%20MK%20Files/National%20Day%20Celeb%208%20Aug%2023/moe%20mk%20update%2029%20sept%2023%20picture%205.png)
 
 Children participated in games with Fengshan Primary School Students.
 
-[ Picture 6]
+![](/images/MOE%20MK%20Files/National%20Day%20Celeb%208%20Aug%2023/moe%20mk%20update%2029%20sept%2023%20picture%206.png)
 
 Our parents were also invited to play the games with us!
 
+ ![](/images/MOE%20MK%20Files/National%20Day%20Celeb%208%20Aug%2023/moe%20mk%20update%2029%20sept%2023%20picture%207.png)
 
+Children were awarded with gold medals for their participation, given by Mdm Siew, Vice-Principal of Fengshan Primary School.
+
+![](/images/MOE%20MK%20Files/National%20Day%20Celeb%208%20Aug%2023/moe%20mk%20update%2029%20sept%2023%20picture%208.png)
+
+The children cheering on their lower primary school friends as they spectated at the games.
 
 
 ## Life@MK - 13th April 2023 
