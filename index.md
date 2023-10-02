@@ -23,8 +23,8 @@ sections:
       subtitle: Lesson Overview
       id: infopic
       description: Click here for more details on completing your home-based lesson
-      button: Primary 2 (2 October 2023)
-      url: https://drive.google.com/drive/folders/1ihN8cIZ6cDVLgbTPwlA5XAI79Jg9h3sB?usp=sharing
+      button: Primary 4 (3 October 2023)
+      url: https://drive.google.com/drive/folders/1eZxYuVQ-Exr99-KbhsW2ba94K1IvKpUT?usp=sharing
       image: /images/School Logo and Photo Design/hbl picture.png
       alt: Image alt text
   - infopic:
