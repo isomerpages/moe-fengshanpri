@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| **Malay Cooked Food Stall **| **31 Oct 2023** | **Rice or noodle stalls are acceptable.**|
+| There are no new openings at the moment  |---------- | -------- | 
 
 Fengshan Primary School is inviting applicants to operate a **"Muslim Cooked Food Stall"**. Menu may include noodle and/or rice items. 
 
@@ -44,7 +44,7 @@ Completed application form
 
 #### Submission of Application 
 
-Please submit the completed application form with the supporting documents to the school’s General Office or email fsps@moe.edu.sg by 31 Oct 2023.
+The application has closed.
 
 #### Enquiries
 
