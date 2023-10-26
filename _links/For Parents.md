@@ -5,10 +5,15 @@ description: ""
 ---
 # Links for Parents
 
-## MOE Website Link
+### Parents Gateway Onboarding User Guide
+https://for.edu.sg/fsps-pg-parentsuserguide
+
+For installation of Parents Gateway please scroll below to section *Parents Gateway App Installation Guide* for more information.
+
+### MOE Website Link
 https://www.moe.gov.sg/
 
-## MOE Parent Kit
+### MOE Parent Kit
 http://www.moe.gov.sg/parentkit
 
 ## Fengshan Parents Handbook 2023
@@ -21,7 +26,7 @@ For matters pertaining school services such as school uniform, dental, student c
 How to access the school services:
 At the school top menu go to -&gt; "**About Us**". Select "**School Services**"
 
-### Parents Gateway
+### Parents Gateway App Installation Guide
 
 Parent Gateway is one of the mobile app that the school uses to inform&nbsp;or disseminate class or school-based information as well as updating information, consent form and managing school appointment (coming soon) . The Parent Gateway app is free and available for download to all mobile devices (subject to minimum requirements in the OS version of the mobile device), and accessible using SingPass account. 
 
