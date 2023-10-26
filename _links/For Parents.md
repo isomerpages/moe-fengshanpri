@@ -5,28 +5,16 @@ description: ""
 ---
 # Links for Parents
 
-### Parents Gateway Onboarding User Guide
-https://for.edu.sg/fsps-pg-parentsuserguide
-
-For installation of Parents Gateway please scroll below to section *Parents Gateway App Installation Guide* for more information.
-
 ### MOE Website Link
 https://www.moe.gov.sg/
 
 ### MOE Parent Kit
 http://www.moe.gov.sg/parentkit
 
-## Fengshan Parents Handbook 2023
-[Parents Download Handbook 2023](/files/Fengshan%20Document%20Links/Parents-Handbook-2023.pdf)
+### Parents Gateway Onboarding User Guide
+https://for.edu.sg/fsps-pg-parentsuserguide
 
-### Our School Services (see in About Us) page
-
-For matters pertaining school services such as school uniform, dental, student care or bookstore, please access the correct link in the school website  below or  [click here](https://www.fengshanpri.moe.edu.sg/explore/for-parents/school-vendor-contacts/)
-
-How to access the school services:
-At the school top menu go to -&gt; "**About Us**". Select "**School Services**"
-
-### Parents Gateway App Installation Guide
+### Parents Gateway Installation Guide
 
 Parent Gateway is one of the mobile app that the school uses to inform&nbsp;or disseminate class or school-based information as well as updating information, consent form and managing school appointment (coming soon) . The Parent Gateway app is free and available for download to all mobile devices (subject to minimum requirements in the OS version of the mobile device), and accessible using SingPass account. 
 
@@ -60,3 +48,17 @@ As per Singpass website (correct as of 6 March 2023), the following groups of us
 <br>**Reference**: https://www.singpass.gov.sg/main/html/faq.html
 
 For any inquiries with regards to eligibility and accessing the Parents Gateway, please contact the General office provided in Contact Us in this page
+
+
+## Fengshan Parents Handbook 2023
+[Parents Download Handbook 2023](/files/Fengshan%20Document%20Links/Parents-Handbook-2023.pdf)
+
+### Our School Services (see in About Us) page
+
+For matters pertaining school services such as school uniform, dental, student care or bookstore, please access the correct link in the school website  below or  [click here](https://www.fengshanpri.moe.edu.sg/explore/for-parents/school-vendor-contacts/)
+
+How to access the school services:
+At the school top menu go to -&gt; "**About Us**". Select "**School Services**"
+
+### Parents Gateway App Installation Guide
+
