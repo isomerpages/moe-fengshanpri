@@ -27,6 +27,11 @@ To download the Parent Gateway app devices, click&nbsp;[here](https://play.googl
 
 To download the Parent Gateway app Apple OS mobile devices, click&nbsp;[here](https://apps.apple.com/sg/app/parents-gateway/id1267198708). (Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch)
 
+##### Installation Guide for Parents Gateway
+
+
+
+
 ##### SingPass requirement for Parents Gateway
 
 To understand on how to reset the Singpass, click&nbsp;[here](https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail),
@@ -61,4 +66,3 @@ How to access the school services:
 At the school top menu go to -&gt; "**About Us**". Select "**School Services**"
 
 ### Parents Gateway App Installation Guide
-
