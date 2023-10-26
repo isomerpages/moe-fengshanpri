@@ -13,9 +13,12 @@ Student ICT Learning Site
 5.  [SkillsFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 6.  [Schoolbag.sg](https://www.schoolbag.sg/)
 7.  [Maths Koobits](https://member.koobits.com/?utm_source=web_nav&utm_medium=btn&utm_campaign=k21web&utm_content=login)
+8.  [My Skills Future Student Portal (ECG Portal)](https://for.edu.sg/fsps-myskillsfuture)
 
-Recommended Educational Website
--------------------------------
+
+## Recommended Educational Website
+
+
 
 ### How to Study
 

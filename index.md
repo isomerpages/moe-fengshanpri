@@ -2,7 +2,7 @@
 layout: homepage
 title: Fengshan Primary School
 description: Brief site description here
-image: /images/logo1.jpg
+image: /images/School Logo and Photo Design/Fengshan Pri Sch Logo (no bg).png
 permalink: /
 notification: ""
 sections:

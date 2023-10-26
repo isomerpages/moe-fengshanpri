@@ -51,8 +51,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d26pj9h1s885u1.amplifyapp.com
 prod: https://master.d26pj9h1s885u1.amplifyapp.com
-shareicon: /images/logo1.jpg
+shareicon: /images/School Logo and Photo Design/Fengshan Pri Sch Logo (no bg).png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
