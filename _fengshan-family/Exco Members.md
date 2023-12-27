@@ -8,7 +8,6 @@ variant: markdown
 | --- | --- | --- |
 | Mdm. Veronica Guo Liyan | SSD | [guo\_liyan\_veronica@moe.edu.sg](mailto:guo_liyan_veronica@moe.edu.sg) |
 | Mdm. Shanaz Nazeeha Ramli | HOD ICT | [shanaz\_nazeeha\_ramli@moe.edu.sg](mailto:shanaz_nazeeha_ramli@moe.edu.sg) |
-|  | HOD Math |  |
 | M.r Matthias Chua | HOD Aesthetics | [chua\_khim\_meng\_matthias@moe.edu.sg](mailto:chua_khim_meng_matthias@moe.edu.sg) |
 | Ms. Tan Chwee Li | HOD Science | [tan\_chwee\_li@moe.edu.sg](mailto:tan_chwee_li@moe.edu.sg) |
 | Mr Teo Choon Hoe Ivan | HOD PE&CCA | [ivan\_teo@moe.edu.sg](mailto:ivan_teo@moe.edu.sg) |
