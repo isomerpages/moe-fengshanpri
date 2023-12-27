@@ -2,8 +2,13 @@
 title: For Parents
 permalink: /explore/for-parents/
 description: ""
+variant: markdown
 ---
 # Links for Parents
+
+
+### Parents' Handbook 2024
+[](/files/Fengshan%20Document%20Links/Parents%20Handbook/Parents__Handbook_2024.pdf)Click here to download
 
 ### MOE Website Link
 https://www.moe.gov.sg/
