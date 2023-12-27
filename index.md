@@ -31,7 +31,7 @@ sections:
       title: Parents' Handbook 2024
       subtitle: Add an image and text
       id: infopic
-      description: "Click here to download the latest handbook "
+      description: Click here to download the latest handbook
       button: Click here
       url: Parents__Handbook_2024
       image: /images/Homepage Design/Front Page Logos and Images/Parents_Handbook.png
