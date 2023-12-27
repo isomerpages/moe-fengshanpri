@@ -8,7 +8,7 @@ variant: markdown
 
 
 ### Parents' Handbook 2024
-[](/files/Fengshan%20Document%20Links/Parents%20Handbook/Parents__Handbook_2024.pdf)Click here to download
+[Click here to download](/files/Fengshan%20Document%20Links/Parents%20Handbook/Parents__Handbook_2024.pdf)
 
 ### MOE Website Link
 https://www.moe.gov.sg/
