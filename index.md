@@ -18,6 +18,14 @@ sections:
           description: Our school information
           url: /about-us/school-matters/
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
+      variant: image
+  - infopic:
+      title: Parents' Handbook 2024
+      id: infopic
+      description: Click here to download the latest handbook
+      button: Click here
+      url: Parents__Handbook_2024
+      image: /images/Homepage Design/Front Page Logos and Images/Parents_Handbook.png
   - infopic:
       title: Happenings @ Fengshan Primary
       subtitle: FEATURED VIDEO
