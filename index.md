@@ -29,7 +29,7 @@ sections:
       alt: Happening at Fengshan 2023
   - infopic:
       title: Parents' Handbook
-      subtitle: DownLOAD RESOURCES
+      subtitle: Download Resources
       id: infopic
       description: Click to download the Parents' Handbook for 2024
       button: Click here to download
