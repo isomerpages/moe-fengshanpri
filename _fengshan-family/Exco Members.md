@@ -17,5 +17,5 @@ variant: markdown
 | Ms. Geraldine Ma Wanting | LH/Science | ma_wanting_geraldine@moe.edu.sg
 | Mdm Michelle Moi | LH/MA |[Michelle_Moi@moe.edu.sg](mailto:Michelle_Moi@moe.edu.sg) |
 | Mdm. Zarinah Bte Mohamed Hussain | SH/CCE | [zarinah\_mohamed\_hussain@moe.edu.sg](mailto:zarinah_mohamed_hussain@moe.edu.sg)|
-| Mdm. Hazliana Bte Mahat | SH/MT | [hazliana\_mahat@moe.edu.sg](mailto:hazliana_mahat@moe.edu.sg) |
+| Mdm. Hazliana Bte Mahat | SH/ML | [hazliana\_mahat@moe.edu.sg](mailto:hazliana_mahat@moe.edu.sg) |
 | Mr Jumadi Bin Ahmad | SH PE/CCA | [jumadi\_b\_ahmad@moe.edu.sg](mailto:jumadi_b_ahmad@moe.edu.sg) |
