@@ -20,12 +20,14 @@ sections:
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
   - infopic:
-      title: Parents' Handbook 2024
+      title: Parents' Handbook
+      subtitle: Download Resources
       id: infopic
-      description: Click here to download the latest handbook
-      button: Click here
-      url: Parents__Handbook_2024
+      description: Click to download the Parents' Handbook for 2024
+      button: Click here to download
+      url: https://www.fengshanpri.moe.edu.sg/files/Fengshan%20Document%20Links/Parents%20Handbook/Parents__Handbook_2024.pdf
       image: /images/Homepage Design/Front Page Logos and Images/Parents_Handbook.png
+      alt: Parents Handbook 2024
   - infopic:
       title: Happenings @ Fengshan Primary
       subtitle: FEATURED VIDEO
