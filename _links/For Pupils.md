@@ -7,15 +7,16 @@ variant: markdown
 Student ICT Learning Site
 -------------------------
 
-1.  [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-2.  [MIM Portal and Student iCON Login](https://workspace.google.com/dashboard)
-3.   [Student iCON Login Guide [PDF]](/files/Fengshan%20Document%20Links/Student-iCON-Onboarding-Guide-V21-31-Aug.pdf)
-4.  [OPAC Website](https://schoolibrary.moe.edu.sg/fengshanpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)   [OPAC Guide for Student](/files/Fengshan%20Document%20Links/OPACSERR-Guide-for-Students_V2.pdf)     [Offline Form(if OPAC is down)](https://for.edu.sg/fsps-lib-borrowform)
-5.  [Whoos Reading](https://www.whooosreading.org/)
-6.  [SkillsFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
-7.  [Schoolbag.sg](https://www.schoolbag.sg/)
-8.  [Maths Koobits](https://member.koobits.com/?utm_source=web_nav&utm_medium=btn&utm_campaign=k21web&utm_content=login)
-9.  [My Skills Future Student Portal (ECG Portal)](https://for.edu.sg/fsps-myskillsfuture)
+1. [MIMS Portal for Student](https://idp.mims.moe.gov.sg/) 
+2.  [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+3.  [Student iCON Login](https://workspace.google.com/dashboard)
+4.   [Student iCON Login Guide [PDF]](/files/Fengshan%20Document%20Links/Student-iCON-Onboarding-Guide-V21-31-Aug.pdf)
+5.  [OPAC Website](https://schoolibrary.moe.edu.sg/fengshanpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)   [OPAC Guide for Student](/files/Fengshan%20Document%20Links/OPACSERR-Guide-for-Students_V2.pdf)     [Offline Form(if OPAC is down)](https://for.edu.sg/fsps-lib-borrowform)
+6.  [Whoos Reading](https://www.whooosreading.org/)
+7.  [SkillsFuture Student Portal](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+8.  [Schoolbag.sg](https://www.schoolbag.sg/)
+9.  [Maths Koobits](https://member.koobits.com/?utm_source=web_nav&utm_medium=btn&utm_campaign=k21web&utm_content=login)
+10.  [My Skills Future Student Portal (ECG Portal)](https://for.edu.sg/fsps-myskillsfuture)
 
 
 ## Recommended Educational Website
