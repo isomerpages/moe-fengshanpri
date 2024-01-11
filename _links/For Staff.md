@@ -2,6 +2,7 @@
 title: For Staff
 permalink: /explore/for-staff/
 description: ""
+variant: markdown
 ---
 ## Staff Access Management 
 
@@ -59,7 +60,7 @@ Link for booking of school resources and rooms for meeting and activities.
 #### Transport Booking 
 
 Link: [https://go.gov.sg/fsps-transportbooking](https://go.gov.sg/fsps-transportbooking)
-<br> Booking Updates link: [https://go.gov.sg/fsps-transportbooking-responce](https://go.gov.sg/fsps-transportbooking-responce)
+<br> Booking Updates link: [https://go.gov.sg/fsps-transportbooking-response](https://go.gov.sg/fsps-transportbooking-response)
 
 Staff to access transport bus /van booking using the form above, as well as monitoring of updates and status of booking.
 Require ICON login to access the site and booking.
