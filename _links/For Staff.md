@@ -65,7 +65,7 @@ Link: [https://go.gov.sg/fsps-transportbooking](https://go.gov.sg/fsps-transport
 Staff to access transport bus /van booking using the form above, as well as monitoring of updates and status of booking.
 Require ICON login to access the site and booking.
 
-#### Visitor Information 
+#### Visitor Information Site
 
 Link: https://go.gov.sg/fsps-visitor-info
 
