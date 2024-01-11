@@ -63,7 +63,7 @@ Link: [https://go.gov.sg/fsps-transportbooking](https://go.gov.sg/fsps-transport
 <br> Booking Updates link: [https://go.gov.sg/fsps-transportbooking-response](https://go.gov.sg/fsps-transportbooking-response)
 
 Staff to access transport bus /van booking using the form above, as well as monitoring of updates and status of booking.
-Require ICON login to access the site and booking.
+Require ICON login to access the site response and booking.
 
 
 #### ST Synthesis ESMS Asset Management
