@@ -65,6 +65,13 @@ Link: [https://go.gov.sg/fsps-transportbooking](https://go.gov.sg/fsps-transport
 Staff to access transport bus /van booking using the form above, as well as monitoring of updates and status of booking.
 Require ICON login to access the site and booking.
 
+#### Visitor Information 
+
+Link: https://go.gov.sg/fsps-visitor-info
+
+Staff will be able to book visitor and contractor to schools.
+Require iCON login to access the site and booking.
+
 #### ST Synthesis ESMS Asset Management
 
 Link:[https://esms.stsynthesis.com/MOE/Default.aspx](https://esms.stsynthesis.com/MOE/Default.aspx)
