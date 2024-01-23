@@ -32,7 +32,7 @@ Applicants should meet the following criteria:
 
 #### Application Procedure and Food Tasting
 
-* Download and complete the application form. You may also request for a hardcopy from the School’s General Office. 
+* Download and complete the application form link here. You may also request for a hardcopy from the School’s General Office. 
 
 * Interested must submit the following documents:
 Completed application form
@@ -45,7 +45,7 @@ Completed application form
 
 #### Submission of Application 
 
-The application has closed.
+Please submit the completed application form with the supporting documents to the school’s General Office or email fsps@moe.edu.sg by 31 Mar 2024
 
 #### Enquiries
 
