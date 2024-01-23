@@ -32,7 +32,9 @@ Applicants should meet the following criteria:
 
 #### Application Procedure and Food Tasting
 
-* Download and complete the application form link here. You may also request for a hardcopy from the School’s General Office. 
+* Download and complete the application form link below. You may also request for a hardcopy from the School’s General Office. 
+
+[Download application form here](/files/Fengshan%20Document%20Links/Canteen%20Application/application_form_for_canteen__fsps_.pdf)
 
 * Interested must submit the following documents:
 Completed application form
