@@ -21,7 +21,6 @@ sections:
       variant: image
   - infopic:
       title: Canteen Stall Opening
-      subtitle: Add an image and text
       id: infopic
       description: MUSLIM COOKED STALL
       button: CLICK HERE
