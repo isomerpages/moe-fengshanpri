@@ -27,6 +27,7 @@ sections:
       url: /about-us/schoolcanteen/
       image: /images/School Logo and Photo Design/Main Page
         Picture/Canteen_Opening_Jan_2024.png
+      subtitle: APPLICATION
   - infopic:
       title: Parents' Handbook
       subtitle: Download Resources
