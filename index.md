@@ -20,6 +20,15 @@ sections:
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
   - infopic:
+      title: Canteen Stall Opening
+      subtitle: Add an image and text
+      id: infopic
+      description: MUSLIM COOKED STALL
+      button: CLICK HERE
+      url: /about-us/schoolcanteen/
+      image: /images/School Logo and Photo Design/Main Page
+        Picture/Canteen_Opening_Jan_2024.png
+  - infopic:
       title: Parents' Handbook
       subtitle: Download Resources
       id: infopic
