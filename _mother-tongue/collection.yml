@@ -1,0 +1,17 @@
+collections:
+  mother-tongue:
+    output: true
+    order:
+      - Mother Tongue.md
+      - Chinese/.keep
+      - Chinese/Chinese.md
+      - Chinese/Overview.md
+      - Chinese/Programmes.md
+      - Malay/.keep
+      - Malay/Malay.md
+      - Malay/Overview.md
+      - Malay/Programmes.md
+      - Tamil/.keep
+      - Tamil/Tamil.md
+      - Tamil/Overview.md
+      - Tamil/Programmes.md

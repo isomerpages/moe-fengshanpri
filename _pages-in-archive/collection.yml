@@ -1,0 +1,8 @@
+collections:
+  pages-in-archive:
+    output: true
+    order:
+      - FAQs.md
+      - 2019.md
+      - 2018.md
+      - 2017.md

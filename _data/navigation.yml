@@ -1,0 +1,40 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: MK Fengshan
+    collection: mk-fengshan
+  - title: Fengshan Family
+    collection: fengshan-family
+  - title: Departments
+    url: /departments/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Mother Tongue
+        url: /departments/mother-tongue/
+      - title: Science
+        url: /departments/science/
+      - title: ICT
+        url: /departments/ict/
+      - title: Character & Citizen Education
+        url: /departments/character-and-citizenry-education-cce/
+      - title: Aesthetics
+        url: /aesthetics-department/
+      - title: Physical Education
+        url: /departments/physical-education/
+  - title: CCA
+    collection: cca
+  - title: Links
+    url: /links
+    sublinks:
+      - title: For Pupils
+        url: /explore/for-pupils/
+      - title: For Parents
+        url: /explore/for-parents/
+      - title: For Staff
+        url: /explore/for-staff/
+      - title: Music Learning @ FSPS
+        url: https://sites.google.com/moe.edu.sg/musiclearningfsps

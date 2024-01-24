@@ -1,0 +1,14 @@
+collections:
+  fengshan-family:
+    output: true
+    order:
+      - Fengshan School Leaders.md
+      - Exco Members.md
+      - Our Teaching Staff.md
+      - Administrative Department (SAT).md
+      - Operations & External Support.md
+      - Partnership/PSG.md
+      - Partnership/SAC.md
+      - Partnership/Alumni.md
+      - Partnership/Whee! Canopus@Fengshan.md
+      - Partnership/.keep
