@@ -3,13 +3,13 @@ title: ICT
 permalink: /departments/ict/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
 ### Committee Members (2022)
 
 | Name | Designation | Column 3 |
 | -------- | -------- | -------- |
 | Mdm Shanaz Nazeeha Ramli     | HOD-ICT | Text     |
-| Mdm Hazliana Mahat    | SH/ICT | Text     |
 | Mr. Muhammad Fariz    | ICT Manager | Text     |
 | Ms. Winnie Teng    | ICT Champion| Text     |
 |Mdm. Nuradilah Abdul Wahid     |  ICT Champion | Text     |
