@@ -5,7 +5,7 @@ description: ""
 third_nav_title: ICT
 variant: markdown
 ---
-### Committee Members (2022)
+### Committee Members (2024)
 
 | Name | Designation | 
 | -------- | -------- | 
