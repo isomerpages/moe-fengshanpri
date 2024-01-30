@@ -4,7 +4,7 @@ permalink: /mk-fengshan/
 description: ""
 variant: tiptap
 ---
-<h2>2024 MOE Kindergarten </h2>
+<h2>2024 MOE Kindergarten</h2>
 <p>Our MK@Fengshan Open House will be held on 3 February 2024 from 8.30am
 to 12.30pm.</p>
 <p>We warmly welcome you and your child to sign up for the Open House to
@@ -135,11 +135,9 @@ learning in our children!
 <p>KCare Operating Hours:**&nbsp;7.00 am to 7.00 pm</p>
 <p>Email to our school: <a href="mailto:mk_fengshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_fengshan@moe.edu.sg</a>
 </p>
-<h3>MK Orientation K1 Slides 2022/3</h3>
-<p>The Link to the MK@Fengshan K1 Orientation in 2022/3: <a href="/files/MK@Fengshan/MK@FS-Slides-for-K1-Orientation_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Slides Orientation 2022</a>
-</p>
+<h3>MK Orientation K1 Slides </h3>
+<p></p>
 <h3>MK Application Form</h3>
-<p>Link to the application is here: <a href="https://go.gov.sg/mkfengshanwaitlist" rel="noopener noreferrer nofollow" target="_blank">MK@Fengshan Application Form 2024</a>
-</p>
+<p>Link to the application is here:</p>
 <p>Step-by-Step guide to the form: <a href="https://go.gov.sg/mk-waitlist-guide" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Guide</a>
 </p>
