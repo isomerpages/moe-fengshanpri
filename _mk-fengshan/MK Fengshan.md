@@ -135,7 +135,7 @@ learning in our children!
 <p>KCare Operating Hours:**&nbsp;7.00 am to 7.00 pm</p>
 <p>Email to our school: <a href="mailto:mk_fengshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_fengshan@moe.edu.sg</a>
 </p>
-<h3>MK Orientation K1 Slides </h3>
+<h3>MK Orientation K1 Slides</h3>
 <p></p>
 <h3>MK Application Form</h3>
 <p>Link to the application is here:</p>
