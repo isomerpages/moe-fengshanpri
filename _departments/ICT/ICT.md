@@ -7,17 +7,20 @@ variant: markdown
 ---
 ### Committee Members (2022)
 
-| Name | Designation | Column 3 |
-| -------- | -------- | -------- |
-| Mdm Shanaz Nazeeha Ramli     | HOD-ICT | Text     |
-| Mr. Muhammad Fariz    | ICT Manager | Text     |
-| Ms. Winnie Teng    | ICT Champion| Text     |
-|Mdm. Nuradilah Abdul Wahid     |  ICT Champion | Text     |
-| Mr. Welzl Valentin Xin Wei  |  ICT Champion | Text     |
-| Mdm. Theivanai d/o Palanisamy   |  ICT Champion | Text     |
-| Mr. Azlan Abu Hassan   | ICT Educator | Text     |
-| Mr.&nbsp;Jamil Calope Omar  | NCS-DE | Text     |
-| Ms. Nurain binte Udi Suriadi| NCS-DE | Text     |
+| Name | Designation | 
+| -------- | -------- | 
+| Mdm Shanaz Nazeeha Ramli     | HOD-ICT | 
+| Mr. Muhammad Fariz    | ICT Manager | 
+| Mdm. Rashida  | ICT Champion| 
+| Mdm. Goh Qin Ying | ICT Champion| 
+| Ms Marcellian Arlany | ICT Champion| 
+|  Ms Isabel Tay | ICT Champion| 
+|Mr. Shen Baiyue     |  ICT Champion |
+| Mr. Welzl Valentin Xin Wei  |  ICT Champion | 
+| Mdm. Theivanai d/o Palanisamy   |  ICT Champion |
+| Ms Carolyn Ang   | ICT Educator | 
+| Mr.&nbsp;Jamil Calope Omar  | NCS-DE | 
+| Ms. Nurain binte Udi Suriadi| NCS-DE | 
 
 #### **Our Focus**
 
