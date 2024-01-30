@@ -6,6 +6,8 @@ variant: tiptap
 ---
 <h1>Links for Parents</h1>
 <h4>Meet the Parents (MTP) - Principal's Presentation</h4>
+<p><a href="/files/Principal_Slides___P2_MTP.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 MTP Slides</a>
+</p>
 <p></p>
 <h4>Parents' Handbook 2024</h4>
 <p><a href="/files/Fengshan%20Document%20Links/Parents%20Handbook/Parents__Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
@@ -92,4 +94,5 @@ website below or <a href="https://www.fengshanpri.moe.edu.sg/explore/for-parents
 <p>How to access the school services: At the school top menu go to -&gt;
 "<strong>About Us</strong>". Select "<strong>School Services</strong>"</p>
 <h3>Parents Gateway App Installation Guide</h3>
-<p></p>
+<p><a href="/files/Principal_Slides___P2_MTP.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 MTP Slides</a>
+</p>
