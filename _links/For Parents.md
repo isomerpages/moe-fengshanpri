@@ -6,18 +6,45 @@ variant: tiptap
 ---
 <h1>Links for Parents</h1>
 <h4>Meet the Parents (MTP) - Principal's Presentation</h4>
-<p><a href="/files/Principal_Slides___P2_MTP.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 MTP Slides</a>
+<p><a href="/files/Fengshan Document Links/Principal_Slides___P2_MTP.pdf" rel="noopener noreferrer nofollow" target="_blank">MTP P2 Slides</a>
 </p>
+<p><a href="/files/Fengshan Document Links/Principal_Slides___P3___P4_MTP_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">MTP P3&amp;P4 Slides</a>
+</p>
+<p><a href="/files/Fengshan Document Links/Principal_Slides___P5___P6__MTP_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">MTP P5&amp;P6 P1 Slides</a>
+</p>
+<p><a href="/files/Fengshan Document Links/Principal_Slides___P5___P6__MTP_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">MTP P5&amp;P6 P2 Slides</a>
+</p>
+<p></p>
+<h3>MOE Group Personal Accident (GPA) Insurance Plan for Students and Product Factsheet for 2024</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>Please refer to (link to document) for the product factsheet for the MOE
+GPA Insurance Plan for Students.</p>
+</li>
+<li>
+<p>Parents may submit claims online and check the claims status through Income
+Insurance’s GPA portal (<a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>).</p>
+</li>
+<li>
+<p>Information on claims, FAQs and other details pertaining to the MOE GPA
+Insurance Plan for students can be found on Income’s website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
+</p>
+</li>
+</ol>
+<p></p>
 <p></p>
 <h4>Parents' Handbook 2024</h4>
 <p><a href="/files/Fengshan%20Document%20Links/Parents%20Handbook/Parents__Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
 </p>
 <h4>MOE Website Link</h4>
-<p>https://www.moe.gov.sg/</p>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a>
+</p>
 <h4>MOE Parent Kit</h4>
-<p>http://www.moe.gov.sg/parentkit</p>
+<p><a href="http://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/parentkit</a>
+</p>
 <h4>Parents Gateway Onboarding User Guide</h4>
-<p>https://for.edu.sg/fsps-pg-parentsuserguide</p>
+<p><a href="https://for.edu.sg/fsps-pg-parentsuserguide" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/fsps-pg-parentsuserguide</a>
+</p>
 <h4>Parents Gateway Installation Guide</h4>
 <p>Parent Gateway is one of the mobile app that the school uses to inform&nbsp;or
 disseminate class or school-based information as well as updating information,
