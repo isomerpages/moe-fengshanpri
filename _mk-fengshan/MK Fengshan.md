@@ -13,6 +13,8 @@ learning in our children!
 <br>Sign up for MK@Fengshan Open House&nbsp;<a href="https://go.gov.sg/mkoh2024" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p>For more information on the 2024 MK Open House, please visit the&nbsp;
 <a href="https://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">MOE MK website</a>.</p>
+<p><a href="https://drive.google.com/file/d/1WX-ZmKmXBSes2NHb2YblTvv1ArNN9a0V/view" rel="noopener noreferrer nofollow" target="_blank">MK Open House Slides -Please click here</a>
+</p>
 <table>
 <tbody>
 <tr>
