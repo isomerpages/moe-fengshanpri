@@ -140,6 +140,7 @@ learning in our children!
 <h3>MK Orientation K1 Slides</h3>
 <p></p>
 <h3>MK Application Form</h3>
-<p>Link to the application is here:</p>
+<p>Link to the application is here: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register</a>
+</p>
 <p>Step-by-Step guide to the form: <a href="https://go.gov.sg/mk-waitlist-guide" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Guide</a>
 </p>
