@@ -144,5 +144,5 @@ learning in our children!
 </p>
 <p>Step-by-Step guide to the form: <a href="https://go.gov.sg/mk-waitlist-guide" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Guide</a>
 </p>
-<p>MK waitlist link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkfengshanwaitlist</a>
+<p>MK waitlist link: <a href="https://go.gov.sg/mkfengshanwaitlistform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkfengshanwaitlistform</a>
 </p>
