@@ -5,15 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Links for Parents</h1>
-<h4>Meet the Parents (MTP) - Principal's Presentation</h4>
-<p><a href="/files/Fengshan Document Links/Principal_Slides___P2_MTP.pdf" rel="noopener noreferrer nofollow" target="_blank">MTP P2 Slides</a>
-</p>
-<p><a href="/files/Fengshan Document Links/Principal_Slides___P3___P4_MTP_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">MTP P3&amp;P4 Slides</a>
-</p>
-<p><a href="/files/Fengshan Document Links/Principal_Slides___P5___P6__MTP_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">MTP P5&amp;P6 P1 Slides</a>
-</p>
-<p><a href="/files/Fengshan Document Links/Principal_Slides___P5___P6__MTP_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">MTP P5&amp;P6 P2 Slides</a>
-</p>
+<p></p>
 <p></p>
 <h3>MOE Group Personal Accident (GPA) Insurance Plan for Students and Product Factsheet for 2024</h3>
 <ol data-tight="true" class="tight">
