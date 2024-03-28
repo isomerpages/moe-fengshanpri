@@ -8,13 +8,14 @@ variant: tiptap
 <p></p>
 <p></p>
 <h4>MOE Group Personal Accident (GPA) Insurance Plan for Students and Product Factsheet for 2024</h4>
-<p>Please refer to (link to document) for the product factsheet for the MOE
-GPA Insurance Plan for Students.</p>
+<p>Please refer to document (<a href="/files/Fengshan Document Links/2024/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>)
+for the product factsheet for the MOE GPA Insurance Plan for Students.</p>
 <p>Parents may submit claims online and check the claims status through Income
 Insurance’s GPA portal (<a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>).</p>
 <p>Information on claims, FAQs and other details pertaining to the MOE GPA
 Insurance Plan for students can be found on Income’s website at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
+<p></p>
 <p></p>
 <h4>Parents' Handbook 2024</h4>
 <p><a href="/files/Fengshan%20Document%20Links/Parents%20Handbook/Parents__Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
