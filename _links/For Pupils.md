@@ -51,6 +51,10 @@ variant: tiptap
 <p><a href="https://for.edu.sg/fsps-myskillsfuture" rel="noopener noreferrer nofollow" target="_blank">My Skills Future Student Portal (ECG Portal)</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Fengshan Document Links/ICT_Pre_Assembly_Sharing_ezhishi.pdf" rel="noopener noreferrer nofollow" target="_blank">Self Learning for MT Language (PDF)</a>
+</p>
+</li>
 </ol>
 <h2>Recommended Educational Website</h2>
 <h3>How to Study</h3>
@@ -86,6 +90,7 @@ variant: tiptap
 <h3>Chinese Language</h3>
 <p><a href="https://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.net/Contents/</a>
 </p>
+<p></p>
 <h3>Malay Language</h3>
 <p><a href="https://www.beritaharian.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.beritaharian.sg</a> 
 <br><a href="https://prpm.dbp.gov.my/" rel="noopener noreferrer nofollow" target="_blank">https://prpm.dbp.gov.my</a> 
