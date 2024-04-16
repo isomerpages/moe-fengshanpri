@@ -3,6 +3,12 @@ title: Alumni
 permalink: /fengshan-family/partnership/alumni/
 description: ""
 third_nav_title: Partnership
+variant: tiptap
 ---
-<h4 style="text-align: center;"><strong><a href="/files/Alumni-Form.pdf" target="_blank" rel="noopener">Download Alumni Form here</a></strong></h4>
-<img style="width: 60%;" src="/images/alum1.jpg" /><br>
+<h4><strong><a href="/files/Alumni-Form.pdf" rel="noopener" target="_blank">Download Alumni Form here</a></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" src="/images/alum1.jpg">
+</div>
+<p>
+<br>
+</p>
