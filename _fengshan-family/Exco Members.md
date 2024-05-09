@@ -36,6 +36,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms. Frances Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_ee_ling_frances@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_ee_ling_frances@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm. Shanaz Nazeeha Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
