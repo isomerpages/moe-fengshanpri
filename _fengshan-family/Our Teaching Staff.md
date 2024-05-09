@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <h1>Our Teaching Staff</h1>
 <h2>Teacher Leaders</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -70,7 +75,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 1</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -188,7 +198,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 2</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -206,13 +221,9 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Tan Wanyi</p>
-<p></p>
 <p>Ms. June Chong Chia Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wanyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wanyi@moe.edu.sg</a>
-</p>
 <p><a href="mailto:chong_chia_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chia_fong@moe.edu.sg</a>
 </p>
 </td>
@@ -305,7 +316,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 3</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -405,7 +421,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 4</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -501,7 +522,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 5</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -615,7 +641,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 6</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -744,7 +775,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Subject Teachers</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
