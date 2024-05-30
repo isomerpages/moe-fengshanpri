@@ -117,11 +117,7 @@ Art Room
 
 ### Teachers I/C :
 
-Ms June Chong Chia Fong\*
-
-Ms Koh Jing Han
-
-Mdm Nur Nadiah
+Ms June Chong Chia Fong*
 
 Ms Chia Soo Yin
 
