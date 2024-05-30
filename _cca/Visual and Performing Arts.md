@@ -2,6 +2,7 @@
 title: Visual and Performing Arts
 permalink: /cca/visual-and-performing-arts/
 description: ""
+variant: markdown
 ---
 ## Choir
 -----
@@ -21,8 +22,6 @@ Mr Welzl Valentin Xin Wei
 
 Ms Huang Chiung Yao
 
-Mdm Zhao Qianxi
-
 
 ## Concert Band
 ------------
@@ -41,8 +40,7 @@ Mdm Nuradilah\*
 
 Mrs Ganesan  
 Ms Lee Sok Kiang
-
-Mdm Lian Zimin
+Mdm. Nur Nadiah
 
 
 ## Chinese Dance
@@ -58,7 +56,7 @@ ISH Dance Studio
 
 ### Teachers I/C :
 
-Ms Goh Qin Ying\*  
+Ms Goh Qin Ying*  
 Ms Hu Xuan Xuan
 
 
@@ -97,7 +95,7 @@ PAL Room
 
 ### Teachers I/C:
 
-Mdm Fatihah\*
+Mdm Fatihah*
 
 Mdm Raba’ah
 
@@ -119,11 +117,7 @@ Art Room
 
 ### Teachers I/C :
 
-Ms June Chong Chia Fong\*
-
-Ms Koh Jing Han
-
-Mdm Nur Nadiah
+Ms June Chong Chia Fong*
 
 Ms Chia Soo Yin
 
