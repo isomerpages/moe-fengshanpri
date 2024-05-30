@@ -40,8 +40,7 @@ Mdm Nuradilah\*
 
 Mrs Ganesan  
 Ms Lee Sok Kiang
-
-Mdm Lian Zimin
+Mdm. Nur Nadiah
 
 
 ## Chinese Dance
