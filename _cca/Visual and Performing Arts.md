@@ -2,6 +2,7 @@
 title: Visual and Performing Arts
 permalink: /cca/visual-and-performing-arts/
 description: ""
+variant: markdown
 ---
 ## Choir
 -----
@@ -20,8 +21,6 @@ Ms Allen Losey\*
 Mr Welzl Valentin Xin Wei 
 
 Ms Huang Chiung Yao
-
-Mdm Zhao Qianxi
 
 
 ## Concert Band
@@ -58,7 +57,7 @@ ISH Dance Studio
 
 ### Teachers I/C :
 
-Ms Goh Qin Ying\*  
+Ms Goh Qin Ying*  
 Ms Hu Xuan Xuan
 
 
@@ -97,7 +96,7 @@ PAL Room
 
 ### Teachers I/C:
 
-Mdm Fatihah\*
+Mdm Fatihah*
 
 Mdm Raba’ah
 
