@@ -2,6 +2,7 @@
 title: Clubs and Societies
 permalink: /cca/clubs-and-societies/
 description: ""
+variant: markdown
 ---
 Science and Environmental Club
 ------------------------------
@@ -16,7 +17,6 @@ Science Room
 
 **Teachers I/C :**
 
-Mr Mark Tay\*
+Mr Mark Tay*
 
-Ms Xu Huimin  
 Mdm Xu Fangling
