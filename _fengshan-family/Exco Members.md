@@ -96,6 +96,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Choy Wai Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD MT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choy_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_wai_yin_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs. Cindy Leisinger</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +150,8 @@ variant: tiptap
 <p>LH/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ma_wanting_geraldine@moe.edu.sg</p>
+<p><a href="mailto:ma_wanting_geraldine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ma_wanting_geraldine@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
