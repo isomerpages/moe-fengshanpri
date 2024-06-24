@@ -4,11 +4,9 @@ permalink: /privacy/
 variant: tiptap
 description: ""
 ---
-<p><strong>PRIVACY STATEMENT</strong>
-</p>
+<h2><strong>PRIVACY STATEMENT</strong></h2>
 <p>&nbsp;</p>
-<p><strong>FENGSHAN PRIMARY SCHOOL PRIVACY STATEMENT</strong>
-</p>
+<h3><strong>FENGSHAN PRIMARY SCHOOL PRIVACY STATEMENT</strong></h3>
 <p><strong>&nbsp;</strong>
 </p>
 <p>1.&nbsp; This is a Fengshan Primary School website. Thank you for examining
