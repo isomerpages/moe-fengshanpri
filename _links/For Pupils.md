@@ -64,13 +64,11 @@ variant: tiptap
 <p><a href="https://www.readingrockets.org/audience/parents" rel="noopener noreferrer nofollow" target="_blank">https://www.readingrockets.org/audience/parents</a> 
 <br><a href="https://kids.nationalgeographic.com/" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com</a> 
 <br><a href="https://languages.oup.com/" rel="noopener noreferrer nofollow" target="_blank">https://languages.oup.com</a> 
-<br><a href="https://www.magickeys.com/books" rel="noopener noreferrer nofollow" target="_blank">https://www.magickeys.com/books</a> 
 <br><a href="https://www.highlightkids.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.highlightkids.com</a> 
 <br><a href="https://www.bbc.co.uk/bitesize" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/bitesize</a> 
 <br><a href="https://www.mightybook.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.mightybook.com</a> 
 <br><a href="https://www.poetry4kids.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.poetry4kids.com</a> 
 <br><a href="https://pbskids.org/learn/" rel="noopener noreferrer nofollow" target="_blank">https://pbskids.org/learn/</a> 
-<br><a href="https://beta.freerice.com/" rel="noopener noreferrer nofollow" target="_blank">https://beta.freerice.com</a> 
 <br><a href="https://www.starfall.com/h/" rel="noopener noreferrer nofollow" target="_blank">https://www.starfall.com/h/</a> 
 <br><a href="https://write.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">https://write.koobits.com</a>
 </p>
@@ -97,9 +95,9 @@ variant: tiptap
 <br><a href="https://www.mllpc.sg/publications" rel="noopener noreferrer nofollow" target="_blank">https://www.mllpc.sg/publications</a>
 </p>
 <h3>Tamil Language</h3>
-<p><a href="https://www.dictionary.tamilcube.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.dictionary.tamilcube.com</a> 
-<br><a href="https://tamilmurasu.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://tamilmurasu.com.sg</a> 
+<p><a href="https://tamilmurasu.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://tamilmurasu.com.sg</a> 
 <br><a href="https://seithi.mediacorp.sg/" rel="noopener noreferrer nofollow" target="_blank">https://seithi.mediacorp.sg/</a>
+<br>
 </p>
 <h3>CCA</h3>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cca</a>
