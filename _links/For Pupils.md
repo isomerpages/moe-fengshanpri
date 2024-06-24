@@ -83,7 +83,7 @@ variant: tiptap
 <br><a href="https://kids.nationalgeographic.com/" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com/</a> 
 <br><a href="https://www.schoolscience.co.uk/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolscience.co.uk/</a> 
 <br><a href="https://www.funology.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.funology.com</a> 
-<br><a href="https://gg.gg/fspsenv" rel="noopener noreferrer nofollow" target="_blank">https://gg.gg/fspsenv</a>&nbsp;<strong>Environmental Efforts@Fengshan</strong>
+<br><a href="https://gg.gg/fspsenv" rel="noopener noreferrer nofollow" target="_blank">https://gg.gg/fspsenv </a>&nbsp;<strong>Environmental Efforts@Fengshan</strong>
 </p>
 <h3>Chinese Language</h3>
 <p><a href="https://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.net/Contents/</a>
