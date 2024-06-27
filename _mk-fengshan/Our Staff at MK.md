@@ -18,54 +18,6 @@ Our Staff at MK</p>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:sharmeen_donna_shafiqur_rahman@moe.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ms. Sharmeen Donna Shafiqur Rahman ( Deputy Center Head)</div><div class="isomer-card-description">Children learn with their hands, by experience, first through play and then through work, their hands are the instruments of their own intelligence.</div><div class="isomer-card-link">sharmeen_donna_shafiqur_rahman@moe.edu.sg</div></div></a>
 </div>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Photo</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Ms. Sharmeen Donna Shafiqur Rahman</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Deputy Centre Head</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><a href="mailto:sharmeen_donna_shafiqur_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmeen_donna_shafiqur_rahman@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/DYHD_SHARMEEN.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Children learn with their hands, by experience, first through play and
-then through work, their hands are the instruments of their own intelligence.</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <h2>MK Teaching Staff</h2>
 <table style="minWidth: 100px">
