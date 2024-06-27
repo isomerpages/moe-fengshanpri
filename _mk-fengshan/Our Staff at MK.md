@@ -430,6 +430,9 @@ succeed.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/ML_AYUNI.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -474,6 +477,9 @@ succeed.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/K2_EL_AMALINA.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -519,56 +525,14 @@ unlocks students' potential to thrive.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/K2_CL_HWEE_HOON.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Every day is an opportunity for children to learn and grow.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Photo</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Ms.Hasinah</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>EL</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><a href="mailto:hasinah_nasharuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasinah_nasharuddin@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>I believe every child brings their own light into the world.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -608,6 +572,9 @@ unlocks students' potential to thrive.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/K2_CL_XIAO_LILI.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -653,6 +620,9 @@ mysteries of life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/K2_EL_QURAISYAH.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -691,6 +661,9 @@ their own learning and are supported with guidance, warmth and love.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/OSO_MDM_ONG.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -702,6 +675,9 @@ their own learning and are supported with guidance, warmth and love.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/SECURITY_HAMZAH.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -713,6 +689,9 @@ their own learning and are supported with guidance, warmth and love.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/AE_MIRZA.jpg">
+</div>
 </td>
 </tr>
 </tbody>
