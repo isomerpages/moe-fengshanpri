@@ -327,7 +327,7 @@ desire to learn.</p>
 <p>Ms. Mashitah</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>K1 E1</p>
+<p>K1 EL</p>
 </td>
 <td rowspan="2" colspan="1">
 <p><a href="mailto:mashitah_dewi_mohsin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mashitah_dewi_mohsin@moe.edu.sg</a>
@@ -383,6 +383,9 @@ succeed.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/TL_JENEFER.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -714,4 +717,5 @@ their own learning and are supported with guidance, warmth and love.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
