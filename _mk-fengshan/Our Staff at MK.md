@@ -97,6 +97,9 @@ then through work, their hands are the instruments of their own intelligence.</p
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/EL_HASINAH.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -142,6 +145,9 @@ then through work, their hands are the instruments of their own intelligence.</p
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/CL_XU_BO.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -186,6 +192,9 @@ then through work, their hands are the instruments of their own intelligence.</p
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/K1_CL_YU_LEI.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -230,6 +239,9 @@ then through work, their hands are the instruments of their own intelligence.</p
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/K1_EL_SERENE.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -267,7 +279,7 @@ that respects and values their unique background and abilities.</p>
 <p>Ms. Aaliyah May Decipeda</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>K1 E1</p>
+<p>K1 EL</p>
 </td>
 <td rowspan="2" colspan="1">
 <p><a href="mailto:aaliyah_may_decipeda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aaliyah_may_decipeda@moe.edu.sg</a>
@@ -275,6 +287,9 @@ that respects and values their unique background and abilities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/K1_EL_AALIYAH.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -320,6 +335,9 @@ desire to learn.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MOE MK Files/Staff Photo/K1_E1_MASHITAH.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -537,7 +555,7 @@ unlocks students' potential to thrive.</p>
 <p>EL</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:hasinah_nasharuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasinah_nasharuddin@moe.edu.sg</a> 
+<p><a href="mailto:hasinah_nasharuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasinah_nasharuddin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -627,7 +645,7 @@ mysteries of life.</p>
 <p>K2 EL</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:Nurquraisyah_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nurquraisyah_mohamed_noor@moe.edu.sg</a> 
+<p><a href="mailto:Nurquraisyah_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nurquraisyah_mohamed_noor@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
