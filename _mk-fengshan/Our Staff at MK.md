@@ -92,7 +92,7 @@ then through work, their hands are the instruments of their own intelligence.</p
 <p>EL</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:hasinah_nasharuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasinah_nasharuddin@moe.edu.sg</a> 
+<p><a href="mailto:hasinah_nasharuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasinah_nasharuddin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,7 +137,7 @@ then through work, their hands are the instruments of their own intelligence.</p
 <p>CL</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:xu_bo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_bo@moe.edu.sg</a> 
+<p><a href="mailto:xu_bo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_bo@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,7 +181,7 @@ then through work, their hands are the instruments of their own intelligence.</p
 <p>K1 CL</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:yu_lei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_lei@moe.edu.sg</a> 
+<p><a href="mailto:yu_lei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_lei@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,7 +225,7 @@ then through work, their hands are the instruments of their own intelligence.</p
 <p>K1 EL</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:seetoh_phui_yee_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seetoh_phui_yee_serene@moe.edu.sg</a> 
+<p><a href="mailto:seetoh_phui_yee_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seetoh_phui_yee_serene@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -442,13 +442,103 @@ succeed.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p>Ms. Amalina</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>K2 EL</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:nur_amalina_kamarozaman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amalina_kamarozaman@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Empowerment through critical thinking and inclusive learning environments
+unlocks students' potential to thrive.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Photo</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Ms. Hwee Hoon</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>K2 CL</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:lim_hwee_hoon_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_hoon_1@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every day is an opportunity for children to learn and grow.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Photo</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Ms.Hasinah</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>EL</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>hasinah_nasharuddin@moe.edu.sg</p>
+<p><a href="mailto:hasinah_nasharuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasinah_nasharuddin@moe.edu.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -462,9 +552,10 @@ succeed.</p>
 </tr>
 </tbody>
 </table>
-<h2>MK Admin and Support Staff</h2>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -476,29 +567,131 @@ succeed.</p>
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Photo</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Ms. Xiao Li Li</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>K2 CL</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:xiao_lili@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiao_lili@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Esther Wee Xinyi</p>
+<p>Children are naturally curious, joyful learners eager to discover the
+mysteries of life.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Photo</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Ms.Quraisyah</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>K2 EL</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:Nurquraisyah_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nurquraisyah_mohamed_noor@moe.edu.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Mirzahana binte Mohdar</p>
+<p>Children learn well when provided with choices and opportunities to initiate
+their own learning and are supported with guidance, warmth and love.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>MK Admin and Support Staff</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Photo</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Security Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Mirzahana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Executive</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Saripah binte Ab Wahab</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p></p>
 </td>
 </tr>
 </tbody>
