@@ -18,7 +18,7 @@ Our Staff at MK</p>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:sharmeen_donna_shafiqur_rahman@moe.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ms. Sharmeen Donna Shafiqur Rahman ( Deputy Center Head)</div><div class="isomer-card-description">Children learn with their hands, by experience, first through play and then through work, their hands are the instruments of their own intelligence.</div><div class="isomer-card-link">sharmeen_donna_shafiqur_rahman@moe.edu.sg</div></div></a>
 </div>
-<p></p>
+<h2>MK Teaching Staff</h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:hasinah_nasharuddin@moe.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hasinah" src="/images/MOE MK Files/Staff Photo/EL_HASINAH.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms.Hasinah (EL)</div><div class="isomer-card-description">I believe every child brings their own light into the world.</div><div class="isomer-card-link">hasinah_nasharuddin@moe.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:xu_bo@moe.edu.sg" class="isomer-card">
 <div class="isomer-card-image">
@@ -59,7 +59,6 @@ succeed.</div>
 </div>
 </a>
 </div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:joseph_edwin_selvakumar_patric@moe.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jenefer" src="/images/MOE MK Files/Staff Photo/TL_JENEFER.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms. Jenefer (TL)</div><div class="isomer-card-description">Each child is unique and they all can shine in their own ways.</div><div class="isomer-card-link">joseph_edwin_selvakumar_patric@moe.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
@@ -99,7 +98,7 @@ their own learning and are supported with guidance, warmth and love.</div>
 </div>
 </a>
 </div>
-<h2>MK Teaching Staff</h2>
+<h2></h2>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
