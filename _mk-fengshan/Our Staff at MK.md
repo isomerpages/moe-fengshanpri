@@ -19,6 +19,46 @@ Our Staff at MK</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:sharmeen_donna_shafiqur_rahman@moe.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ms. Sharmeen Donna Shafiqur Rahman ( Deputy Center Head)</div><div class="isomer-card-description">Children learn with their hands, by experience, first through play and then through work, their hands are the instruments of their own intelligence.</div><div class="isomer-card-link">sharmeen_donna_shafiqur_rahman@moe.edu.sg</div></div></a>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:hasinah_nasharuddin@moe.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hasinah" src="/images/MOE MK Files/Staff Photo/EL_HASINAH.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms.Hasinah (EL)</div><div class="isomer-card-description">I believe every child brings their own light into the world.</div><div class="isomer-card-link">hasinah_nasharuddin@moe.edu.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:xu_bo@moe.edu.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Xu" src="/images/MOE MK Files/Staff Photo/CL_XU_BO.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms.Xu Bo (CL)</div>
+<div class="isomer-card-description">Every child is a natural explorer.</div>
+<div class="isomer-card-link">xu_bo@moe.edu.sg</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="mailto:yu_lei@moe.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/MOE MK Files/Staff Photo/K1_CL_YU_LEI.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms.Yu Lei (K1 CL)</div><div class="isomer-card-description">Every child has a shining side.</div><div class="isomer-card-link">yu_lei@moe.edu.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:seetoh_phui_yee_serene@moe.edu.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Serene" src="/images/MOE MK Files/Staff Photo/K1_EL_SERENE.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms.Serene (K1 EL)</div>
+<div class="isomer-card-description">Every child is a worthy individual and deserves an inclusive, fair education
+that respects and values their unique background and abilities.</div>
+<div class="isomer-card-link">seetoh_phui_yee_serene@moe.edu.sg</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="mailto:aaliyah_may_decipeda@moe.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Aaliyah" src="/images/MOE MK Files/Staff Photo/K1_EL_AALIYAH.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms. Aaliyah May Decipeda (K1 EL)</div><div class="isomer-card-description">Guiding children to be independent, curious learners who have lifelong desire to learn.</div><div class="isomer-card-link">aaliyah_may_decipeda@moe.edu.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:ashitah_dewi_mohsin@moe.edu.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mashitah" src="/images/MOE MK Files/Staff Photo/K1_E1_MASHITAH.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms. Mashitah (K1 EL)</div>
+<div class="isomer-card-description">Supporting and encouraging all children to develop their potential to
+succeed.</div>
+<div class="isomer-card-link">ashitah_dewi_mohsin@moe.edu.sg</div>
+</div>
+</a>
+</div>
 <h2>MK Teaching Staff</h2>
 <table style="minWidth: 100px">
 <colgroup>
