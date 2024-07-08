@@ -21,7 +21,8 @@ nurture children holistically so that they can be confident, demonstrate
 strong social skills and have a good foundation in literacy and numeracy.</p>
 <p>MK@FP also provides before and after Kindergarten care (KCare) services
 for children enrolled in our MK.</p>
-<p>For more information on MOE Kindergarten, you may wish to visit</p>
+<p>For more information on MOE Kindergarten, you may wish to visit <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten</a>
+</p>
 <h3>MK@Fengshan Links</h3>
 <p><strong>MOE MK:</strong>&nbsp;<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>_</p>
 <p><strong>MK Curriculum:</strong>&nbsp;<a href="http://www.moe.gov.sg/preschool/moe-kindergarten/curriculum" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten/curriculum</a>_</p>
