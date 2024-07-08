@@ -60,19 +60,44 @@ succeed.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:joseph_edwin_selvakumar_patric@moe.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jenefer" src="/images/MOE MK Files/Staff Photo/TL_JENEFER.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms. Jenefer (TL)</div><div class="isomer-card-description">Each child is unique and they all can shine in their own ways.</div><div class="isomer-card-link">joseph_edwin_selvakumar_patric@moe.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ayuni" src="/images/MOE MK Files/Staff Photo/ML_AYUNI.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Ms. Ayuni (ML)</div>
+<div class="isomer-card-description">It takes a whole village to raise a child.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="mailto:nur_amalina_kamarozaman@moe.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Amalina" src="/images/MOE MK Files/Staff Photo/K2_EL_AMALINA.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms. Amalina (K2 EL)</div><div class="isomer-card-description">Empowerment through critical thinking and inclusive learning environments unlocks students' potential to thrive.</div><div class="isomer-card-link">nur_amalina_kamarozaman@moe.edu.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:lim_hwee_hoon_1@moe.edu.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="hweehoon" src="/images/MOE MK Files/Staff Photo/K2_CL_HWEE_HOON.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms. Hwee Hoon (K2 CL)</div>
+<div class="isomer-card-description">Every day is an opportunity for children to learn and grow.</div>
+<div class="isomer-card-link">lim_hwee_hoon_1@moe.edu.sg</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="mailto:xiao_lili@moe.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="xiaolili" src="/images/MOE MK Files/Staff Photo/K2_CL_XIAO_LILI.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms. Xiao Li Li (K2 CL)</div><div class="isomer-card-description">Children are naturally curious, joyful learners eager to discover the mysteries of life.</div><div class="isomer-card-link">xiao_lili@moe.edu.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:Nurquraisyah_mohamed_noor@moe.edu.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="quraisyah" src="/images/MOE MK Files/Staff Photo/K2_EL_QURAISYAH.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms.Quraisyah (K2 EL)</div>
+<div class="isomer-card-description">Children learn well when provided with choices and opportunities to initiate
+their own learning and are supported with guidance, warmth and love.</div>
+<div class="isomer-card-link">Nurquraisyah_mohamed_noor@moe.edu.sg</div>
+</div>
+</a>
 </div>
 <h2>MK Teaching Staff</h2>
 <table style="minWidth: 100px">
