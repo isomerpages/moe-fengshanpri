@@ -4,7 +4,7 @@ permalink: /mk-fengshan/
 description: ""
 variant: tiptap
 ---
-<h2>MOE Kindergarten </h2>
+<h2>MOE Kindergarten</h2>
 <p>Welcome to MOE Kindergarten @ Fengshan Primary (MK@FP)! We opened our
 doors and hearts to children and their families with our first batch of
 Kindergarten 1 students in January 2023. We have grown since then and are
@@ -12,7 +12,7 @@ providing quality education to both K1 and K2 children.</p>
 <p>Here at MK@FP, we are a team of Brave Hearts who strive with resilience
 and compassion to nurture every child to be curious Little Champions who
 are responsible and respectful towards their families, their school and
-the community.&nbsp;</p>
+the community.</p>
 <p>When children join MK@FP they embark on an inspirational learning journey
 through our two flagship programmes – the HI-Light Programme and the Starlight
 Bilingual Literacy Programme for English Language (EL) and Mother Tongue
@@ -21,14 +21,12 @@ nurture children holistically so that they can be confident, demonstrate
 strong social skills and have a good foundation in literacy and numeracy.</p>
 <p>MK@FP also provides before and after Kindergarten care (KCare) services
 for children enrolled in our MK.</p>
-<p></p>
-<p></p>
+<p>For more information on MOE Kindergarten, you may wish to visit</p>
 <h3>MK@Fengshan Links</h3>
 <p><strong>MOE MK:</strong>&nbsp;<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>_</p>
 <p><strong>MK Curriculum:</strong>&nbsp;<a href="http://www.moe.gov.sg/preschool/moe-kindergarten/curriculum" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten/curriculum</a>_</p>
-<p><strong>MK Virtual Tour:</strong>&nbsp;<a href="http://www.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour</a>_=</p>
-<p></p>
-<p></p>
+<p><strong>MK Virtual Tour:</strong>&nbsp;<a href="http://www.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour</a>
+</p>
 <h3>Our MK@Fengshan and KCare contact</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -54,7 +52,7 @@ for children enrolled in our MK.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Office Number: </strong>
+<p><strong>Office Number:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
