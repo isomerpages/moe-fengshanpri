@@ -23,6 +23,8 @@ strong social skills and have a good foundation in literacy and numeracy.</p>
 for children enrolled in our MK.</p>
 <p>For more information on MOE Kindergarten, you may wish to visit <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten</a>
 </p>
+<p>Take a peek into our MK programmes</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1V9_EIA6SG6J8W0kAqi3KjkAEpqkSG1kH/view?usp=sharing</a>.</p>
 <h3>MK@Fengshan Links</h3>
 <p><strong>MOE MK:</strong>&nbsp;<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>_</p>
 <p><strong>MK Curriculum:</strong>&nbsp;<a href="http://www.moe.gov.sg/preschool/moe-kindergarten/curriculum" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten/curriculum</a>_</p>
