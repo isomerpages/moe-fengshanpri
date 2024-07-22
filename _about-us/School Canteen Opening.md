@@ -46,67 +46,38 @@ Food Stall”. Menu may include Rice/Noodle dishes.</p>
 during School Term.</p>
 <h4>Requirements</h4>
 <p>Applicants should meet the following criteria:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Singapore Citizens or Singapore Permanent Resident.</p>
-</li>
-<li>
-<p>Adhere to Healthy Meals in School Programme (HMSP) where all food sold
-must meet the programme requirement. Please see details at (<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>).</p>
-</li>
-<li>
-<p>Able to provide good service and quality food at reasonable prices in
-consultation with school.</p>
-</li>
-<li>
-<p>Maintain high standard of food and personal hygiene set out by National
-Environment Agency (NEA) for food handlers.</p>
-</li>
-<li>
-<p>Applicant must be in personal attendance at the stall during operating
-hours</p>
-</li>
-<li>
-<p>Both applicant &amp; stall assistant(s) must have passed the WSQ Basic
-Food Hygiene Course conducted by any of the accredited training providers
-appointed by WDA (Workforce Development Agency).</p>
-</li>
-<li>
-<p>Successful applicant will need to apply for a hawker license from NEA.</p>
-</li>
-<li>
+<p><strong>Singapore Citizens or Singapore Permanent Resident.</strong>
+</p>
+<p><strong>Adhere to Healthy Meals in School Programme (HMSP) where all food sold must meet the programme requirement. Please see details at (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).</strong>
+</p>
+<p><strong>Able to provide good service and quality food at reasonable prices in consultation with school.</strong>
+</p>
+<p><strong>Maintain high standard of food and personal hygiene set out by National Environment Agency (NEA) for food handlers.</strong>
+</p>
+<p><strong>Applicant must be in personal attendance at the stall during operating hours</strong>
+</p>
+<p><strong>Both applicant &amp; stall assistant(s) must have passed the WSQ Basic Food Hygiene Course conducted by any of the accredited training providers appointed by WDA (Workforce Development Agency).</strong>
+</p>
+<p><strong>Successful applicant will need to apply for a hawker license from NEA.</strong>
+</p>
 <p>Applicants with relevant experience in a school canteen or with catering
 experience is preferred.</p>
-</li>
-</ol>
 <h4>Application Procedure and Food Tasting</h4>
 <p>Download and complete the application form link below. You may also request
 for a hardcopy from the School’s General Office.</p>
 <p><a href="/files/Fengshan Document Links/Canteen Application/Application_Form_for_Canteen__FSPS__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download application form here</a>
 </p>
 <p>Interested must submit the following documents:</p>
-<ol data-tight="true" class="tight">
-<li>
 <p><strong>Completed application form</strong>
 </p>
-</li>
-<li>
 <p><strong>Proposed menu and price list of all items to be sold</strong>
 </p>
-</li>
-<li>
 <p><strong>Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant/s.</strong>
 </p>
-</li>
-<li>
 <p><strong>Photocopy of Identification Card (front &amp; back)</strong>
 </p>
-</li>
-<li>
 <p><strong>Records of past catering/canteen experiences, if any</strong>
 </p>
-</li>
-</ol>
 <p></p>
 <h4>Submission of Application</h4>
 <p>Please submit the completed application form with the supporting documents
