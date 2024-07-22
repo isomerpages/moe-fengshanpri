@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3>School Canteen Advertisement (No Opening)</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -20,21 +25,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>No Opening</strong>
+<p><strong>Chinese Cooked Food Stall</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Closed</strong>
+<p><strong>30 September 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Rice / Noodle dishes</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Fengshan Primary School at present not inviting any applicants at the
-moment.</p>
+<p>Fengshan Primary School is inviting applicants to operate a “Chinese Cooked
+Food Stall”. Menu may include Rice/Noodle dishes.</p>
 <p>We are a single session school with an estimated student population of
 1200. The canteen operating hours are from Mondays to Fridays, 7am to 3pm
 during School Term.</p>
