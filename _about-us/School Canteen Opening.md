@@ -85,14 +85,28 @@ for a hardcopy from the School’s General Office.</p>
 <p><a href="/files/Fengshan%20Document%20Links/Canteen%20Application/application_form_for_canteen__fsps_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download application form here</a>
 </p>
 <p>Interested must submit the following documents:</p>
-<p><strong><em>Proposed menu and price list of all items to be sold</em></strong>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Completed application form</strong>
 </p>
-<p><strong><em>Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant/s.</em></strong>
+</li>
+<li>
+<p><strong>Proposed menu and price list of all items to be sold</strong>
 </p>
-<p><strong><em>Photocopy of Identification Card (front &amp; back)</em></strong>
+</li>
+<li>
+<p><strong>Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant/s.</strong>
 </p>
-<p><strong><em>Records of past catering/canteen experiences, if any</em></strong>
+</li>
+<li>
+<p><strong>Photocopy of Identification Card (front &amp; back)</strong>
 </p>
+</li>
+<li>
+<p><strong>Records of past catering/canteen experiences, if any</strong>
+</p>
+</li>
+</ol>
 <p></p>
 <h4>Submission of Application</h4>
 <p>Please submit the completed application form with the supporting documents
