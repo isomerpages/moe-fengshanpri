@@ -46,13 +46,13 @@ Food Stall”. Menu may include Rice/Noodle dishes.</p>
 during School Term.</p>
 <h4>Requirements</h4>
 <p>Applicants should meet the following criteria:</p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Singapore Citizens or Singapore Permanent Resident.</p>
 </li>
 <li>
 <p>Adhere to Healthy Meals in School Programme (HMSP) where all food sold
-must meet the programme requirement. Please see details at (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).</p>
+must meet the programme requirement. Please see details at (<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>).</p>
 </li>
 <li>
 <p>Able to provide good service and quality food at reasonable prices in
@@ -78,12 +78,7 @@ appointed by WDA (Workforce Development Agency).</p>
 <p>Applicants with relevant experience in a school canteen or with catering
 experience is preferred.</p>
 </li>
-<li>
-<p>Shortlisted applicants would be notified for an interview and will be
-required to provide food sampling for the School Canteen Selection Committee
-at the applicant’s own expense.</p>
-</li>
-</ul>
+</ol>
 <h4>Application Procedure and Food Tasting</h4>
 <p>Download and complete the application form link below. You may also request
 for a hardcopy from the School’s General Office.</p>
