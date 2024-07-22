@@ -82,7 +82,7 @@ experience is preferred.</p>
 <h4>Application Procedure and Food Tasting</h4>
 <p>Download and complete the application form link below. You may also request
 for a hardcopy from the School’s General Office.</p>
-<p><a href="/files/Fengshan%20Document%20Links/Canteen%20Application/application_form_for_canteen__fsps_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download application form here</a>
+<p><a href="/files/Fengshan Document Links/Canteen Application/Application_Form_for_Canteen__FSPS__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download application form here</a>
 </p>
 <p>Interested must submit the following documents:</p>
 <ol data-tight="true" class="tight">
