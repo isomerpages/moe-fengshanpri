@@ -20,6 +20,14 @@ sections:
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
   - infopic:
+      title: Edusave Character Award(ECHA) Nomination Form
+      subtitle: Add an image and text
+      id: infopic
+      description: Click to download the hardcopy form.
+      button: Click here to download
+      url: ECHA_Nomination_form_for_Stakeholders_2024
+      alt: Image alt text
+  - infopic:
       title: CHINESE STALL
       subtitle: CANTEEN STALL OPENING
       id: infopic
@@ -52,12 +60,4 @@ sections:
       description: Registration form and submission
       button: Click here
       url: /fengshan-family/partnership/alumni/
-  - infopic:
-      title: Edusave Character Award(ECHA) Nomination Form
-      subtitle: Add an image and text
-      id: infopic
-      description: Click to download the hardcopy form.
-      button: Click here to download
-      url: ECHA_Nomination_form_for_Stakeholders_2024
-      alt: Image alt text
 ---
