@@ -13,7 +13,7 @@ Our Staff at MK</p>
 <h1>Our Staff at MK</h1>
 <h2>Deputy Head Centre Head</h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:sharmeen_donna_shafiqur_rahman@moe.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ms. Sharmeen Donna Shafiqur Rahman ( Deputy Center Head)</div><div class="isomer-card-description">Children learn with their hands, by experience, first through play and then through work, their hands are the instruments of their own intelligence.</div><div class="isomer-card-link">sharmeen_donna_shafiqur_rahman@moe.edu.sg</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:sharmeen_donna_shafiqur_rahman@moe.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ms. Sharmeen Donna Shafiqur Rahman ( Centre Head)</div><div class="isomer-card-description">Children learn with their hands, by experience, first through play and then through work, their hands are the instruments of their own intelligence.</div><div class="isomer-card-link">sharmeen_donna_shafiqur_rahman@moe.edu.sg</div></div></a>
 </div>
 <h2>MK Teaching Staff</h2>
 <table style="minWidth: 75px">
