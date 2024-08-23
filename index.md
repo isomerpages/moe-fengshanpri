@@ -25,7 +25,7 @@ sections:
       id: infopic
       description: Click to download the hardcopy form.
       button: Click here to download
-      url: https://cms.isomer.gov.sg/files/Fengshan%20Document%20Links/2024/ECHA_Nomination_form_for_Stakeholders_2024.pdf
+      url: https://www.fengshanpri.moe.edu.sg/files/Fengshan%20Document%20Links/2024/ECHA_Nomination_form_for_Stakeholders_2024.pdf
       alt: ECHA 20
       image: /images/Homepage Design/Front Page Logos and
         Images/ECHA_Nomination_2024.png
