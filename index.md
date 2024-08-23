@@ -27,6 +27,8 @@ sections:
       button: Click here to download
       url: ECHA_Nomination_form_for_Stakeholders_2024
       alt: Image alt text
+      image: /images/Homepage Design/Front Page Logos and
+        Images/ECHA_Nomination_2024.png
   - infopic:
       title: CHINESE STALL
       subtitle: CANTEEN STALL OPENING
