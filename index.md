@@ -52,4 +52,12 @@ sections:
       description: Registration form and submission
       button: Click here
       url: /fengshan-family/partnership/alumni/
+  - infopic:
+      title: Edusave Character Award(ECHA) Nomination Form
+      subtitle: Add an image and text
+      id: infopic
+      description: Click to download the hardcopy form.
+      button: Click here to download
+      url: ECHA_Nomination_form_for_Stakeholders_2024
+      alt: Image alt text
 ---
