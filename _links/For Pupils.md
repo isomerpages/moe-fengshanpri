@@ -64,7 +64,6 @@ variant: tiptap
 <p><a href="https://kids.nationalgeographic.com/" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com</a> 
 <br><a href="https://languages.oup.com/" rel="noopener noreferrer nofollow" target="_blank">https://languages.oup.com</a> 
 <br><a href="https://www.bbc.co.uk/bitesize" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/bitesize</a> 
-<br><a href="https://www.mightybook.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.mightybook.com</a> 
 <br><a href="https://www.poetry4kids.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.poetry4kids.com</a> 
 <br><a href="https://pbskids.org/learn/" rel="noopener noreferrer nofollow" target="_blank">https://pbskids.org/learn/</a> 
 <br><a href="https://www.starfall.com/h/" rel="noopener noreferrer nofollow" target="_blank">https://www.starfall.com/h/</a> 
