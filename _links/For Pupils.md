@@ -61,8 +61,7 @@ variant: tiptap
 <p><a href="https://www.how-to-study.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.how-to-study.com</a>
 </p>
 <h3>English</h3>
-<p><a href="https://www.readingrockets.org/audience/parents" rel="noopener noreferrer nofollow" target="_blank">https://www.readingrockets.org/audience/parents</a> 
-<br><a href="https://kids.nationalgeographic.com/" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com</a> 
+<p><a href="https://kids.nationalgeographic.com/" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com</a> 
 <br><a href="https://languages.oup.com/" rel="noopener noreferrer nofollow" target="_blank">https://languages.oup.com</a> 
 <br><a href="https://www.bbc.co.uk/bitesize" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/bitesize</a> 
 <br><a href="https://www.mightybook.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.mightybook.com</a> 
@@ -72,7 +71,7 @@ variant: tiptap
 <br><a href="https://write.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">https://write.koobits.com</a>
 </p>
 <h3>Maths</h3>
-<p><a href="https://problemsums.koobits.%20com/" rel="noopener noreferrer nofollow" target="_blank">https://problemsums.koobits. com</a> 
+<p><a href="https://problemsums.koobits.com" rel="noopener nofollow" target="_blank">https://problemsums.koobits.com </a>
 <br><a href="https://www.coolmathgames.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.coolmathgames.com</a> 
 <br><a href="https://www.mathsisfun.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.mathsisfun.com</a>
 </p>
