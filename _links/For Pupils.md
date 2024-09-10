@@ -40,10 +40,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a>
-</p>
-</li>
-<li>
 <p><a href="https://member.koobits.com/?utm_source=web_nav&amp;utm_medium=btn&amp;utm_campaign=k21web&amp;utm_content=login" rel="noopener noreferrer nofollow" target="_blank">Maths Koobits</a>
 </p>
 </li>
