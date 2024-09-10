@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.ezhishi.net/FSPSebook/" rel="noopener noreferrer nofollow" target="_blank">E-publication - Fengshan Language Haven </a><strong><a href="https://www.ezhishi.net/FSPSebook/" rel="noopener noreferrer nofollow" target="_blank">&lt;new&gt;</a></strong>
+<p><a href="https://www.ezhishi.net/FSPSebook/" rel="noopener noreferrer nofollow" target="_blank">E-publication - Fengshan Language Haven</a>
 </p>
 </li>
 <li>
