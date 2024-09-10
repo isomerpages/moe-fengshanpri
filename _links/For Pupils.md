@@ -66,7 +66,7 @@ variant: tiptap
 <br><a href="https://www.bbc.co.uk/bitesize" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/bitesize</a> 
 <br><a href="https://www.poetry4kids.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.poetry4kids.com</a> 
 <br><a href="https://pbskids.org/learn/" rel="noopener noreferrer nofollow" target="_blank">https://pbskids.org/learn/</a> 
-<br><a href="https://www.starfall.com/h/" rel="noopener noreferrer nofollow" target="_blank">https://www.starfall.com/h/</a> 
+<br><a href="https://www.starfall.com/h/" rel="noopener noreferrer nofollow" target="_blank">https://www.starfall.com/h/</a>
 </p>
 <h3>Maths</h3>
 <p><a href="https://problemsums.koobits.com" rel="noopener nofollow" target="_blank">https://problemsums.koobits.com </a>
@@ -102,9 +102,6 @@ variant: tiptap
 </p>
 <h3>DSA</h3>
 <p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
-</p>
-<h3>Uniformed Groups</h3>
-<p><a href="https://www.schoolbag.sg/story/uniformed-groups" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.sg/story/uniformed-groups</a>
 </p>
 <h3>Performing Arts</h3>
 <p><a href="https://www.syf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.syf.gov.sg/</a>
