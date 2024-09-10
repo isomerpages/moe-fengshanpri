@@ -994,9 +994,6 @@ digestion.”</p>
 <p><a href="https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc" rel="noopener noreferrer nofollow" target="_blank">Circuit Construction Kit (DC Only)</a>
 </p>
 <p>“Explore basic electricity relationships in series and parallel circuits.”</p>
-<p><a href="https://www.mindmeister.com/" rel="noopener noreferrer nofollow" target="_blank">MindMeister</a>
-</p>
-<p>“Create, share and collaboratively work on mind maps.”</p>
 <p><a href="https://www.mindomo.com/" rel="noopener noreferrer nofollow" target="_blank">Mindomo</a>
 </p>
 <p>“Create the best looking map online and share it with others.”</p>
