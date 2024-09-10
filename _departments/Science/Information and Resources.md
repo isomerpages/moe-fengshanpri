@@ -987,10 +987,6 @@ for each level is as follow:</p>
 </div>
 <h4><strong>Websites &amp; Collaborative Tools</strong></h4>
 <p></p>
-<p><a href="http://www.bbc.co.uk/bitesize/ks2/" rel="noopener noreferrer nofollow" target="_blank">BBC Bitesize – Home</a>
-</p>
-<p>“Learning resources for adults, children, parents and teachers: find videos
-and audio clips by level, subject and topic.”</p>
 <p><a href="http://kitses.com/animation/swfs/digestion.swf" rel="noopener noreferrer nofollow" target="_blank">Digestion Animation</a>
 </p>
 <p>“Flash animation demonstrating the various organs involved in the human
