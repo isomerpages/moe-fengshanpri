@@ -24,7 +24,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://schoolibrary.moe.edu.sg/fengshanpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">OPAC Website</a>&nbsp;&nbsp;&nbsp;
-<a href="/files/Fengshan%20Document%20Links/OPACSERR-Guide-for-Students_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">OPAC Guide for Student</a>&nbsp; &nbsp;&nbsp;<a href="https://for.edu.sg/fsps-lib-borrowform" rel="noopener noreferrer nofollow" target="_blank">Offline Form(if OPAC is down)</a>
+<a href="https://for.edu.sg/fsps-lib-borrowform" rel="noopener noreferrer nofollow" target="_blank">Offline Form(if OPAC is down)</a>
 </p>
 </li>
 <li>
