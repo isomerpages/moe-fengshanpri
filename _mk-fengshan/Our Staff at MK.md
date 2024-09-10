@@ -54,7 +54,7 @@ Our Staff at MK</p>
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="xu_bo@moe.edu.sg" rel="noopener nofollow" target="_blank">xu_bo@moe.edu.sg</a>
+<p><a href="mailto:xu_bo@moe.edu.sg" rel="noopener nofollow" target="_blank">xu_bo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,7 +66,7 @@ Our Staff at MK</p>
 <p>K1 CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yu_lei@moe.edu.sg</a>
+<p><a href="mailto:yu_lei@moe.edu.sg" rel="noopener nofollow" target="_blank">yu_lei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -78,7 +78,7 @@ Our Staff at MK</p>
 <p>K1 EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seetoh_phui_yee_serene@moe.edu.sg</a>
+<p><a href="mailto:seetoh_phui_yee_serene@moe.edu.sg" rel="noopener nofollow" target="_blank">seetoh_phui_yee_serene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ Our Staff at MK</p>
 <p>K1 EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">aaliyah_may_decipeda@moe.edu.sg</a>
+<p><a href="mailto:aaliyah_may_decipeda@moe.edu.sg" rel="noopener nofollow" target="_blank">aaliyah_may_decipeda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -102,7 +102,7 @@ Our Staff at MK</p>
 <p>K1 EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mashitah_dewi_mohsin@moe.edu.sg</a>
+<p><a href="mailto:mashitah_dewi_mohsin@moe.edu.sg" rel="noopener nofollow" target="_blank">mashitah_dewi_mohsin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ Our Staff at MK</p>
 <p>TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">joseph_edwin_selvakumar_patric@moe.edu.sg</a>
+<p><a href="mailto:joseph_edwin_selvakumar_patric@moe.edu.sg" rel="noopener nofollow" target="_blank">joseph_edwin_selvakumar_patric@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -126,7 +126,7 @@ Our Staff at MK</p>
 <p>ML</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seri_ayuni_tan@moe.edu.sg</a>
+<p><a href="mailto:seri_ayuni_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">seri_ayuni_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -138,7 +138,7 @@ Our Staff at MK</p>
 <p>K2 EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_amalina_kamarozaman@moe.edu.sg</a>
+<p><a href="mailto:nur_amalina_kamarozaman@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_amalina_kamarozaman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -150,7 +150,7 @@ Our Staff at MK</p>
 <p>K2 CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_hwee_hoon_1@moe.edu.sg</a>
+<p><a href="mailto:lim_hwee_hoon_1@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_hwee_hoon_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -162,7 +162,7 @@ Our Staff at MK</p>
 <p>K2 CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">xiao_lili@moe.edu.sg</a>
+<p><a href="mailto:xiao_lili@moe.edu.sg" rel="noopener nofollow" target="_blank">xiao_lili@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -174,7 +174,7 @@ Our Staff at MK</p>
 <p>K2 EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Nurquraisyah_mohamed_noor@moe.edu.sg</a>
+<p><a href="mailto:Nurquraisyah_mohamed_noor@moe.edu.sg" rel="noopener nofollow" target="_blank">Nurquraisyah_mohamed_noor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
