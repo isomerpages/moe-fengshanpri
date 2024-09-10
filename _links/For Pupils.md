@@ -67,7 +67,6 @@ variant: tiptap
 <br><a href="https://www.poetry4kids.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.poetry4kids.com</a> 
 <br><a href="https://pbskids.org/learn/" rel="noopener noreferrer nofollow" target="_blank">https://pbskids.org/learn/</a> 
 <br><a href="https://www.starfall.com/h/" rel="noopener noreferrer nofollow" target="_blank">https://www.starfall.com/h/</a> 
-<br><a href="https://write.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">https://write.koobits.com</a>
 </p>
 <h3>Maths</h3>
 <p><a href="https://problemsums.koobits.com" rel="noopener nofollow" target="_blank">https://problemsums.koobits.com </a>
