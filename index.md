@@ -21,7 +21,7 @@ sections:
       variant: image
   - infopic:
       title: Edusave Character Award(ECHA) Nomination Form
-      subtitle: Add an image and text
+      subtitle: ECHA
       id: infopic
       description: Click to download the hardcopy form.
       button: Click here to download
