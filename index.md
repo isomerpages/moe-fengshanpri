@@ -55,11 +55,4 @@ sections:
       url: https://www.youtube.com/watch?v=NgrV6DAvTQ4&ab_channel=ETDtogo
       image: /images/School Logo and Photo Design/fengshan pri school pic.png
       alt: Happening at Fengshan 2023
-  - infobar:
-      title: Fengshan Alumni Membership
-      subtitle: Membership registration
-      id: infobar
-      description: Registration form and submission
-      button: Click here
-      url: /fengshan-family/partnership/alumni/
 ---
