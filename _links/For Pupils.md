@@ -24,11 +24,11 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://schoolibrary.moe.edu.sg/fengshanpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">OPAC Website</a>&nbsp;&nbsp;&nbsp;
-<a href="/files/Fengshan%20Document%20Links/OPACSERR-Guide-for-Students_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">OPAC Guide for Student</a>&nbsp; &nbsp;&nbsp;<a href="https://for.edu.sg/fsps-lib-borrowform" rel="noopener noreferrer nofollow" target="_blank">Offline Form(if OPAC is down)</a>
+<a href="https://for.edu.sg/fsps-lib-borrowform" rel="noopener noreferrer nofollow" target="_blank">Offline Form(if OPAC is down)</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.ezhishi.net/FSPSebook/" rel="noopener noreferrer nofollow" target="_blank">E-publication - Fengshan Language Haven </a><strong><a href="https://www.ezhishi.net/FSPSebook/" rel="noopener noreferrer nofollow" target="_blank">&lt;new&gt;</a></strong>
+<p><a href="https://www.ezhishi.net/FSPSebook/" rel="noopener noreferrer nofollow" target="_blank">E-publication - Fengshan Language Haven</a>
 </p>
 </li>
 <li>
@@ -37,10 +37,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Student Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a>
 </p>
 </li>
 <li>
@@ -61,22 +57,17 @@ variant: tiptap
 <p><a href="https://www.how-to-study.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.how-to-study.com</a>
 </p>
 <h3>English</h3>
-<p><a href="https://www.readingrockets.org/audience/parents" rel="noopener noreferrer nofollow" target="_blank">https://www.readingrockets.org/audience/parents</a> 
-<br><a href="https://kids.nationalgeographic.com/" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com</a> 
+<p><a href="https://kids.nationalgeographic.com/" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com</a> 
 <br><a href="https://languages.oup.com/" rel="noopener noreferrer nofollow" target="_blank">https://languages.oup.com</a> 
-<br><a href="https://www.highlightkids.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.highlightkids.com</a> 
 <br><a href="https://www.bbc.co.uk/bitesize" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/bitesize</a> 
-<br><a href="https://www.mightybook.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.mightybook.com</a> 
 <br><a href="https://www.poetry4kids.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.poetry4kids.com</a> 
 <br><a href="https://pbskids.org/learn/" rel="noopener noreferrer nofollow" target="_blank">https://pbskids.org/learn/</a> 
-<br><a href="https://www.starfall.com/h/" rel="noopener noreferrer nofollow" target="_blank">https://www.starfall.com/h/</a> 
-<br><a href="https://write.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">https://write.koobits.com</a>
+<br><a href="https://www.starfall.com/h/" rel="noopener noreferrer nofollow" target="_blank">https://www.starfall.com/h/</a>
 </p>
 <h3>Maths</h3>
-<p><a href="https://problemsums.koobits.%20com/" rel="noopener noreferrer nofollow" target="_blank">https://problemsums.koobits. com</a> 
+<p><a href="https://problemsums.koobits.com" rel="noopener nofollow" target="_blank">https://problemsums.koobits.com </a>
 <br><a href="https://www.coolmathgames.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.coolmathgames.com</a> 
-<br><a href="https://www.mathsisfun.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.mathsisfun.com</a> 
-<br><a href="https://www.funbrain.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.funbrain.com</a>
+<br><a href="https://www.mathsisfun.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.mathsisfun.com</a>
 </p>
 <h3>Science</h3>
 <p><a href="https://www.bbc.co.uk/education/subjects/zrkw2hv" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/education/subjects/zrkw2hv</a> 
@@ -107,9 +98,6 @@ variant: tiptap
 </p>
 <h3>DSA</h3>
 <p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
-</p>
-<h3>Uniformed Groups</h3>
-<p><a href="https://www.schoolbag.sg/story/uniformed-groups" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.sg/story/uniformed-groups</a>
 </p>
 <h3>Performing Arts</h3>
 <p><a href="https://www.syf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.syf.gov.sg/</a>
