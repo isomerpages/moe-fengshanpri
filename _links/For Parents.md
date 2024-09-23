@@ -26,6 +26,9 @@ Insurance Plan for students can be found on Income’s website at <a href="https
 <p><a href="http://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/parentkit</a>
 </p>
 <h3><strong>Parents Gateway Onboarding User Guide</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCM5o8jAncc?si=wsKK1erREhK9a1mJ"></iframe>
+</div>
 <p><a href="https://for.edu.sg/fsps-pg-parentsuserguide" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/fsps-pg-parentsuserguide</a>
 </p>
 <h4>Parents Gateway Installation Guide</h4>
@@ -146,6 +149,8 @@ below to do so</p>
 <p>For new users: To register go to SingPass register link: <a href="https://go.gov.sg/fsps-register-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-register-singpass</a>
 </p>
 <p>Eligibility for SingPass (accurate as of March 2024)</p>
+<p>Reference: <a href="https://ask.gov.sg/singpass/questions/clul28lp4002t3b8g3hnggivy?from=search" rel="noopener nofollow" target="_blank">https://ask.gov.sg/singpass/questions/clul28lp4002t3b8g3hnggivy?from=search</a>
+</p>
 <p>The minimum age requirement is 15 years old.</p>
 <p>The following groups of users are eligible to apply for Singpass:</p>
 <ul>
