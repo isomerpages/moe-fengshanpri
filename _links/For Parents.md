@@ -39,9 +39,9 @@ using SingPass account.</p>
 <p>As a reminder, Parents Gateway is <strong>not available for computers/laptop login browser</strong>,
 rather parents/legal guardian are required to download the app from their
 mobile Android/iOS device to access Parents Gateway app.</p>
-<h4>Step 1: Singpass Registration and 2FA Setup</h4>
-<p>Singpass is required for onboarding to Parents Gateway (PG). If you have
-not registered for a Singpass or have not set up the 2FA, please visit
+<h4>Step 1: SingPass Registration and 2FA Setup</h4>
+<p>SingPass is required for onboarding to Parents Gateway (PG). If you have
+not registered for a SingPass or have not set up the 2FA, please visit
 the Singpass website</p>
 <p>SingPass requirement for Parents Gateway</p>
 <table style="minWidth: 75px">
@@ -100,7 +100,7 @@ the Singpass website</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Requirements to register SingPass account:</strong>
+<p><strong>Requirement to register SingPass</strong>
 </p>
 <p>The minimum age requirement is 15 years old.</p>
 <p>The following groups of users are eligible to apply for Singpass:</p>
