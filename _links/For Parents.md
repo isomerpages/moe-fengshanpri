@@ -140,6 +140,12 @@ below to do so</p>
 </tr>
 </tbody>
 </table>
+<h4>Step 3: Setup Parents Gateway app</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/parents gateway setup.png">
+</div>
+<p></p>
 <h3>Parents Gateway App Installation Guide</h3>
 <h4>Installation guide (video)</h4>
 <div class="iframe-wrapper">
