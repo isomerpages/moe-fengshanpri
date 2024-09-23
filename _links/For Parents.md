@@ -39,12 +39,12 @@ using SingPass account.</p>
 <p>As a reminder, Parents Gateway is <strong>not available for computers/laptop login browser</strong>,
 rather parents/legal guardian are required to download the app from their
 mobile Android/iOS device to access Parents Gateway app.</p>
-<h6>Step 1: Singpass Registration and 2FA Setup</h6>
+<h6><strong>Step 1: Singpass Registration and 2FA Setup</strong></h6>
 <p>Singpass is required for onboarding to Parents Gateway (PG). If you have
 not registered for a Singpass or have not set up the 2FA, please visit
 the Singpass website (https://www.singpass.gov.sg) or scan the QR code
 below to do so</p>
-<h6>Step 2: Download Parents Gateway Mobile App</h6>
+<h6><strong>Step 2: Download Parents Gateway Mobile App</strong></h6>
 <p>a. Open the Apple App Store or Google Play Store app on your mobile phone.
 <br>b. Search for the ‘Parents Gateway’ mobile app or scan the QR code below.</p>
 <h5>For Android Users</h5>
