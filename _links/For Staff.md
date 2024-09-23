@@ -29,12 +29,12 @@ attendance and activities</p>
 </p>
 <p>Access link for staff to access iCON email and Google workspace app.</p>
 <h3>SSOE2 Service Portal (ICT)</h3>
-<p>Link: <a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://ssoe2.moe.edu.sg/</a>
+<p>Link: <a href="https://go.gov.sg/fsps-ssoe2" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-ssoe2</a>
 </p>
 <p>Access link for staff to access ICT portal to raise incident, service
 request or purchase of ICT hardware, software and services.</p>
 <h3>CES Outlook link (Require SSOE2 devices)</h3>
-<p>Link: <a href="https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fow" rel="noopener noreferrer nofollow" target="_blank">Outlook Login Email (Web Version)</a>
+<p>Link: <a href="https://go.gov.sg/fsps-webmail" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-webmail</a>
 </p>
 <p>Alternative link to access CES Email outlook on SSOE2 devices <strong>only</strong>.</p>
 <h2>School Resources Booking Portal</h2>
