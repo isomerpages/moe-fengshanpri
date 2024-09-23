@@ -115,15 +115,18 @@ below to do so</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>How to download</p>
+<p>How to download the app</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/fsps-pg-android" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-pg-android</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/fsps-pg-apple" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-pg-apple</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>No access</strong>
