@@ -36,9 +36,6 @@ consent form and managing school appointment (coming soon) . The Parent
 Gateway app is free and available for download to all mobile devices (subject
 to minimum requirements in the OS version of the mobile device), and accessible
 using SingPass account.</p>
-<p>As a reminder, Parents Gateway is <strong>not available for computers/laptop login browser</strong>,
-rather parents/legal guardian are required to download the app from their
-mobile Android/iOS device to access Parents Gateway app.</p>
 <h4>Step 1: SingPass Registration and 2FA Setup</h4>
 <p>SingPass is required for onboarding to Parents Gateway (PG). If you have
 not registered for a SingPass or have not set up the 2FA, please visit
@@ -71,7 +68,7 @@ the Singpass website</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>reset link</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -83,7 +80,7 @@ the Singpass website</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>see eligibility for SingPass for foreign citizens</p>
+<p>see eligibility for foreign citizens/ non-Singaporeans</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +97,7 @@ the Singpass website</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Requirement to register SingPass</strong>
+<p><strong>Requirement to register SingPass:</strong>
 </p>
 <p>The minimum age requirement is 15 years old.</p>
 <p>The following groups of users are eligible to apply for Singpass:</p>
@@ -134,7 +131,6 @@ the Singpass website</p>
 </li>
 <li>
 <p>Immigration Exemption Order holders</p>
-<p></p>
 </li>
 </ul>
 <p>For any inquiries with regards to eligibility and accessing the Parents
