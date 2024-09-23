@@ -16,8 +16,7 @@ Insurance’s GPA portal (<a href="https://studentgpa.incomegroupins.com.sg" rel
 Insurance Plan for students can be found on Income’s website at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
 <p></p>
-<p></p>
-<h3>Parents' Handbook 2024</h3>
+<h3><strong>Parents' Handbook 2024</strong></h3>
 <p><a href="/files/Fengshan%20Document%20Links/Parents%20Handbook/Parents__Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
 </p>
 <h3>MOE Website Link</h3>
@@ -26,7 +25,7 @@ Insurance Plan for students can be found on Income’s website at <a href="https
 <h3>MOE Parent Kit</h3>
 <p><a href="http://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/parentkit</a>
 </p>
-<h3>Parents Gateway Onboarding User Guide</h3>
+<h3><strong>Parents Gateway Onboarding User Guide</strong></h3>
 <p><a href="https://for.edu.sg/fsps-pg-parentsuserguide" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/fsps-pg-parentsuserguide</a>
 </p>
 <h4>Parents Gateway Installation Guide</h4>
@@ -39,12 +38,12 @@ using SingPass account.</p>
 <p>As a reminder, Parents Gateway is <strong>not available for computers/laptop login browser</strong>,
 rather parents/legal guardian are required to download the app from their
 mobile Android/iOS device to access Parents Gateway app.</p>
-<h6><strong>Step 1: Singpass Registration and 2FA Setup</strong></h6>
+<h4>Step 1: Singpass Registration and 2FA Setup</h4>
 <p>Singpass is required for onboarding to Parents Gateway (PG). If you have
 not registered for a Singpass or have not set up the 2FA, please visit
 the Singpass website (https://www.singpass.gov.sg) or scan the QR code
 below to do so</p>
-<h6><strong>Step 2: Download Parents Gateway Mobile App</strong></h6>
+<h4>Step 2: Download Parents Gateway Mobile App</h4>
 <p>a. Open the Apple App Store or Google Play Store app on your mobile phone.
 <br>b. Search for the ‘Parents Gateway’ mobile app or scan the QR code below.</p>
 <table style="minWidth: 100px">
@@ -104,11 +103,7 @@ below to do so</p>
 <p>Minimum requirement</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Android 8.0 or later</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>iOS 12.0 or later</p>
