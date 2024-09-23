@@ -17,16 +17,16 @@ Insurance Plan for students can be found on Income’s website at <a href="https
 </p>
 <p></p>
 <p></p>
-<h4>Parents' Handbook 2024</h4>
+<h3>Parents' Handbook 2024</h3>
 <p><a href="/files/Fengshan%20Document%20Links/Parents%20Handbook/Parents__Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
 </p>
-<h4>MOE Website Link</h4>
+<h3>MOE Website Link</h3>
 <p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a>
 </p>
-<h4>MOE Parent Kit</h4>
+<h3>MOE Parent Kit</h3>
 <p><a href="http://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/parentkit</a>
 </p>
-<h4>Parents Gateway Onboarding User Guide</h4>
+<h3>Parents Gateway Onboarding User Guide</h3>
 <p><a href="https://for.edu.sg/fsps-pg-parentsuserguide" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/fsps-pg-parentsuserguide</a>
 </p>
 <h4>Parents Gateway Installation Guide</h4>
@@ -47,6 +47,96 @@ below to do so</p>
 <h6><strong>Step 2: Download Parents Gateway Mobile App</strong></h6>
 <p>a. Open the Apple App Store or Google Play Store app on your mobile phone.
 <br>b. Search for the ‘Parents Gateway’ mobile app or scan the QR code below.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Type of Access</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Android Devices</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Apple Devices</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Desktop PC/Mac</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Access Possible</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Type of devices</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mobile phones, tablets</p>
+<p>(excluding chromebook)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>iPhones and iPads</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop, laptop, macbook etc...</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Minimum requirement</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Android 8.0 or later</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>iOS 12.0 or later</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No access</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>How to download</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/fsps-pg-android" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-pg-android</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/fsps-pg-apple" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-pg-apple</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No access</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5>For Android Users</h5>
 <p>To download the Parent Gateway app devices, click&nbsp;<a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 (Require version 6.0 and up)</p>
@@ -105,5 +195,8 @@ website below or <a href="https://www.fengshanpri.moe.edu.sg/explore/for-parents
 <p>How to access the school services: At the school top menu go to -&gt;
 "<strong>About Us</strong>". Select "<strong>School Services</strong>"</p>
 <h3>Parents Gateway App Installation Guide</h3>
-<p><a href="/files/Principal_Slides___P2_MTP.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 MTP Slides</a>
-</p>
+<h4>Video presentation guide</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tW9jwyuovOo?si=GFhxRef-mdm3XSsz"></iframe>
+</div>
+<p></p>
