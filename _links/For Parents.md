@@ -141,11 +141,45 @@ below to do so</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tW9jwyuovOo?si=GFhxRef-mdm3XSsz"></iframe>
 </div>
 <h4>SingPass requirement for Parents Gateway</h4>
-<p>For existing SingPass: to reset your password click&nbsp;<a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">here</a>,
-(link direct to SingPass)</p>
-<p>For new users: To register go to SingPass register link: <a href="https://www.singpass.gov.sg/home/ui/register/instructions" rel="noopener noreferrer nofollow" target="_blank">https://www.singpass.gov.sg/home/ui/register/instructions</a>
+<p>For existing SingPass: to reset your password link: <a href="https://go.gov.sg/fsps-reset-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-reset-singpass</a>
 </p>
-<p></p>
+<p>For new users: To register go to SingPass register link: <a href="https://go.gov.sg/fsps-register-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-register-singpass</a>
+</p>
+<p>Eligibility for SingPass (accurate as of March 2024)</p>
+<p>The minimum age requirement is 15 years old.</p>
+<p>The following groups of users are eligible to apply for Singpass:</p>
+<ul>
+<li>
+<p>Singapore Citizen and Permanent Resident</p>
+</li>
+<li>
+<p>Employment Pass and Personalised Employment Pass holders</p>
+</li>
+<li>
+<p>EntrePass holders</p>
+</li>
+<li>
+<p>S Pass holders</p>
+</li>
+<li>
+<p>Dependant's Pass holders (of EP, PEP, EntrePass and S Pass holders)</p>
+</li>
+<li>
+<p>Long Term Visit Pass-Plus (LTVP+) holders</p>
+</li>
+<li>
+<p>Long Term Visit Pass holders</p>
+</li>
+<li>
+<p>Work Permit holders</p>
+</li>
+<li>
+<p>Student Pass holders</p>
+</li>
+<li>
+<p>Immigration Exemption Order holders</p>
+</li>
+</ul>
 <p>
 <br><strong>Reference</strong>: <a href="https://go.gov.sg/fsps-access-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-access-singpass</a>
 </p>
