@@ -137,53 +137,18 @@ below to do so</p>
 </tr>
 </tbody>
 </table>
-<h5>For Android Users</h5>
-<p>To download the Parent Gateway app devices, click&nbsp;<a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-(Require version 6.0 and up)</p>
-<h5>For Apple Users</h5>
-<p>To download the Parent Gateway app Apple OS mobile devices, click&nbsp;
-<a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">here</a>. (Requires iOS 11.0 or later. Compatible with iPhone, iPad and
-iPod touch)</p>
-<h5>Installation Guide for Parents Gateway</h5>
-<h5>SingPass requirement for Parents Gateway</h5>
+<h3>Parents Gateway App Installation Guide</h3>
+<h4>Installation guide (video)</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tW9jwyuovOo?si=GFhxRef-mdm3XSsz"></iframe>
+</div>
+<h4>SingPass requirement for Parents Gateway</h4>
 <p>To understand on how to reset the Singpass, click&nbsp;<a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">here</a>,</p>
 <p>To apply for a Singpass account at the SingPass website click&nbsp;[here](
 <a href="https://www.singpass.gov.sg/home/ui/register/instructions" rel="noopener noreferrer nofollow" target="_blank">Singpass - Register</a>).&nbsp;</p>
-<p>As per Singpass website (correct as of 6 March 2023), the following groups
-of users are eligible to apply for Singpass:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Citizen and Permanent Resident</p>
-</li>
-<li>
-<p>Employment Pass and Personalised Employment Pass holders</p>
-</li>
-<li>
-<p>EntrePass holders</p>
-</li>
-<li>
-<p>S Pass holders</p>
-</li>
-<li>
-<p>Dependant's Pass holders (of EP, PEP, EntrePass and S Pass holders)</p>
-</li>
-<li>
-<p>Long Term Visit Pass-Plus (LTVP+) holders</p>
-</li>
-<li>
-<p>Long Term Visit Pass holders</p>
-</li>
-<li>
-<p>Work Permit holders</p>
-</li>
-<li>
-<p>Student Pass holders</p>
-</li>
-<li>
-<p>Immigration Exemption Order holders
+<p></p>
+<p>
 <br><strong>Reference</strong>: https://www.singpass.gov.sg/main/html/faq.html</p>
-</li>
-</ul>
 <p>For any inquiries with regards to eligibility and accessing the Parents
 Gateway, please contact the General office provided in Contact Us in this
 page</p>
@@ -194,9 +159,4 @@ website below or <a href="https://www.fengshanpri.moe.edu.sg/explore/for-parents
 </p>
 <p>How to access the school services: At the school top menu go to -&gt;
 "<strong>About Us</strong>". Select "<strong>School Services</strong>"</p>
-<h3>Parents Gateway App Installation Guide</h3>
-<h4>Video presentation guide</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tW9jwyuovOo?si=GFhxRef-mdm3XSsz"></iframe>
-</div>
 <p></p>
