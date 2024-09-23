@@ -30,8 +30,9 @@ Insurance Plan for students can be found on Income’s website at <a href="https
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCM5o8jAncc?si=wsKK1erREhK9a1mJ"></iframe>
 </div>
 <p></p>
-<p>Download the user guide in pdf link: <a href="https://go.gov.sg/fsps-pg-userguide" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-pg-userguide</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1cZ2Syq1Bgs3k-UYvzzGhN80LskAkb-RfWjq9Mh95MOg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>Parents Gateway Installation Guide</h4>
 <p>Parent Gateway is one of the mobile app that the school uses to inform&nbsp;or
 disseminate class or school-based information as well as updating information,
