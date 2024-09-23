@@ -29,10 +29,6 @@ Insurance Plan for students can be found on Income’s website at <a href="https
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCM5o8jAncc?si=wsKK1erREhK9a1mJ"></iframe>
 </div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1cZ2Syq1Bgs3k-UYvzzGhN80LskAkb-RfWjq9Mh95MOg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <h4>Parents Gateway Installation Guide</h4>
 <p>Parent Gateway is one of the mobile app that the school uses to inform&nbsp;or
 disseminate class or school-based information as well as updating information,
@@ -46,8 +42,105 @@ mobile Android/iOS device to access Parents Gateway app.</p>
 <h4>Step 1: Singpass Registration and 2FA Setup</h4>
 <p>Singpass is required for onboarding to Parents Gateway (PG). If you have
 not registered for a Singpass or have not set up the 2FA, please visit
-the Singpass website (https://www.singpass.gov.sg) or scan the QR code
-below to do so</p>
+the Singpass website</p>
+<p>SingPass requirement for Parents Gateway</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Type of user for SingPass</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Link</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reset SingPass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/fsps-reset-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-reset-singpass</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>reset link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Register for SingPass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/fsps-register-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-register-singpass</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>see eligibility for SingPass for foreign citizens</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eligibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://ask.gov.sg/singpass/questions/clul28lp4002t3b8g3hnggivy?from=search" rel="noopener nofollow" target="_blank">https://ask.gov.sg/singpass/questions/clul28lp4002t3b8g3hnggivy?from=search</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>accurate as of March 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>The minimum age requirement is 15 years old.</p>
+<p>The following groups of users are eligible to apply for Singpass:</p>
+<ul>
+<li>
+<p>Singapore Citizen and Permanent Resident</p>
+</li>
+<li>
+<p>Employment Pass and Personalised Employment Pass holders</p>
+</li>
+<li>
+<p>EntrePass holders</p>
+</li>
+<li>
+<p>S Pass holders</p>
+</li>
+<li>
+<p>Dependant's Pass holders (of EP, PEP, EntrePass and S Pass holders)</p>
+</li>
+<li>
+<p>Long Term Visit Pass-Plus (LTVP+) holders</p>
+</li>
+<li>
+<p>Long Term Visit Pass holders</p>
+</li>
+<li>
+<p>Work Permit holders</p>
+</li>
+<li>
+<p>Student Pass holders</p>
+</li>
+<li>
+<p>Immigration Exemption Order holders</p>
+</li>
+</ul>
+<p>
+<br><strong>Reference</strong>: <a href="https://go.gov.sg/fsps-access-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-access-singpass</a>
+</p>
+<p>For any inquiries with regards to eligibility and accessing the Parents
+Gateway, please contact the General office provided in Contact Us in this
+page</p>
 <h4>Step 2: Download Parents Gateway Mobile App</h4>
 <p>a. Open the Apple App Store or Google Play Store app on your mobile phone.
 <br>b. Search for the ‘Parents Gateway’ mobile app or scan the QR code below.</p>
@@ -145,60 +238,9 @@ below to do so</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/parents gateway setup.png">
 </div>
+<p>Parents Gateway installation (in video)</p>
 <p></p>
-<h3>Parents Gateway App Installation Guide</h3>
-<h4>Installation guide (video)</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tW9jwyuovOo?si=GFhxRef-mdm3XSsz"></iframe>
-</div>
-<h4>SingPass requirement for Parents Gateway</h4>
-<p>For existing SingPass: to reset your password link: <a href="https://go.gov.sg/fsps-reset-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-reset-singpass</a>
-</p>
-<p>For new users: To register go to SingPass register link: <a href="https://go.gov.sg/fsps-register-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-register-singpass</a>
-</p>
-<p>Eligibility for SingPass (accurate as of March 2024)</p>
-<p>Reference: <a href="https://ask.gov.sg/singpass/questions/clul28lp4002t3b8g3hnggivy?from=search" rel="noopener nofollow" target="_blank">https://ask.gov.sg/singpass/questions/clul28lp4002t3b8g3hnggivy?from=search</a>
-</p>
-<p>The minimum age requirement is 15 years old.</p>
-<p>The following groups of users are eligible to apply for Singpass:</p>
-<ul>
-<li>
-<p>Singapore Citizen and Permanent Resident</p>
-</li>
-<li>
-<p>Employment Pass and Personalised Employment Pass holders</p>
-</li>
-<li>
-<p>EntrePass holders</p>
-</li>
-<li>
-<p>S Pass holders</p>
-</li>
-<li>
-<p>Dependant's Pass holders (of EP, PEP, EntrePass and S Pass holders)</p>
-</li>
-<li>
-<p>Long Term Visit Pass-Plus (LTVP+) holders</p>
-</li>
-<li>
-<p>Long Term Visit Pass holders</p>
-</li>
-<li>
-<p>Work Permit holders</p>
-</li>
-<li>
-<p>Student Pass holders</p>
-</li>
-<li>
-<p>Immigration Exemption Order holders</p>
-</li>
-</ul>
-<p>
-<br><strong>Reference</strong>: <a href="https://go.gov.sg/fsps-access-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-access-singpass</a>
-</p>
-<p>For any inquiries with regards to eligibility and accessing the Parents
-Gateway, please contact the General office provided in Contact Us in this
-page</p>
+<p></p>
 <h3>Our School Services (see in About Us) page</h3>
 <p>For matters pertaining school services such as school uniform, dental,
 student care or bookstore, please access the correct link in the school
