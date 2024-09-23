@@ -6,11 +6,11 @@ agency_name: Fengshan Primary School
 locations:
   - address:
       - 307,
-      - "Bedok North Road "
+      - Bedok North Road
       - Singapore 469680
     operating_hours:
       - days: Weekdays
-        time: 730am - 500pm
+        time: 745am - 500pm
         description: ""
     maps_link: https://goo.gl/maps/XNePqHtikuDUF8Cb6
     title: Address
@@ -23,6 +23,7 @@ contacts:
   - content:
       - phone: +65 6585 0122
       - email: ""
-      - other: "Buses: 17, 18, 45"
+      - other: "Buses: 17, 18, 45 (Bus stop id:  84349 or opp Fengshan stop id: 84341)"
     title: Fax
+feedback: ""
 ---
