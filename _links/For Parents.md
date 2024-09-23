@@ -141,12 +141,14 @@ below to do so</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tW9jwyuovOo?si=GFhxRef-mdm3XSsz"></iframe>
 </div>
 <h4>SingPass requirement for Parents Gateway</h4>
-<p>To understand on how to reset the Singpass, click&nbsp;<a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">here</a>,</p>
-<p>To apply for a Singpass account at the SingPass website click&nbsp;[here](
-<a href="https://www.singpass.gov.sg/home/ui/register/instructions" rel="noopener noreferrer nofollow" target="_blank">Singpass - Register</a>).&nbsp;</p>
+<p>For existing SingPass: to reset your password click&nbsp;<a href="https://www.singpass.gov.sg/home/ui/online-reset-password/user-detail" rel="noopener noreferrer nofollow" target="_blank">here</a>,
+(link direct to SingPass)</p>
+<p>For new users: To register go to SingPass register link: <a href="https://www.singpass.gov.sg/home/ui/register/instructions" rel="noopener noreferrer nofollow" target="_blank">https://www.singpass.gov.sg/home/ui/register/instructions</a>
+</p>
 <p></p>
 <p>
-<br><strong>Reference</strong>: https://www.singpass.gov.sg/main/html/faq.html</p>
+<br><strong>Reference</strong>: <a href="https://go.gov.sg/fsps-access-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-access-singpass</a>
+</p>
 <p>For any inquiries with regards to eligibility and accessing the Parents
 Gateway, please contact the General office provided in Contact Us in this
 page</p>
