@@ -91,7 +91,7 @@ the Singpass website</p>
 <p>Eligibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ask.gov.sg/singpass/questions/clul28lp4002t3b8g3hnggivy?from=search" rel="noopener nofollow" target="_blank">https://ask.gov.sg/singpass/questions/clul28lp4002t3b8g3hnggivy?from=search</a>
+<p><a href="https://go.gov.sg/fsps-access-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-access-singpass</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,7 +100,8 @@ the Singpass website</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Requirements to register SingPass account:</strong>
+</p>
 <p>The minimum age requirement is 15 years old.</p>
 <p>The following groups of users are eligible to apply for Singpass:</p>
 <ul>
@@ -133,11 +134,9 @@ the Singpass website</p>
 </li>
 <li>
 <p>Immigration Exemption Order holders</p>
+<p></p>
 </li>
 </ul>
-<p>
-<br><strong>Reference</strong>: <a href="https://go.gov.sg/fsps-access-singpass" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-access-singpass</a>
-</p>
 <p>For any inquiries with regards to eligibility and accessing the Parents
 Gateway, please contact the General office provided in Contact Us in this
 page</p>
