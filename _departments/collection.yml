@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue.md
       - Departments.md
       - English/.keep
       - English/English.md
@@ -15,6 +14,7 @@ collections:
       - Mathematics/Events, Programmes & School Activities.md
       - Mathematics/Assessments.md
       - Mathematics/Teaching Approaches.md
+      - Mother Tongue.md
       - Science/.keep
       - Science/Science.md
       - Science/Overview.md
