@@ -6,8 +6,7 @@ variant: tiptap
 ---
 <h2>Our School Services Contacts</h2>
 <h3>Pacific Bookstore (School Bookshop)</h3>
-<p>Operating Hours:(Monday to Friday) 9am to 4pmOpen selected days during
-school holidays</p>
+<p>Operating Hours:(Monday to Friday) - exclude school or public holidays</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -37,8 +36,10 @@ school holidays</p>
 <p>Website: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 <h3>In Trend Uniform (School Uniform supplier)</h3>
-<p>Contact No: 67410930 Venue: 1 Kaki Bukit Road 1 #01-31 Enterprise One
-S(415934)</p>
+<p>Venue: <strong>1 Kaki Bukit Road 1 #01-31 Enterprise One S(415934)</strong>
+</p>
+<p>Contact No: <strong>67410930 </strong>
+</p>
 <p>Website: <a href="https://www.intrenduniforms.com" rel="noopener nofollow" target="_blank">https://www.intrenduniforms.com</a>
 </p>
 <p>Email: <a href="mailto:sales@itu.com.sg" rel="noopener nofollow" target="_blank">sales@itu.com.sg</a>
