@@ -34,7 +34,9 @@ to succeed in the spirit of lifelong learning</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Anchored Hearts</strong> An individual who:</p>
+<p><strong>Anchored Hearts</strong> 
+</p>
+<p>An individual who:</p>
 <p>Embodies CARE values</p>
 <p>Is rooted to Singapore</p>
 <p>Is loyal and committed to his family, school, community and country, has
