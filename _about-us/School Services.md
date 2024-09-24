@@ -44,20 +44,28 @@ S(415934)</p>
 <p>Email: <a href="mailto:sales@itu.com.sg" rel="noopener nofollow" target="_blank">sales@itu.com.sg</a>
 </p>
 <h3>Kim Chye Bus Services (School Transport)</h3>
-<p>Contact: 81881826(Mr See) Email : <a href="mailto:register@kcbus.net" rel="noopener nofollow" target="_blank">register@kcbus.net</a>
+<p>Contact Person: <strong>Mr. See</strong>
+</p>
+<p>Contact: <strong>81881826 </strong>
+</p>
+<p>Email : <a href="mailto:register@kcbus.net" rel="noopener nofollow" target="_blank">register@kcbus.net</a>
 </p>
 <p>Website: <a href="https://kcbus.net/schoolbus" rel="noopener nofollow" target="_blank">https://kcbus.net/schoolbus</a>
 </p>
 <h3>Whee!Canopus Student Care</h3>
 <p>Website: <a href="https://www.wheecanopus.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.wheecanopus.com/</a>
 </p>
-<p>Contact: 6235 7758</p>
+<p>Contact: <strong>6235 7758</strong>
+</p>
 <p>Registration form: <a href="https://www.wheecanopus.com/student-registration" rel="noopener nofollow" target="_blank">https://www.wheecanopus.com/student-registration</a>
 </p>
 <p>Email: <a href="mailto:fengshan.scc@merculearning.com" rel="noopener nofollow" target="_blank">fengshan.scc@merculearning.com</a>
 </p>
 <h3>Dental Clinic Assistant Dental</h3>
-<p>Manager: Mdm Lee H M Telephone No: 89402018</p>
+<p>Manager: <strong>Mdm Lee H M </strong>
+</p>
+<p>Telephone No: <strong>89402018</strong>
+</p>
 <h4>Opening hours</h4>
 <table style="minWidth: 50px">
 <colgroup>
