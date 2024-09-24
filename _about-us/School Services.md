@@ -7,7 +7,33 @@ variant: tiptap
 <h2>Our School Services Contacts</h2>
 <h3>Pacific Bookstore (School Bookshop)</h3>
 <p>Operating Hours:(Monday to Friday) 9am to 4pmOpen selected days during
-school holidays Tel No: 64431538</p>
+school holidays</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 am to 4 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Tel No: <strong>64431538</strong>
+</p>
 <p>Website: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 <h3>In Trend Uniform (School Uniform supplier)</h3>
@@ -30,11 +56,68 @@ S(415934)</p>
 </p>
 <p>Email: <a href="mailto:fengshan.scc@merculearning.com" rel="noopener nofollow" target="_blank">fengshan.scc@merculearning.com</a>
 </p>
-<h3>Dental clinic Assistant Dental</h3>
+<h3>Dental Clinic Assistant Dental</h3>
 <p>Manager: Mdm Lee H M Telephone No: 89402018</p>
-<p>Monday to Thursdays: 8.00am to 5.30pm Fridays: 8.00am to 5.00pm (Closed
-during lunch time from 1.00pm to 2.00pm</p>
-<p>Mondays-Thursdays: 8.00am-5.00pm</p>
-<p>Fridays: 8.00am-5.00pm</p>
-<p>For Emergency:</p>
-<p>Call 89402018; 91122045; 89401058</p>
+<h4>Opening hours</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday and Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 am to 5pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday and Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30 am to 5.30 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>For Emergency</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Contact for Dental Assistant</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>89402018</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>91122045</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>89401058</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
