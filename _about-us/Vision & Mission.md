@@ -34,7 +34,7 @@ to succeed in the spirit of lifelong learning</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Anchored Hearts</strong> 
+<p><strong>Anchored Hearts</strong>
 </p>
 <p>An individual who:</p>
 <p>Embodies CARE values</p>
