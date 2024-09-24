@@ -15,6 +15,8 @@ school holidays Tel No: 64431538</p>
 S(415934)</p>
 <p>Website: <a href="https://www.intrenduniforms.com" rel="noopener nofollow" target="_blank">https://www.intrenduniforms.com</a>
 </p>
+<p>Email: <a href="mailto:sales@itu.com.sg" rel="noopener nofollow" target="_blank">sales@itu.com.sg</a>
+</p>
 <h3>Kim Chye Bus Services (School Transport)</h3>
 <p>Contact: 81881826(Mr See) Email : <a href="mailto:register@kcbus.net" rel="noopener nofollow" target="_blank">register@kcbus.net</a>
 </p>
@@ -25,6 +27,8 @@ S(415934)</p>
 </p>
 <p>Contact: 6235 7758</p>
 <p>Registration form: <a href="https://www.wheecanopus.com/student-registration" rel="noopener nofollow" target="_blank">https://www.wheecanopus.com/student-registration</a>
+</p>
+<p>Email: <a href="mailto:fengshan.scc@merculearning.com" rel="noopener nofollow" target="_blank">fengshan.scc@merculearning.com</a>
 </p>
 <h3>Dental clinic Assistant Dental</h3>
 <p>Manager: Mdm Lee H M Telephone No: 89402018</p>
