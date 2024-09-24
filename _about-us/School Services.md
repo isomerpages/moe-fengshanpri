@@ -46,7 +46,7 @@ S(415934)</p>
 <h3>Kim Chye Bus Services (School Transport)</h3>
 <p>Contact Person: <strong>Mr. See</strong>
 </p>
-<p>Contact: <strong>81881826 </strong>
+<p>Contact: <strong>81881826</strong>
 </p>
 <p>Email : <a href="mailto:register@kcbus.net" rel="noopener nofollow" target="_blank">register@kcbus.net</a>
 </p>
@@ -62,7 +62,7 @@ S(415934)</p>
 <p>Email: <a href="mailto:fengshan.scc@merculearning.com" rel="noopener nofollow" target="_blank">fengshan.scc@merculearning.com</a>
 </p>
 <h3>Dental Clinic Assistant Dental</h3>
-<p>Manager: <strong>Mdm Lee H M </strong>
+<p>Manager: <strong>Mdm Lee H M</strong>
 </p>
 <p>Telephone No: <strong>89402018</strong>
 </p>
