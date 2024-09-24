@@ -20,7 +20,8 @@ S(415934)</p>
 <p>Website: <a href="https://kcbus.net/schoolbus" rel="noopener nofollow" target="_blank">https://kcbus.net/schoolbus</a>
 </p>
 <h3>Whee!Canopus Student Care</h3>
-<p>Website: www.wheecanopus.com/student-registration</p>
+<p>Website: <a href="https://www.wheecanopus.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.wheecanopus.com/</a>
+</p>
 <p>Contact: 6235 7758</p>
 <p>Registration form: <a href="https://www.wheecanopus.com/student-registration" rel="noopener nofollow" target="_blank">https://www.wheecanopus.com/student-registration</a>
 </p>
