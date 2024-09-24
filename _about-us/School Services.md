@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Pacific Bookstore (School Bookshop)</h3>
 <p>Operating Hours:(Monday to Friday) 9am to 4pmOpen selected days during
 school holidays Tel No: 64431538</p>
-<p>Website: <a href="www.pacificbookstores.com" rel="noopener nofollow" target="_blank">www.pacificbookstores.com</a>
+<p>Website: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 <h3>In Trend Uniform (School Uniform supplier)</h3>
 <p>Contact No: 67410930 Venue: 1 Kaki Bukit Road 1 #01-31 Enterprise One
@@ -16,7 +16,8 @@ S(415934)</p>
 <p>Website: <a href="https://www.intrenduniforms.com" rel="noopener nofollow" target="_blank">https://www.intrenduniforms.com</a>
 </p>
 <h3>Kim Chye Bus Services (School Transport)</h3>
-<p>Contact: 81881826(Mr See) Email : register@kcbus.net</p>
+<p>Contact: 81881826(Mr See) Email : <a href="mailto:register@kcbus.net" rel="noopener nofollow" target="_blank">register@kcbus.net</a>
+</p>
 <p>Website: <a href="https://kcbus.net/schoolbus" rel="noopener nofollow" target="_blank">https://kcbus.net/schoolbus</a>
 </p>
 <h3>Whee!Canopus Student Care</h3>
