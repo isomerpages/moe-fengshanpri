@@ -39,7 +39,7 @@ sections:
         - title: P4 HBL
           description: 1 October
           linktext: Click here to access here
-          url: ""
+          url: https://go.gov.sg/fsps-hbl-p4
   - infopic:
       title: Edusave Character Award(ECHA) Nomination Form
       subtitle: ECHA
