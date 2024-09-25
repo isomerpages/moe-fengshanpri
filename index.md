@@ -21,7 +21,7 @@ sections:
       variant: image
   - textcards:
       title: Home Based Learning
-      subtitle: For Primary 1 Primary 4
+      subtitle: Primary 1 to Primary 4
       id: textcards
       cards:
         - title: P1 and P2 HBL
