@@ -19,6 +19,23 @@ sections:
           url: /about-us/school-matters/
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
+  - textcards:
+      title: Home Based Learning
+      subtitle: For Primary 1 Primary 4
+      id: textcards
+      cards:
+        - title: P1 and P2 HBL
+          description: 26 and 27 September
+          linktext: Click here to access link
+          url: ""
+        - title: P3 HBL
+          description: 30 September
+          linktext: Click here to access here
+          url: ""
+        - title: P4 HBL
+          description: 1 October
+          linktext: Click here to access here
+          url: ""
   - infopic:
       title: Edusave Character Award(ECHA) Nomination Form
       subtitle: ECHA
