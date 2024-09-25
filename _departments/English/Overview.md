@@ -22,5 +22,3 @@ to strengthen children’s language and reading skills as well as promote
 a positive attitude towards learning in the foundation years. The programme
 uses research-based teaching strategies and age-appropriate materials to
 engage children in the learning of English.</p>
-<p>Find out&nbsp;more at the&nbsp;<a href="http://www.stellarliteracy.sg/" rel="noopener noreferrer nofollow" target="_blank">STELLAR website.</a>
-</p>
