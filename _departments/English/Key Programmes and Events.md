@@ -3,77 +3,136 @@ title: Key Programmes and Events
 permalink: /departments/english/programmesevents/
 description: ""
 third_nav_title: English
+variant: tiptap
 ---
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<h4><strong>Yearly &lsquo;I love English&rsquo; week</strong></h4>
-<ul>
-<li>Organized on an annual basis</li>
-<li>To enthuse, engage and motivate pupils in the learning of English</li>
-<li>School-wide activities such as assembly skits and talks by authors</li>
-<li>Level activities such as competitions and performing arts items</li>
-<li>Recess activities such as online English-related games and book sale</li>
+<p><strong>Yearly ‘I love English’ week</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Organized on an annual basis</p>
+</li>
+<li>
+<p>To enthuse, engage and motivate pupils in the learning of English</p>
+</li>
+<li>
+<p>School-wide activities such as assembly skits and talks by authors</p>
+</li>
+<li>
+<p>Level activities such as competitions and performing arts items</p>
+</li>
+<li>
+<p>Recess activities such as online English-related games and book sale</p>
+</li>
 </ul>
 </li>
 </ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<h4><strong>Literacy Programme</strong></h4>
-<ul>
-<li>Reading cards for all levels</li>
-<li>In-house mobile library</li>
-<li>Class Borrowing from school library</li>
-<li>Story-telling at the library during recess</li>
-<li>Drop Everything And Read (DEAR) lessons for all levels</li>
+<p><strong>Literacy Programme</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reading cards for all levels</p>
+</li>
+<li>
+<p>In-house mobile library</p>
+</li>
+<li>
+<p>Class Borrowing from school library</p>
+</li>
+<li>
+<p>Story-telling at the library during recess</p>
+</li>
+<li>
+<p>Drop Everything And Read (DEAR) lessons for all levels</p>
+</li>
 </ul>
 </li>
 </ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<h4><strong>Oral Communication skills</strong></h4>
-<ul>
-<li>School oral resource package</li>
-<li>Speech &amp; Drama lessons for P1&amp;P2 pupils</li>
-<li>One Minute of Fame conducted once a semester</li>
-<li>Oracy platforms in yearly &lsquo; I love English&rsquo; week</li>
+<p><strong>Oral Communication skills</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School oral resource package</p>
+</li>
+<li>
+<p>Speech &amp; Drama lessons for P1&amp;P2 pupils</p>
+</li>
+<li>
+<p>One Minute of Fame conducted once a semester</p>
+</li>
+<li>
+<p>Oracy platforms in yearly ‘ I love English’ week</p>
+</li>
 </ul>
 </li>
 </ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<h4><strong>Enrichment programmes</strong></h4>
-<ul>
-<li>Creative writing programme</li>
+<p><strong>Enrichment programmes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Creative writing programme</p>
+</li>
 </ul>
 </li>
 </ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<h4><strong>Remediation for Lower Progress</strong></h4>
-<ul>
-<li>P1 &amp; P2: Learning Support Programme (LSP), Reading Mum Programme, KidsREAD</li>
-<li>P3 &amp;P4: Reading Remediation Programme (RRP) and School-Based Dyslexia Remediation (SDR)</li>
-<li>P5 &amp; P6: Reading support for non-readers</li>
-<li>All levels: Pull-out support for weaker pupils in all levels</li>
+<p><strong>Remediation for Lower Progress</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 &amp; P2: Learning Support Programme (LSP), Reading Mum Programme,
+KidsREAD</p>
+</li>
+<li>
+<p>P3 &amp;P4: Reading Remediation Programme (RRP) and School-Based Dyslexia
+Remediation (SDR)</p>
+</li>
+<li>
+<p>P5 &amp; P6: Reading support for non-readers</p>
+</li>
+<li>
+<p>All levels: Pull-out support for weaker pupils in all levels</p>
+</li>
 </ul>
 </li>
 </ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<h4><strong>Experiential programmes</strong></h4>
-<ul>
-<li>P1 and P2: related to STELLAR texts</li>
-<li>P3-P6: Tie up with NE Learning Journey</li>
+<p><strong>Experiential programmes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 and P2: related to STELLAR texts</p>
+</li>
+<li>
+<p>P3-P6: Tie up with NE Learning Journey</p>
+</li>
 </ul>
 </li>
 </ul>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<h4><strong>ICT integration</strong></h4>
-<ul>
-<li>Leap Pad/ Leap Readers for LSP/ RRP/ SDR pupils</li>
-<li>MS PowerPoint for creation of e-books for P2 pupils</li>
-<li>Moway and coding for P3 and P4 pupils</li>
+<p><strong>ICT integration</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leap Pad/ Leap Readers for LSP/ RRP/ SDR pupils</p>
+</li>
+<li>
+<p>MS PowerPoint for creation of e-books for P2 pupils</p>
+</li>
+<li>
+<p>Moway and coding for P3 and P4 pupils</p>
+</li>
 </ul>
 </li>
 </ul>
+<p></p>
