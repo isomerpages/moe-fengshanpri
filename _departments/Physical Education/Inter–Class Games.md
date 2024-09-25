@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Physical Education
 variant: tiptap
 ---
-<p>Cancelled in 2020 &amp; 2021 but the P3s and P5s had their competition
-in May 2022</p>
 <h4>Aim:</h4>
 <ul data-tight="true" class="tight">
 <li>
