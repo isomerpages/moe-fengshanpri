@@ -29,12 +29,12 @@ attendance and activities</p>
 </p>
 <p>Access link for staff to access iCON email and Google workspace app.</p>
 <h3>SSOE2 Service Portal (ICT)</h3>
-<p>Link: <a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://ssoe2.moe.edu.sg/</a>
+<p>Link: <a href="https://go.gov.sg/fsps-ssoe2" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-ssoe2</a>
 </p>
 <p>Access link for staff to access ICT portal to raise incident, service
 request or purchase of ICT hardware, software and services.</p>
 <h3>CES Outlook link (Require SSOE2 devices)</h3>
-<p>Link: <a href="https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fow" rel="noopener noreferrer nofollow" target="_blank">Outlook Login Email (Web Version)</a>
+<p>Link: <a href="https://go.gov.sg/fsps-webmail" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-webmail</a>
 </p>
 <p>Alternative link to access CES Email outlook on SSOE2 devices <strong>only</strong>.</p>
 <h2>School Resources Booking Portal</h2>
@@ -92,25 +92,26 @@ information and loan. Require iCON account to access site.</p>
 <p>One-stop Resource Site for School’s Key Learning Programmes. Require iCON
 account to access site.</p>
 <h4>MOE Intranet</h4>
-<p>Link: <a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/</a>
+<p>Link: <a href="https://go.gov.sg/fsps-moeintranet" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-moeintranet</a>
 </p>
 <p>Maint site for MOE Intranet (Require SSOE2 devices).</p>
 <p>See the links below to MOE Intranet</p>
 <ul>
 <li>
-<p>Professional Development (PD): <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/PD_index.aspx" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/academy/Pages/professional-development/PD_index.aspx</a>
+<p>Professional Development (PD): <a href="https://go.gov.sg/fsps-pd" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-pd</a>
 </p>
 </li>
 <li>
-<p>People Finder: <a href="https://pfs.moe.gov.sg/pq/homepage.do" rel="noopener noreferrer nofollow" target="_blank">https://pfs.moe.gov.sg/pq/homepage.do</a>
+<p>People Finder: <a href="https://go.gov.sg/fsps-peoplefinder" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-peoplefinder</a>
 </p>
 </li>
 <li>
-<p>IT Information for School Users: <a href="https://intranet.moe.gov.sg/itd/pages/schools.aspx" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/itd/pages/schools.aspx</a>
+<p>IT Information for School Users: <a href="https://go.gov.sg/fsps-itd" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-itd</a>
 </p>
 </li>
 <li>
-<p>Circular and Notifications:<a href="https://intranet.moe.gov.sg/my-workspace-admin/pages/circulars/index.aspx" rel="noopener noreferrer nofollow" target="_blank"> https://intranet.moe.gov.sg/my-workspace-admin/pages/circulars/index.aspx</a>
+<p>Circular and Notifications:<a href="https://intranet.moe.gov.sg/my-workspace-admin/pages/circulars/index.aspx" rel="noopener noreferrer nofollow" target="_blank"> </a>
+<a href="https://go.gov.sg/fsps-moe-circular" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-moe-circular</a>
 </p>
 </li>
 </ul>

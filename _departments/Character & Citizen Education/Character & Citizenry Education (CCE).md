@@ -3,15 +3,85 @@ title: Character & Citizenry Education (CCE)
 permalink: /departments/character-and-citizenry-education-cce/
 description: ""
 third_nav_title: Character & Citizen Education
+variant: tiptap
 ---
 <h4><strong>CCE Department Members</strong></h4>
-<p>Ms Shanthi Panjiawarnam (YH- Lower)</p>
-<p>Mdm Farhana Begum d/o Abd Jabbar</p>
-<p>Mr James Wong Tze Hong</p>
-<p>Ms Nur Zahirah</p>
-<p>Ms Meera d/o Pathmanathan</p>
-<p>LBS &ndash; Mdm Ramzathumunnisha (Mrs Haja)</p>
-<p>LBS &ndash; Mr Paul Lee</p>
-<p>Counselllor- Mdm Suvitha Pillai</p>
-<p>Counselllor- Mdm Gurneet Kaur</p>
-<p>SWO &ndash; Nurfeiziana binte Rohizan</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCE Department Members</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Zarinah Md Hussaiin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Micki Hoe</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Michelle Moi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Vanessa Ang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Meera</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Faithah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Pavitra</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Rosila Sharif</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Wong Kah Wai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Vicki Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Firdaus Rahmat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Neresa Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Lee Sok Kiang</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

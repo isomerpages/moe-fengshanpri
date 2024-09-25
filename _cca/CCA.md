@@ -2,51 +2,88 @@
 title: CCA
 permalink: /cca/
 description: ""
+variant: tiptap
 ---
-# CCA
-
-The CCA programme provides every pupil with opportunities to participate and excel in activities outside the school curriculum.
-
-The CCA Programme will enable our pupils to:
-
-*   cultivate correct moral and social values.
-*   develop physically, mentally and emotionally.
-*   develop leadership skills.
-
-The CCAs are categorised accordingly to 4 main groups. They are:
-
-## Physical Sports
--------------------
-
-*   Basketball
-*   Netball
-*   Football
-*   Wushu
-*   Health & Fitness Club
-
-## Uniformed Groups
---------------------
-
-*   Boys Brigade
-*   Brownies
-*   Scouts
-*   Red Cross
-
-## Visual & Performing Arts
-----------------------------
-
-*   Choir
-*   Concert Band
-*   Chinese Dance
-*   Indian Dance
-*   MLDDs (incl. Malay Dance)
-*   Visual Art Club
-
-## Clubs & Societies
------------------
-
-*   Science and Environmental Club
-
-CCA Overall  I/C: Mr Ivan Teo (PE/CCA HOD), Mr Jumadi (PE/CCA SH)
-
-For more information on CCAs in Fengshan Primary School, please look at our CCA website or check out our CCA booklet at http://bit.ly/3WxtkhO
+<h1>CCA</h1>
+<p>The CCA programme provides every pupil with opportunities to participate
+and excel in activities outside the&nbsp;school curriculum.</p>
+<p>The CCA Programme will enable our pupils to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>cultivate correct moral and social values.</p>
+</li>
+<li>
+<p>develop physically, mentally and emotionally.</p>
+</li>
+<li>
+<p>develop leadership skills.</p>
+</li>
+</ul>
+<p>The CCAs are categorised accordingly to 4 main groups. They are:</p>
+<h2>Physical Sports</h2>
+<hr>
+<ul data-tight="true" class="tight">
+<li>
+<p>Basketball</p>
+</li>
+<li>
+<p>Netball</p>
+</li>
+<li>
+<p>Football</p>
+</li>
+<li>
+<p>Wushu</p>
+</li>
+<li>
+<p>Health &amp; Fitness Club</p>
+</li>
+</ul>
+<h2>Uniformed Groups</h2>
+<hr>
+<ul data-tight="true" class="tight">
+<li>
+<p>Boys Brigade</p>
+</li>
+<li>
+<p>Brownies</p>
+</li>
+<li>
+<p>Scouts</p>
+</li>
+<li>
+<p>Red Cross</p>
+</li>
+</ul>
+<h2>Visual &amp; Performing Arts</h2>
+<hr>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choir</p>
+</li>
+<li>
+<p>Concert Band</p>
+</li>
+<li>
+<p>Chinese Dance</p>
+</li>
+<li>
+<p>Indian Dance</p>
+</li>
+<li>
+<p>MLDDs (incl. Malay Dance)</p>
+</li>
+<li>
+<p>Visual Art Club</p>
+</li>
+</ul>
+<h2>Clubs &amp; Societies</h2>
+<hr>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science and Environmental Club</p>
+</li>
+</ul>
+<p>CCA Overall &nbsp;I/C: Mr Ivan Teo (PE/CCA HOD), Mr Jumadi (PE/CCA SH)</p>
+<p>For more information on CCAs in Fengshan Primary School, please look at
+our CCA website or check out our CCA booklet at http://bit.ly/3WxtkhO</p>
