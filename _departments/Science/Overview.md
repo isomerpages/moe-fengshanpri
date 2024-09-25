@@ -28,12 +28,10 @@ lifelong learners even after leaving the school.</p>
 <p><strong>HOD</strong>
 </p>
 <p>Miss Tan Chwee Li</p>
-<p><strong>LH (Internal)</strong>
-</p>
-<p>Miss Geraldine Ma Wanting</p>
-<p><strong>ST</strong>
-</p>
-<p>Miss Xu Hui Min</p>
+<p></p>
+<p>Ms Geraldine Ma Wanting</p>
+<p>Ms Cindy Leisinger</p>
+<p></p>
 <p><strong>Members</strong>
 </p>
 <p>Mr Phoon Yee Pung</p>
