@@ -35,7 +35,7 @@ sections:
         - title: P3 HBL
           description: 30 September
           linktext: Click here to access here
-          url: ""
+          url: https://go.gov.sg/fsps-hbl-p3
         - title: P4 HBL
           description: 1 October
           linktext: Click here to access here
