@@ -13,7 +13,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCE Department Members</p>
+<p><strong>CCE Department Members</strong>
+</p>
 </td>
 </tr>
 <tr>
