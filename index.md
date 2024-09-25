@@ -24,7 +24,7 @@ sections:
       subtitle: Primary 1 to Primary 4
       id: textcards
       cards:
-        - title: P1 and P2 HBL
+        - title: P1 HBL
           description: 26 and 27 September
           linktext: Click here to access link
           url: ""
@@ -34,6 +34,10 @@ sections:
           url: ""
         - title: P4 HBL
           description: 1 October
+          linktext: Click here to access here
+          url: ""
+        - title: P1 HBL
+          description: 26 and 27 September
           linktext: Click here to access here
           url: ""
   - infopic:
