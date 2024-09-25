@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Character & Citizen Education
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cce1.jpg">
-</div>
 <h4><strong>Character and Citizenship Education (CCE)</strong></h4>
 <p><em>Character and Citizenship Education in Fengshan involves teaching pupils our school values, Perseverance, Respect, Responsibility, Integrity, Compassion and Equality(PR²ICE), NE values, SEL competencies and lifeskills to equip them to face challenges of today and the future. The Character Education programme in Fengshan, aptly named as the Character-Focused Programme(CFP) is designed using a good story approach whereby lessons include powerful true stories of National and International heroes and people who have demonstrated PR²ICE values. This approach is also in alignment to the school vision of nurturing leadership in the pupils. Through the true stories of people who have made an impact on the society in different areas, the school wishes to reinforce leadership qualities and leadership is not about just a formal appointment. The CFP incorporates the teaching of NE values as well by highlighting key National Political figures, their contributions in making Singapore safe, economically and politically stable. The pupils also pen their reflections on the school values and NE values learnt through the lessons.</em>
 </p>
