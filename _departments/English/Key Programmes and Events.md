@@ -5,11 +5,8 @@ description: ""
 third_nav_title: English
 variant: tiptap
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Yearly ‘I love English’ week</strong>
-</p>
-<ul data-tight="true" class="tight">
+<h4><strong>Yearly ‘I love English’ week</strong></h4>
+<ol data-tight="true" class="tight">
 <li>
 <p>Organized on an annual basis</p>
 </li>
@@ -25,14 +22,10 @@ variant: tiptap
 <li>
 <p>Recess activities such as online English-related games and book sale</p>
 </li>
-</ul>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Literacy Programme</strong>
-</p>
-<ul data-tight="true" class="tight">
+</ol>
+<p></p>
+<h4><strong>Literacy Programme</strong></h4>
+<ol data-tight="true" class="tight">
 <li>
 <p>Reading cards for all levels</p>
 </li>
@@ -48,14 +41,9 @@ variant: tiptap
 <li>
 <p>Drop Everything And Read (DEAR) lessons for all levels</p>
 </li>
-</ul>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Oral Communication skills</strong>
-</p>
-<ul data-tight="true" class="tight">
+</ol>
+<h4><strong>Oral Communication skills</strong></h4>
+<ol data-tight="true" class="tight">
 <li>
 <p>School oral resource package</p>
 </li>
@@ -68,25 +56,15 @@ variant: tiptap
 <li>
 <p>Oracy platforms in yearly ‘ I love English’ week</p>
 </li>
-</ul>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Enrichment programmes</strong>
-</p>
-<ul data-tight="true" class="tight">
+</ol>
+<h4><strong>Enrichment programmes</strong></h4>
+<ol data-tight="true" class="tight">
 <li>
 <p>Creative writing programme</p>
 </li>
-</ul>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Remediation for Lower Progress</strong>
-</p>
-<ul data-tight="true" class="tight">
+</ol>
+<h4><strong>Remediation for Lower Progress</strong></h4>
+<ol data-tight="true" class="tight">
 <li>
 <p>P1 &amp; P2: Learning Support Programme (LSP), Reading Mum Programme,
 KidsREAD</p>
@@ -101,28 +79,18 @@ Remediation (SDR)</p>
 <li>
 <p>All levels: Pull-out support for weaker pupils in all levels</p>
 </li>
-</ul>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Experiential programmes</strong>
-</p>
-<ul data-tight="true" class="tight">
+</ol>
+<h4><strong>Experiential programmes</strong></h4>
+<ol data-tight="true" class="tight">
 <li>
 <p>P1 and P2: related to STELLAR texts</p>
 </li>
 <li>
 <p>P3-P6: Tie up with NE Learning Journey</p>
 </li>
-</ul>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>ICT integration</strong>
-</p>
-<ul data-tight="true" class="tight">
+</ol>
+<h4><strong>ICT integration</strong></h4>
+<ol data-tight="true" class="tight">
 <li>
 <p>Leap Pad/ Leap Readers for LSP/ RRP/ SDR pupils</p>
 </li>
@@ -132,7 +100,5 @@ Remediation (SDR)</p>
 <li>
 <p>Moway and coding for P3 and P4 pupils</p>
 </li>
-</ul>
-</li>
-</ul>
+</ol>
 <p></p>
