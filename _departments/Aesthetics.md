@@ -133,7 +133,4 @@ in music.</p>
 <p>Winner of the 2021 National Primary Games Creation and Coding Competition</p>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/ae11.png">
-</div>
 <p></p>
