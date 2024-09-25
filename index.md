@@ -31,7 +31,7 @@ sections:
         - title: P2 HBL
           description: 26 and 27 September
           linktext: Click here to access here
-          url: ""
+          url: https://go.gov.sg/fsps-hbl-p2
         - title: P3 HBL
           description: 30 September
           linktext: Click here to access here
