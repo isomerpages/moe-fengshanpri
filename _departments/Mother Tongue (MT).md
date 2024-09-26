@@ -34,18 +34,18 @@ reading programme, ICT home-based learning and other&nbsp;levelling programmes.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Choy Wai Yin (HOD-MT)</p>
+<p>Ms Choy Wai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HOD-MT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hazliana Mahat (SH)</p>
+<p>Mdm Hazliana Mahat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head</p>
 </td>
 </tr>
 <tr>
