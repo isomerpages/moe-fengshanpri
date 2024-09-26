@@ -75,7 +75,7 @@ reading programme, ICT home-based learning and other&nbsp;levelling programmes.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Raba;ah binte Ismail</p>
+<p>Mdm Raba'ah binte Ismail</p>
 </td>
 </tr>
 <tr>
