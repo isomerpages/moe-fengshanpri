@@ -4,7 +4,7 @@ permalink: /mother-tongue/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Mother Tongue Department</strong></h3>
+<h3><strong>Mother Tongue Department_old</strong></h3>
 <h3><strong>Our Vision</strong></h3>
 <p>Every child fluent in his Mother Tongue and grounded in his culture.</p>
 <h3><strong>Our Mission</strong></h3>
