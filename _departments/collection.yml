@@ -2,12 +2,12 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue (MT).md
       - Departments.md
       - English/.keep
       - English/English.md
       - English/Overview.md
       - English/Key Programmes and Events.md
+      - Mother Tongue (MT).md
       - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/Assessments.md
