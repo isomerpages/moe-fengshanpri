@@ -218,7 +218,7 @@ reading programme, ICT home-based learning and other&nbsp;levelling programmes.<
 </tr>
 </tbody>
 </table>
-<h4><strong>MT ALIVE 2022</strong></h4>
+<h4><strong>MT ALIVE</strong></h4>
 <p><a href="https://sites.google.com/moe.edu.sg/fsps-mt-alive/home" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/fsps-mt-alive/home</a>
 </p>
 <p></p>
