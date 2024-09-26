@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue (MT).md
       - Departments.md
       - English/.keep
       - English/English.md
