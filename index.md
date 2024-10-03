@@ -20,15 +20,6 @@ sections:
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
   - infopic:
-      title: CHINESE STALL
-      subtitle: CANTEEN STALL OPENING
-      id: infopic
-      description: Opening for rice/noodle stall
-      button: Click here to find our more
-      url: /about-us/schoolcanteen/
-      image: /images/School Logo and Photo Design/Chinese_Stall_Opening_2024_Sep.png
-      alt: Image alt text
-  - infopic:
       title: Parents' Handbook
       subtitle: Download Resources
       id: infopic
