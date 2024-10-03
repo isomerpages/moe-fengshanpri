@@ -19,27 +19,6 @@ sections:
           url: /about-us/school-matters/
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
-  - textcards:
-      title: Home Based Learning
-      subtitle: Primary 1 to Primary 4
-      id: textcards
-      cards:
-        - title: P1 HBL
-          description: 26 and 27 September
-          linktext: Click here to access link
-          url: https://go.gov.sg/fsps-hbl-p1
-        - title: P2 HBL
-          description: 26 and 27 September
-          linktext: Click here to access here
-          url: https://go.gov.sg/fsps-hbl-p2
-        - title: P3 HBL
-          description: 30 September
-          linktext: Click here to access here
-          url: https://go.gov.sg/fsps-hbl-p3
-        - title: P4 HBL
-          description: 1 October
-          linktext: Click here to access here
-          url: https://go.gov.sg/fsps-hbl-p4
   - infopic:
       title: CHINESE STALL
       subtitle: CANTEEN STALL OPENING
