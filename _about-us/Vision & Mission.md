@@ -30,12 +30,10 @@ to succeed in the spirit of lifelong learning</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Leaders Of Tomorrow</strong>
-</p>
+<h4>Leaders Of Tomorrow</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Anchored Hearts</strong>
-</p>
+<h4>Anchored Hearts</h4>
 <p>An individual who:</p>
 <p>Embodies CARE values</p>
 <p>Is rooted to Singapore</p>
@@ -47,17 +45,28 @@ Citizen)</p>
 <p>Loyal Individuals Citizenship)Strength of Character (Fengshan CARES )</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Be morally upright</p>
-<p>2. Loves Singapore and appreciates her neighbours</p>
-<p>3. Effective Collaborator</p>
-<p>4. Has a champion mindset</p>
-<p>5. Inquisitive Learner</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Be morally upright</p>
+</li>
+<li>
+<p>Loves Singapore and appreciates her neighbours</p>
+</li>
+<li>
+<p>Effective Collaborator</p>
+</li>
+<li>
+<p>Has a champion mindset</p>
+</li>
+<li>
+<p>Inquisitive Learner</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Driven Minds</strong>
-</p>
+<h4>Driven Minds</h4>
 <p>An individual who:</p>
 <p>Is determined to succeed and</p>
 <p>Strives for excellence in both academic &amp; non-academic areas (Confident
