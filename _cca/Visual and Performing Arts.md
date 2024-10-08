@@ -64,7 +64,7 @@ variant: tiptap
 <h3>Teachers I/C :</h3>
 <p>Ms June Chong Chia Fong*</p>
 <p>Ms Chia Soo Yin</p>
-<h3>Performing Arts groups at the Singapore Youth Festival</h3>
+<h3>Our Performing Arts Groups</h3>
 <h4>Malay Dance</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/CCA Album/Malay_Dance_web.png">
