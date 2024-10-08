@@ -66,99 +66,28 @@ variant: tiptap
 <p>Ms Chia Soo Yin</p>
 <h3>Performing Arts groups at the Singapore Youth Festival</h3>
 <h4>Malay Dance</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pa1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/CCA Album/Malay_Dance_web.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Indian Dance</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pa2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/CCA Album/Indian_Dance.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Percussion Ensemble</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pa3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/CCA Album/Band_web.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Chinese Dance</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pa4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/CCA Album/Chinese_Dance_web.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Choir</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/pa5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/CCA Album/Choir_web.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <p></p>
