@@ -4,12 +4,7 @@ permalink: /mk-fengshan/mkstaff/
 description: ""
 variant: tiptap
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://fengshanpri-moe-edu-sg-admin.cwp.sg/" rel="noopener noreferrer nofollow" target="_blank">Home</a>&nbsp;*
-Our Staff at MK</p>
-</li>
-</ul>
+<p></p>
 <h1>Our Staff at MK</h1>
 <h2>Centre Head</h2>
 <p></p>
