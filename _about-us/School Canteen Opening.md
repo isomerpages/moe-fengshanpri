@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>School Canteen Advertisement</h3>
+<p>There are no openings at the moment</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -25,27 +26,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chinese Cooked Food Stall</strong>
+<p><strong>-</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>30 September 2024</strong>
+<p><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Rice / Noodle dishes</strong>
+<p><strong>-</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Fengshan Primary School is inviting applicants to operate a “Chinese Cooked
-Food Stall”. Menu may include Rice/Noodle dishes.</p>
+<p>Fengshan Primary School not inviting any openings at the moment.</p>
 <p>We are a single session school with an estimated student population of
 1200. The canteen operating hours are from Mondays to Fridays, 7am to 3pm
 during School Term.</p>
 <h4>Requirements</h4>
-<p>Applicants should meet the following criteria:</p>
+<p>Applicants should meet the following criteria (for any openings):</p>
 <p><strong>Singapore Citizens or Singapore Permanent Resident.</strong>
 </p>
 <p><strong>Adhere to Healthy Meals in School Programme (HMSP) where all food sold must meet the programme requirement. Please see details at (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).</strong>
