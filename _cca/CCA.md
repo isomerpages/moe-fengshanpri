@@ -85,5 +85,3 @@ and excel in activities outside the&nbsp;school curriculum.</p>
 </li>
 </ul>
 <p>CCA Overall &nbsp;I/C: Mr Ivan Teo (PE/CCA HOD), Mr Jumadi (PE/CCA SH)</p>
-<p>For more information on CCAs in Fengshan Primary School, please look at
-our CCA website or check out our CCA booklet at http://bit.ly/3WxtkhO</p>
