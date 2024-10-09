@@ -35,6 +35,6 @@ unity and teamwork – the school and community working together with mutual
 trust and collaboration.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Logo and Photo Design/Fengshan_Logo_Symbol.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School Logo and Photo Design/Fengshan_Logo_Symbol.png">
 </div>
 <p></p>
