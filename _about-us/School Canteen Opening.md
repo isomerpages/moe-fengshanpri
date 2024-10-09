@@ -81,9 +81,10 @@ for a hardcopy from the School’s General Office.</p>
 <p></p>
 <h4>Submission of Application</h4>
 <p>Please submit the completed application form with the supporting documents
-to the school’s General Office or email <a href="mailto:fsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fsps@moe.edu.sg</a>.</p>
+to the school’s General Office or email at <a href="mailto:fsps@moe.edu.sg" rel="noopener nofollow" target="_blank">fsps@moe.edu.sg. </a>
+</p>
 <p>The submission is closed as of moment.</p>
-<h4>Enquiries</h4>
+<h4>Enquiries for any openings</h4>
 <p>For further enquiries, please contact below:</p>
 <p><strong>Contact Name:</strong> Mdm Rasidah Sam</p>
 <p><strong>Contact Number:</strong> 6586 0315.</p>
