@@ -110,8 +110,7 @@ account to access site.</p>
 </p>
 </li>
 <li>
-<p>Circular and Notifications:<a href="https://intranet.moe.gov.sg/my-workspace-admin/pages/circulars/index.aspx" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="https://go.gov.sg/fsps-moe-circular" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-moe-circular</a>
+<p>Circular and Notifications: <a href="https://go.gov.sg/fsps-moe-circular" rel="noopener nofollow" target="_blank">https://go.gov.sg/fsps-moe-circular</a>
 </p>
 </li>
 </ul>
