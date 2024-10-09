@@ -81,7 +81,7 @@ for a hardcopy from the School’s General Office.</p>
 <p></p>
 <h4>Submission of Application</h4>
 <p>Please submit the completed application form with the supporting documents
-to the school’s General Office or email at <a href="mailto:fsps@moe.edu.sg" rel="noopener nofollow" target="_blank">fsps@moe.edu.sg. </a>
+to the school’s General Office or email at <a href="mailto:fsps@moe.edu.sg" rel="noopener nofollow" target="_blank">fsps@moe.edu.sg.</a>
 </p>
 <p>The submission is closed as of moment.</p>
 <h4>Enquiries for any openings</h4>
