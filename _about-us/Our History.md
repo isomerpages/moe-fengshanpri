@@ -18,7 +18,7 @@ Heartbeat’, motivating our school community to work hard hand in hand.
 continuous improvements, community service and gimping for on-going collegiality
 and camaraderie in the school community. Together, we shall bring the school
 to greater heights and make a difference to the lives of our young charges.</p>
-<h3>Our Fengshan History in video</h3>
+<h3>Our Fengshan history in video</h3>
 <div class="iframe-wrapper">
 <iframe height="1080" width="1920" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1017794601?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
