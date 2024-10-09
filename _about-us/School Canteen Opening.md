@@ -86,7 +86,7 @@ to the school’s General Office or email at <a href="mailto:fsps@moe.edu.sg" re
 <p>The submission is closed as of moment.</p>
 <h4>Enquiries for any openings</h4>
 <p>For further enquiries, please contact below:</p>
-<p><strong>Contact Name:</strong> Mdm Rasidah Sam</p>
+<p><strong>Contact Name:</strong> Mdm Rasidah Sam (Administrative Executive)</p>
 <p><strong>Contact Number:</strong> 6586 0315.</p>
 <p><strong>Email:</strong> Rasidah_SAM@schools.gov.sg</p>
 <p><strong>Address: </strong>Fengshan Primary, 307 Bedok North Road, Singapore
