@@ -33,7 +33,4 @@ of the Fengshan heartbeat.</p>
 the&nbsp;<strong>strive for lifelong learning</strong>. Dual strokes represent
 unity and teamwork – the school and community working together with mutual
 trust and collaboration.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="32" width="50" alt="Photo of 3 cats" src="/images/School%20Logo%20and%20Photo%20Design/Fengshan%20Pri%20Sch%20Logo%20(no%20bg%20&amp;%20without%20text).png">
-</div>
 <p></p>
