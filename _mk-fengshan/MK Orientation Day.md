@@ -11,8 +11,8 @@ description: ""
 <h3>Orientation Day</h3>
 <p>Please bring along your MK child starting next year and confirm your attendance
 via this link (limited to 2 adults):</p>
-<h4>Attendance Registration Link</h4>
-<p><a href="https://go.gov.sg/mkfsk1orientation" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkfsk1orientation</a>
+<h3>Attendance Registration Link</h3>
+<p>Registration link: <a href="https://go.gov.sg/mkfsk1orientation" rel="noopener nofollow" target="_blank">https://go.gov.sg/mkfsk1orientation</a>
 </p>
 <h3>Venue of Orientation Day</h3>
 <p><strong>Venue</strong>: MK@Fengshan</p>
