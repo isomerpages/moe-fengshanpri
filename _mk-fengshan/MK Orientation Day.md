@@ -26,7 +26,7 @@ located in the HDB carpark between block 412 and 413.</p>
 <h3>Contact us</h3>
 <p>Should you have any queries, please contact or email us below:</p>
 <p></p>
-<p>Contact person: Ms.&nbsp;Mirza</p>
-<p>School contact line: 6586 0123</p>
-<p>Email: <a href="mailto:mk_fengshan@moe.edu.sg" rel="noopener nofollow" target="_blank">mk_fengshan@moe.edu.sg</a>
+<p><strong>Contact person:</strong> Ms.&nbsp;Mirza</p>
+<p><strong>School contact line: </strong>6586 0123</p>
+<p><strong>Email:</strong>  <a href="mailto:mk_fengshan@moe.edu.sg" rel="noopener nofollow" target="_blank">mk_fengshan@moe.edu.sg</a>
 </p>
