@@ -27,7 +27,7 @@ sections:
       button: Click here for more details
       url: /mk-orientation-day/
       image: /images/MOE MK Files/MK Orientation Day/MK_Orientation_Day_2024.png
-      alt: Image alt text
+      alt: MK Orientation day
   - infopic:
       title: Parents' Handbook
       subtitle: Download Resources
