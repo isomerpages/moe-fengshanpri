@@ -2,7 +2,7 @@ collections:
   mk-fengshan:
     output: true
     order:
-      - MK Orientation Day.md
       - MK Fengshan.md
       - Our Staff at MK.md
       - MK Gallery.md
+      - MK Orientation Day.md
