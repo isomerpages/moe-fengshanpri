@@ -16,8 +16,12 @@ via this link (limited to 2 adults):</p>
 </p>
 <h3>Venue of Orientation Day</h3>
 <p><strong>Venue</strong>: MK@Fengshan</p>
-<p><strong>How to go to MK@Fengshan: </strong>Please enter by MK gate 5,
-located in the HDB carpark between block 412 and 413.</p>
+<p><strong>How to go to MK@Fengshan: </strong>
+</p>
+<p><strong>By Bus: </strong>Please enter by MK gate 5, located in the HDB
+carpark between block 412 and 413.</p>
+<p>By Car: Public parking area is available via entry from HDB carpark located
+at Block 412 and Block 413.</p>
 <h3>Programme of Orientation Day</h3>
 <p></p>
 <div class="isomer-image-wrapper">
