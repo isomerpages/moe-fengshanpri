@@ -31,6 +31,10 @@ HDB carpark located at Block 412 and Block 413.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Carpark entry for block 412 and block 413" src="/images/MOE MK Files/MK Orientation Day/Carpark_412_and_413_Entry.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/MK Orientation Day/Carpark_Entry.jpg">
+</div>
 <h3>Programme of Orientation Day</h3>
 <p></p>
 <div class="isomer-image-wrapper">
