@@ -20,6 +20,15 @@ sections:
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
   - infopic:
+      title: MK Orientation Day
+      subtitle: 30 October 2024
+      id: infopic
+      description: For new parents of children starting 2025
+      button: Click here for more details
+      url: /mk-orientation-day/
+      image: /images/MOE MK Files/MK Orientation Day/MK_Orientation_Day_2024.png
+      alt: MK Orientation day
+  - infopic:
       title: Parents' Handbook
       subtitle: Download Resources
       id: infopic
