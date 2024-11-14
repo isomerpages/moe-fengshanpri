@@ -83,7 +83,5 @@ for children enrolled in our MK.</p>
 <h3>MK Application Form</h3>
 <p>Link to the how to register for MK 2025: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register</a>
 </p>
-<p>Step-by-Step guide to the form: <a href="https://go.gov.sg/mk-waitlist-guide" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist Guide</a>
-</p>
 <p>MK waitlist link: <a href="https://go.gov.sg/mkfengshanwaitlistform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkfengshanwaitlistform</a>
 </p>
