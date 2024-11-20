@@ -304,10 +304,10 @@ vehicle at a parking lot.</p>
 through Gate 4 (Student Care only) or Gate 5 (MK@Fengshan pupils only).</p>
 <h2>School Security and Safety</h2>
 <h4>School Security and Registration at Security Post</h4>
-<p>For security reasons, visitors should report at Security Post via the
-school’s Main Gate for registration.&nbsp;For verification, visitors with
-valid appointment(s) are allowed to report and enter school premises by
-the school's Security Post. Visitor(s) could contact the school general
+<p>For security reasons, please enter the school premises via the school’s
+Main Gate for and register at the Security Post.&nbsp;Please produce a
+photographed identity card to confirm your identity when you register with
+the security guards on duty. Visitor(s) could contact the school general
 helpline at 6586 0123 to get their appointment slot before coming to school,
 unless requested by respective school officer.</p>
 <p>Your Identification Card (IC) must be presented for verification before
