@@ -642,7 +642,6 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 5</h2>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -651,112 +650,139 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>5A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Tay Tee Woon Mark</p>
-<p></p>
-<p>Ms. Frances Yeo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mark_tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_tay@moe.edu.sg</a>
+<p><strong>Class</strong>
 </p>
-<p></p>
-<p><a href="mailto:yeo_ee_ling_frances@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_ee_ling_frances@moe.edu.sg</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5B</p>
+<td rowspan="2" colspan="1">
+<p>P5A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Koh Jing Han</p>
 <p></p>
-<p>Mdm Veronica Guo Liyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_jing_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_jing_han@moe.edu.sg</a>
-</p>
-<p><a href="mailto:guo_liyan_veronica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_liyan_veronica@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Lian Zimin</p>
 <p></p>
-<p>Mdm. Chen Wenjing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lian_zimin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lian_zimin@moe.edu.sg</a>
-</p>
-<p><a href="mailto:chen_wenjing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wenjing@moe.edu.sg</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>P5B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs. Katherine Phoon</p>
 <p></p>
-<p>Mr. Neo Wei Qing Travis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_qiuping_katherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_qiuping_katherine@moe.edu.sg</a>
-</p>
-<p><a href="mailto:neo_wei_qing_travis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_wei_qing_travis@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5E1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Marisa Lee Pei Shan</p>
 <p></p>
-<p>Mr. Muhammad Firdaus bin Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marisa_lee_pei_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marisa_lee_pei_shan@moe.edu.sg</a>
-</p>
-<p><a href="mailto:muhammad_firdaus_rahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_firdaus_rahmat@moe.edu.sg</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P5C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5E2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Rashida Bte Mohamed Shariff</p>
-<p></p>
-<p>Mdm. Ang Chea Ing Allen (Mrs Losey)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rashida_mohamed_shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashida_mohamed_shariff@moe.edu.sg</a>
-</p>
-<p><a href="mailto:allen_losey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">allen_losey@moe.edu.sg</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P5D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P5E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P5E2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
