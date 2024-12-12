@@ -5,22 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h2>Our School Song</h2>
-<p>Where I am, I shine forth, &nbsp;
-<br>Lend a hand, spare a thought &nbsp;
-<br>I make a difference</p>
-<p>Where we go, we are known;
-<br>Greater than the sum of our parts,
-<br>core values make us one.</p>
-<p>Fengshan’s where we discover
-<br>that learning’s never done,
-<br>that passion is a virtue,
-<br>and two is greater than one.</p>
-<p>Through our aspirations,
-<br>all others, too, will see;
-<br>Years later, still
-<br>the Fengshan heartbeat beats in me!</p>
-<p>Lyrics by Tan T’zu-Ping
-<br>Music by Cuthbert Choo</p>
+<p><em>Where I am, I shine forth, &nbsp; <br>Lend a hand, spare a thought &nbsp; <br>I make a difference</em>
+</p>
+<p><em>Where we go, we are known; <br>Greater than the sum of our parts, <br>core values make us one.</em>
+</p>
+<p><em>Fengshan’s where we discover <br>that learning’s never done, <br>that passion is a virtue, <br>and two is greater than one.</em>
+</p>
+<p><em>Through our aspirations, <br>all others, too, will see; <br>Years later, still <br>the Fengshan heartbeat beats in me!</em>
+</p>
+<p><strong>Lyrics by Tan T’zu-Ping <br>Music by Cuthbert Choo</strong>
+</p>
 <h2>Our School Logo</h2>
 <p>The&nbsp;<strong>strokes</strong>&nbsp;form the letters&nbsp;<strong>“F”</strong>,&nbsp;<strong>“P”</strong>&nbsp;and&nbsp;<strong>“S”</strong>&nbsp;–
 the initials of Fengshan Primary School.</p>

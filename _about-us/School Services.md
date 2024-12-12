@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>Our School Services Contacts</h2>
+<h3>School &amp; Misc Fees and Matters</h3>
+<p>To check your school fees and payment, click here to MOE website for further
+information</p>
+<p>Click here: <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a>
+</p>
 <h3>Pacific Bookstore (School Bookshop)</h3>
 <p>Operating Hours:(Monday to Friday) - exclude school/public holidays</p>
 <table style="minWidth: 50px">
@@ -26,7 +31,7 @@ variant: tiptap
 <p>Monday to Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 am to 4 pm</p>
+<p>8.00am – 3.00pm</p>
 </td>
 </tr>
 </tbody>
@@ -40,6 +45,38 @@ variant: tiptap
 </p>
 <p>Contact No: <strong>67410930</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00am – 6.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saturdays only ( closed on Sundays and public holidays)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00am – 3.00pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Website: <a href="https://www.intrenduniforms.com" rel="noopener nofollow" target="_blank">https://www.intrenduniforms.com</a>
 </p>
 <p>Email: <a href="mailto:sales@itu.com.sg" rel="noopener nofollow" target="_blank">sales@itu.com.sg</a>
@@ -53,19 +90,17 @@ variant: tiptap
 </p>
 <p>Website: <a href="https://kcbus.net/schoolbus" rel="noopener nofollow" target="_blank">https://kcbus.net/schoolbus</a>
 </p>
-<h3>Whee!Canopus Student Care</h3>
-<p>Website: <a href="https://www.wheecanopus.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.wheecanopus.com/</a>
+<h3>NASCANS Student Care ( Ready in Jan 2025)</h3>
+<p>Website: <a href="https://www.nascans.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.nascans.com/</a>
 </p>
-<p>Contact: <strong>6235 7758</strong>
+<p>Contact: <a href="tel:+6566538008" rel="noopener noreferrer nofollow" target="_blank">65 6653 8008</a>
 </p>
-<p>Registration form: <a href="https://www.wheecanopus.com/student-registration" rel="noopener nofollow" target="_blank">https://www.wheecanopus.com/student-registration</a>
+<p>Registration form: Services will only be ready in Jan 2025</p>
+<p>Email: <a href="mailto:ask@nascans.com" rel="noopener noreferrer nofollow" target="_blank">ask@nascans.com</a>
 </p>
-<p>Email: <a href="mailto:fengshan.scc@merculearning.com" rel="noopener nofollow" target="_blank">fengshan.scc@merculearning.com</a>
-</p>
-<h3>Dental Clinic Assistant Dental</h3>
-<p>Manager: <strong>Mdm Lee H M</strong>
-</p>
-<p>Telephone No: <strong>89402018</strong>
+<h3>Dental Clinic</h3>
+<p>Telephone No.: 6442 2459</p>
+<p>HPB Appointment No: <strong>6435 3782</strong>
 </p>
 <h4>Opening hours</h4>
 <table style="minWidth: 50px">

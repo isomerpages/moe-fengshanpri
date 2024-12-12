@@ -9,6 +9,8 @@ variant: tiptap
 <h4><strong>Mission</strong></h4>
 <p>To nurture loyal individuals with strength of character and a determination
 to succeed in the spirit of lifelong learning</p>
+<p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -77,10 +79,10 @@ in mind, body and spirit (Confident Person &amp; Active Contributor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Determination to Succeed (Confident Person)</p>
-<p>Lifelong Learning (Self-directed Learner)</p>
+<p>Lifelong Learning (Self-d</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leaders Of Tomorrow&nbsp;of the arts</p>
+<p></p>
 </td>
 </tr>
 </tbody>
