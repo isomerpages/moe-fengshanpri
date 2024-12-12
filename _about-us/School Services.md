@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>Our School Services Contacts</h2>
+<h3>School &amp; Misc Fees and Matters </h3>
+<p>To check your school fees and payment, click here to MOE website for further
+information</p>
+<p>Click here: <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a>
+</p>
 <h3>Pacific Bookstore (School Bookshop)</h3>
 <p>Operating Hours:(Monday to Friday) - exclude school/public holidays</p>
 <table style="minWidth: 50px">
@@ -94,10 +99,6 @@ variant: tiptap
 <p>Email: <a href="mailto:ask@nascans.com" rel="noopener noreferrer nofollow" target="_blank">ask@nascans.com</a>
 </p>
 <h3>Dental Clinic Assistant Dental</h3>
-<p>Manager: <strong>Mdm Lee H M</strong>
-</p>
-<p>Telephone No: <strong>8940 2018</strong>
-</p>
 <p>Telephone No.: 6442 2459</p>
 <p>HPB Appointment No: <strong>6435 3782</strong>
 </p>
