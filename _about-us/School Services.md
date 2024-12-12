@@ -85,14 +85,13 @@ variant: tiptap
 </p>
 <p>Website: <a href="https://kcbus.net/schoolbus" rel="noopener nofollow" target="_blank">https://kcbus.net/schoolbus</a>
 </p>
-<h3>Whee!Canopus Student Care</h3>
-<p>Website: <a href="https://www.wheecanopus.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.wheecanopus.com/</a>
+<h3>NASCANS Student Care ( Ready in Jan 2025)</h3>
+<p>Website: <a href="https://www.nascans.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.nascans.com/</a>
 </p>
-<p>Contact: <strong>6235 7758</strong>
+<p>Contact: <a href="tel:+6566538008" rel="noopener noreferrer nofollow" target="_blank">65 6653 8008</a>
 </p>
-<p>Registration form: <a href="https://www.wheecanopus.com/student-registration" rel="noopener nofollow" target="_blank">https://www.wheecanopus.com/student-registration</a>
-</p>
-<p>Email: <a href="mailto:fengshan.scc@merculearning.com" rel="noopener nofollow" target="_blank">fengshan.scc@merculearning.com</a>
+<p>Registration form: Services will only be ready in Jan 2025</p>
+<p>Email: <a href="mailto:ask@nascans.com" rel="noopener noreferrer nofollow" target="_blank">ask@nascans.com</a>
 </p>
 <h3>Dental Clinic Assistant Dental</h3>
 <p>Manager: <strong>Mdm Lee H M</strong>
