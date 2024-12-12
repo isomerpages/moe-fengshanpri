@@ -307,19 +307,19 @@ variant: tiptap
 <p>P1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeraem River Ho</p>
+<p>Ms. Tan Gek Keow Jolin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_jeraem_river@moe.edu.sg</u></a>
+<p><a href="mailto:tan_gek_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_gek_keow@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Izzati Hamizah Binte Zainal</p>
+<p>Mdm. Siti Khadijah Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>izzati_hamizah_zainal@moe.edu.sg</u></a>
+<p><a href="mailto:siti_khadijah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_khadijah_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -328,19 +328,19 @@ variant: tiptap
 <p>P1F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jennifer Tan</p>
+<p>Ms. Vicki Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chng_bee_ling@moe.edu.sg</u></a>
+<p><a href="mailto:wong_wei_qi_vicki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_qi_vicki@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Grace Chong</p>
+<p>Ms. Hu Xuan Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>grace_chong@moe.edu.sg</u></a>
+<p><a href="mailto:hu_xuan_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_xuan_xuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
