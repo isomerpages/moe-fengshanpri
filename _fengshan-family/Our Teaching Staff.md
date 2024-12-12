@@ -197,6 +197,155 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>lass</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P1A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Meera Pathmanathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:meera_pathmanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meera_pathmanathan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lin Yanhua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lin_yanhua@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P1B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Elaine Yong Wei Ying (Mrs Lee)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yong_wei_ying@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yip Lai Kheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yip_lai_kheng@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P1C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sapiah Bte Samsudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sapiah_samsudin@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sebastian Lim Kok Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sebastian_lim_kok_wee@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P1D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Win Wa Soe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>win_wa_soe@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lau Pei Zhi Peggy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lau_pei_zhi_peggy@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P1E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeraem River Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_jeraem_river@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Izzati Hamizah Binte Zainal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>izzati_hamizah_zainal@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P1F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jennifer Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chng_bee_ling@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Grace Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_choon_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>grace_chong@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Primary 2</h2>
 <table style="minWidth: 75px">
 <colgroup>
