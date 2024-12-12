@@ -39,7 +39,8 @@ variant: tiptap
 <p>Ms. Frances Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (English Language)</p>
+<p>Head of Department</p>
+<p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_ee_ling_frances@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_ee_ling_frances@moe.edu.sg</u></a>
@@ -51,7 +52,8 @@ variant: tiptap
 <p>Mdm Hoe Mei Fong Micki</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head (English Language)</p>
+<p>Level Head</p>
+<p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -62,7 +64,8 @@ variant: tiptap
 <p>Mdm. Shanaz Nazeeha Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department -(Information &amp; Communications Technology (ICT))</p>
+<p>Head of Department</p>
+<p>Information &amp; Communications Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shanaz_nazeeha_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shanaz_nazeeha_ramli@moe.edu.sg</a>
@@ -74,7 +77,8 @@ variant: tiptap
 <p>Mr. Matthias Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Aesthetics)</p>
+<p>Head of Department</p>
+<p>(Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_khim_meng_matthias@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_khim_meng_matthias@moe.edu.sg</a>
@@ -86,7 +90,8 @@ variant: tiptap
 <p>Ms. Tan Chwee Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department -Science</p>
+<p>Head of Department</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_chwee_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chwee_li@moe.edu.sg</a>
@@ -98,7 +103,8 @@ variant: tiptap
 <p>Ms. Geraldine Ma Wanting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head - Science</p>
+<p>Level Head</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ma_wanting_geraldine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ma_wanting_geraldine@moe.edu.sg</a>
@@ -110,7 +116,8 @@ variant: tiptap
 <p>Mr Teo Choon Hoe Ivan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department -PE&amp;CCA</p>
+<p>Head of Department</p>
+<p>PE&amp;CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ivan_teo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ivan_teo@moe.edu.sg</a>
@@ -122,7 +129,8 @@ variant: tiptap
 <p>Mr Jumadi Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head - PE &amp; CCA</p>
+<p>Subject Head</p>
+<p>PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jumadi_b_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jumadi_b_ahmad@moe.edu.sg</a>
@@ -134,7 +142,8 @@ variant: tiptap
 <p>Ms Choy Wai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department -Mother Tongue Languages</p>
+<p>Head of Department</p>
+<p>Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:choy_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_wai_yin_a@moe.edu.sg</a>
@@ -146,7 +155,8 @@ variant: tiptap
 <p>Mdm. Hazliana Bte Mahat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head - Malay Language</p>
+<p>Level Head</p>
+<p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hazliana_mahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazliana_mahat@moe.edu.sg</a>
@@ -158,7 +168,8 @@ variant: tiptap
 <p>Mdm. Tan Li Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department -Character &amp; Citizenship Education</p>
+<p>Head of Department</p>
+<p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -169,7 +180,8 @@ variant: tiptap
 <p>Mdm. Zarinah Bte Mohamed Hussain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head -Character &amp; Citizenship Education</p>
+<p>Subject Head</p>
+<p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zarinah_mohamed_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zarinah_mohamed_hussain@moe.edu.sg</a>
@@ -181,7 +193,8 @@ variant: tiptap
 <p>Mdm Michelle Moi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head/Mathematics</p>
+<p>Level Head</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Michelle_Moi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Michelle_Moi@moe.edu.sg</a>
@@ -240,7 +253,8 @@ variant: tiptap
 <p>Mr Irwan Bin Md Talib</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Student Wellbeing)</p>
+<p>Subject Head</p>
+<p>Student Wellbeing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
