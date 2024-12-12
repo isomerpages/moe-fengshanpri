@@ -967,7 +967,7 @@ variant: tiptap
 <p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher Email</p>
+<p>Contact Email</p>
 </th>
 </tr>
 <tr>
@@ -1045,7 +1045,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h2>Subject Teachers</h2>
+<h2>Mother Tongue Language Teachers</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1061,7 +1061,7 @@ variant: tiptap
 <p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Form Teacher Email</p>
+<p>Contact Email</p>
 </th>
 </tr>
 <tr>
@@ -1181,6 +1181,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shen_baiyue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shen_baiyue@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Choy Wai Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choy_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_wai_yin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1316,6 +1328,40 @@ variant: tiptap
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<h2>Physical Education (PE) Teachers</h2>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Ivan Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ivan_teo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ivan_teo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>PE</p>
@@ -1351,6 +1397,28 @@ variant: tiptap
 <p><a href="mailto:cheryl_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_lim@moe.edu.sg</a>
 </p>
 </td>
+</tr>
+</tbody>
+</table>
+<h2>Music and Art</h2>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact Email</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
