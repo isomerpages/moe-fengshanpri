@@ -642,6 +642,7 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 5</h2>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
