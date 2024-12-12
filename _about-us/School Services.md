@@ -69,7 +69,7 @@ information</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saturday</p>
+<p>Saturday only ( closed on Sundays and public holidays)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.00am – 3.00pm</p>
