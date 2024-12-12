@@ -173,7 +173,8 @@ variant: tiptap
 <p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_ting@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +247,8 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_sze_min_charmaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sze_min_charmaine@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +260,8 @@ variant: tiptap
 <p>Student Wellbeing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:irwan_mohd_talib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_mohd_talib@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
