@@ -950,7 +950,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>School Counsellors, SENO &amp; SWO</h2>
+<h2>School Counsellors and SENOs</h2>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
