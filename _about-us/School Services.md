@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Our School Services Contacts</h2>
-<h3>School &amp; Misc Fees and Matters </h3>
+<h3>School &amp; Misc Fees and Matters</h3>
 <p>To check your school fees and payment, click here to MOE website for further
 information</p>
 <p>Click here: <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a>
@@ -98,7 +98,7 @@ information</p>
 <p>Registration form: Services will only be ready in Jan 2025</p>
 <p>Email: <a href="mailto:ask@nascans.com" rel="noopener noreferrer nofollow" target="_blank">ask@nascans.com</a>
 </p>
-<h3>Dental Clinic Assistant Dental</h3>
+<h3>Dental Clinic</h3>
 <p>Telephone No.: 6442 2459</p>
 <p>HPB Appointment No: <strong>6435 3782</strong>
 </p>
