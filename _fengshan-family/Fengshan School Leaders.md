@@ -4,7 +4,7 @@ permalink: /fengshan-family/fsps-school-leaders/
 description: ""
 variant: tiptap
 ---
-<h4><strong><a href="mailto:fsps@moe.edu.sg" rel="noreferrer noopener" target="_blank">Email to us</a></strong></h4>
+<h4></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
