@@ -26,7 +26,7 @@ variant: tiptap
 <p>Monday to Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 am to 4 pm</p>
+<p>8.00am – 3.00pm</p>
 </td>
 </tr>
 </tbody>
@@ -40,6 +40,38 @@ variant: tiptap
 </p>
 <p>Contact No: <strong>67410930</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00am – 6.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00am – 3.00pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Website: <a href="https://www.intrenduniforms.com" rel="noopener nofollow" target="_blank">https://www.intrenduniforms.com</a>
 </p>
 <p>Email: <a href="mailto:sales@itu.com.sg" rel="noopener nofollow" target="_blank">sales@itu.com.sg</a>
@@ -65,7 +97,10 @@ variant: tiptap
 <h3>Dental Clinic Assistant Dental</h3>
 <p>Manager: <strong>Mdm Lee H M</strong>
 </p>
-<p>Telephone No: <strong>89402018</strong>
+<p>Telephone No: <strong>8940 2018</strong>
+</p>
+<p>Telephone No.: 6442 2459</p>
+<p>HPB Appointment No: <strong>6435 3782</strong>
 </p>
 <h4>Opening hours</h4>
 <table style="minWidth: 50px">
