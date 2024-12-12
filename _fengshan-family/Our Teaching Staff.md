@@ -464,18 +464,20 @@ variant: tiptap
 <p>P3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Zhang Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zhang_lian_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lian_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Geraldine Ma Wanting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ma_wanting_geraldine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ma_wanting_geraldine@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -483,18 +485,20 @@ variant: tiptap
 <p>P3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. James Wong Tze Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wong_tze_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_tze_hong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Azah bte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:azah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azah_abdul_aziz@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
