@@ -950,6 +950,101 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h2>School Counsellors, SENO &amp; SWO</h2>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teacher Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Suvitha Pillai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suvitha_g_k_pillai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suvitha_g_k_pillai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Gurneet Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gurneet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gurneet_kaur@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Nur Azeimah binte Itam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_azeimah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azeimah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. A Rabiyathul Basiria</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:a_rabiyathul_basiria@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">a_rabiyathul_basiria@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Hu Xuan Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hu_xuan_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_xuan_xuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Chen Wen Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_wenjing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wenjing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h2>Subject Teachers</h2>
 <table style="minWidth: 75px">
 <colgroup>
@@ -1218,54 +1313,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ramzathumunnisha_nazurudee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramzathumunnisha_nazurudee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Suvitha Pillai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suvitha_g_k_pillai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suvitha_g_k_pillai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Gurneet Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gurneet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gurneet_kaur@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Nur Azeimah binte Itam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_azeimah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azeimah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. A Rabiyathul Basiria</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:a_rabiyathul_basiria@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">a_rabiyathul_basiria@moe.edu.sg</a>
 </p>
 </td>
 </tr>
