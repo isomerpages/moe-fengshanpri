@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hoe Mei Fong Micki</p>
+<p>Mdm. Hoe Mei Fong Micki</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head</p>
@@ -114,7 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Choon Hoe Ivan</p>
+<p>Mr. Teo Choon Hoe Ivan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department</p>
@@ -127,7 +127,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jumadi Bin Ahmad</p>
+<p>Mr. Jumadi Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head</p>
@@ -140,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Choy Wai Yin</p>
+<p>Ms. Choy Wai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department</p>
@@ -192,7 +192,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Moi</p>
+<p>Mdm. Michelle Moi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head</p>
@@ -253,7 +253,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Irwan Bin Md Talib</p>
+<p>Mr. Irwan Bin Md Talib</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head</p>
