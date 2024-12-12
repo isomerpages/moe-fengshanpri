@@ -972,7 +972,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Counsellor</p>
+<p>Allied Educator (Counselling)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Suvitha Pillai</p>
@@ -984,7 +984,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Counsellor</p>
+<p>Allied Educator (Counselling)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Gurneet Kaur</p>
@@ -996,7 +996,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN</p>
+<p>Allied Educator (Special Educational Needs Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Nur Azeimah binte Itam</p>
@@ -1008,7 +1008,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEN</p>
+<p>Allied Educator (Special Educational Needs Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. A Rabiyathul Basiria</p>
@@ -1020,25 +1020,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL</p>
+<p>Allied Educator (Special Educational Needs Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Hu Xuan Xuan</p>
+<p>Ms. Natalie Peters</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hu_xuan_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_xuan_xuan@moe.edu.sg</a>
+<p><a href="mailto:natalie_peters@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natalie_peters@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CL</p>
+<p>Allied Educator (Special Educational Needs Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Chen Wen Jing</p>
+<p>Ms. Amirah binte Azlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_wenjing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wenjing@moe.edu.sg</a>
+<p><a href="mailto:amirah_azlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amirah_azlan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
