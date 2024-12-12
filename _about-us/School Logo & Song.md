@@ -13,8 +13,8 @@ variant: tiptap
 </p>
 <p><em>Through our aspirations, <br>all others, too, will see; <br>Years later, still <br>the Fengshan heartbeat beats in me!</em>
 </p>
-<p>Lyrics by Tan T’zu-Ping
-<br>Music by Cuthbert Choo</p>
+<p><strong>Lyrics by Tan T’zu-Ping <br>Music by Cuthbert Choo</strong>
+</p>
 <h2>Our School Logo</h2>
 <p>The&nbsp;<strong>strokes</strong>&nbsp;form the letters&nbsp;<strong>“F”</strong>,&nbsp;<strong>“P”</strong>&nbsp;and&nbsp;<strong>“S”</strong>&nbsp;–
 the initials of Fengshan Primary School.</p>
