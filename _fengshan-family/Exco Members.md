@@ -39,7 +39,7 @@ variant: tiptap
 <p>Ms. Frances Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department -English Language</p>
+<p>Head of Department (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_ee_ling_frances@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_ee_ling_frances@moe.edu.sg</u></a>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>Mdm Hoe Mei Fong Micki</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head English - Language</p>
+<p>Level Head (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -62,7 +62,7 @@ variant: tiptap
 <p>Mdm. Shanaz Nazeeha Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department -Information &amp; Communications Technology (ICT)</p>
+<p>Head of Department -(Information &amp; Communications Technology (ICT))</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shanaz_nazeeha_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shanaz_nazeeha_ramli@moe.edu.sg</a>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>Mr. Matthias Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department -Aesthetics</p>
+<p>Head of Department (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_khim_meng_matthias@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_khim_meng_matthias@moe.edu.sg</a>
@@ -230,6 +230,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Irwan Bin Md Talib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Student Wellbeing)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
