@@ -25,7 +25,7 @@ sections:
       id: infopic
       description: Click to download the Parents' Handbook for 2025
       button: Click here to download
-      url: https://cms.isomer.gov.sg/files/Fengshan%20Document%20Links/2025/Parents__Handbook_2025.pdf
+      url: Files /Fengshan Document Links/2025/Parents__Handbook_2025.pdf
       image: /images/Homepage Design/2025/Parents_Handbook__1_.png
       alt: Parents Handbook 2024
   - infopic:
