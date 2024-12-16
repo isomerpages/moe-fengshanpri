@@ -19,6 +19,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm. Tan Li Ting (Head of Department)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm. Zarinah Md Hussaiin</p>
 </td>
 </tr>
