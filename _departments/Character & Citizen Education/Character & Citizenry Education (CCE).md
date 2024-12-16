@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Faithah</p>
+<p>Mdm. Fatihah</p>
 </td>
 </tr>
 <tr>
@@ -70,11 +70,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr. Firdaus Rahmat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Neresa Ho</p>
 </td>
 </tr>
 <tr>
