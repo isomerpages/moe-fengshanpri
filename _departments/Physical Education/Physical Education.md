@@ -13,7 +13,6 @@ a lifetime of active, healthy living.</p>
 <p>Mr Jumadi (Subject Head PE/CCA)</p>
 <p>Mr Muhammad Haikal Suhaimi</p>
 <p>Ms Jessica Tsang Si’en</p>
-<p>Mr Travis Neo</p>
 <p>Ms Cheryl Lim</p>
 <table style="minWidth: 50px">
 <colgroup>
