@@ -26,7 +26,7 @@ sections:
       description: Click to download the Parents' Handbook for 2025
       button: Click here to download
       url: https://www.fengshanpri.moe.edu.sg/files/Fengshan%20Document%20Links/Parents%20Handbook/Parents__Handbook_2024.pdf
-      image: /images/Homepage Design/Front Page Logos and Images/Parents_Handbook.png
+      image: /images/Homepage Design/2025/Parents_Handbook__1_.png
       alt: Parents Handbook 2024
   - infopic:
       title: Happenings @ Fengshan Primary
