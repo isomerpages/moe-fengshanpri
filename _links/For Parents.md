@@ -233,7 +233,6 @@ page</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/parents gateway setup.png">
 </div>
-<p>Parents Gateway installation (in video)</p>
 <p></p>
 <p></p>
 <h3>Our School Services (see in About Us) page</h3>
