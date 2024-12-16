@@ -23,7 +23,7 @@ sections:
       title: Parents' Handbook
       subtitle: Download Resources
       id: infopic
-      description: Click to download the Parents' Handbook for 2024
+      description: Click to download the Parents' Handbook for 2025
       button: Click here to download
       url: https://www.fengshanpri.moe.edu.sg/files/Fengshan%20Document%20Links/Parents%20Handbook/Parents__Handbook_2024.pdf
       image: /images/Homepage Design/Front Page Logos and Images/Parents_Handbook.png
