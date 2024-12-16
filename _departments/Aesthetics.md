@@ -21,13 +21,7 @@ of the Arts</p>
 <p>Mdm Nur Nadiah (Visual Art)</p>
 </li>
 <li>
-<p>Ms June Chong (Visual Art)</p>
-</li>
-<li>
 <p>Mdm Suzana (Visual Art)</p>
-</li>
-<li>
-<p>Mr Welzl Valentin (Music)</p>
 </li>
 </ol>
 <h4><strong>Art – Our Practice</strong></h4>

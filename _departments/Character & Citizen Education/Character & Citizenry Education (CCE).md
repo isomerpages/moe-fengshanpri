@@ -19,7 +19,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Zarinah Md Hussaiin</p>
+<p>Mdm. Tan Li Ting (Head of Department)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Zarinah Md Hussain</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Faithah</p>
+<p>Mdm. Fatihah</p>
 </td>
 </tr>
 <tr>
@@ -70,11 +75,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr. Firdaus Rahmat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Neresa Ho</p>
 </td>
 </tr>
 <tr>
