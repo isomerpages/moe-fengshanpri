@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Zarinah Md Hussaiin</p>
+<p>Mdm. Zarinah Md Hussain</p>
 </td>
 </tr>
 <tr>
