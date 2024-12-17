@@ -247,7 +247,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P2A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -264,6 +264,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rosela_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosela_hashim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Ivy Chan Ai Ti</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_ai_ti@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_ai_ti@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -323,7 +332,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Raba’ah Bte Ismail</p>
+<p>Mdm. Raba’ah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rabaah_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rabaah_ismail@moe.edu.sg</a>
@@ -698,7 +707,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Haikal bin Suhaimi</p>
+<p>Mr. Muhammad Haikal bin Suhaimi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_haikal_suhaimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_haikal_suhaimi@moe.edu.sg</a>
