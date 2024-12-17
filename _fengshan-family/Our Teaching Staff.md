@@ -332,7 +332,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Raba’ah Bte Ismail</p>
+<p>Mdm. Raba’ah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rabaah_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rabaah_ismail@moe.edu.sg</a>
@@ -707,7 +707,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Haikal bin Suhaimi</p>
+<p>Mr. Muhammad Haikal bin Suhaimi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_haikal_suhaimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_haikal_suhaimi@moe.edu.sg</a>
