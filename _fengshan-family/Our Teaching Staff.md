@@ -1055,11 +1055,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Language</strong>
+</p>
+</td>
 <th rowspan="1" colspan="1">
 <p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Contact Email</p>
@@ -1353,11 +1354,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
 <th rowspan="1" colspan="1">
 <p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Contact Email</p>
@@ -1423,11 +1425,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
 <th rowspan="1" colspan="1">
 <p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Contact Email</p>
