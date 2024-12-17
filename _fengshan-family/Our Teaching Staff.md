@@ -359,7 +359,7 @@ variant: tiptap
 <p>Ms. Gladys Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be confirmed soon</em>
+<p><a href="mailto:lim_hui_min_gladys@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_hui_min_gladys@moe.edu.sg</a>
 </p>
 </td>
 </tr>
