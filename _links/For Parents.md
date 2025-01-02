@@ -17,7 +17,8 @@ Insurance Plan for students can be found on Income’s website at <a href="https
 </p>
 <p></p>
 <h3><strong>SLS Activation Guide 2025</strong></h3>
-<p></p>
+<p><a href="/files/Fengshan Document Links/2025/Account_Activation_Userguide.pdf" rel="noopener nofollow" target="_blank">SLS Account Activation Guide for P1</a>
+</p>
 <p></p>
 <h3><strong>Parents' Handbook 2025</strong></h3>
 <p><a href="/files/Fengshan Document Links/2025/Parents__Handbook_2025.pdf" rel="noopener nofollow" target="_blank">Click here to download the Parents Handbook 2025</a>
