@@ -27,8 +27,8 @@ sections:
         - title: "Parent Engagement: SLS and Digital Provision"
           date: 02 January 2025
           announcement: Download the presentation slides for the P1 Parents on SLS
-            activation as well as digital provision applications for students in
-            Fengshan Primary School
+            activation as well as centrally provision digital applications for
+            students in Fengshan Primary School
           link_text: Download here
           link_url: https://fengshanpri.moe.edu.sg/files/Fengshan%20Document%20Links/2025/P1_Fengshan_Champion_SLS_amd_Digital_Provisioned_Tools.pdf
         - title: "Parent Engagement: Cybersecurity"
