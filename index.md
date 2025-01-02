@@ -19,6 +19,16 @@ sections:
           url: /about-us/school-matters/
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 02 January 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Parents' Handbook
       subtitle: Download Resources
@@ -36,4 +46,14 @@ sections:
       url: https://www.youtube.com/watch?v=NgrV6DAvTQ4&ab_channel=ETDtogo
       image: /images/School Logo and Photo Design/fengshan pri school pic.png
       alt: Happening at Fengshan 2023
+  - infocols:
+      title: Primary 1 Online Resources
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Please a
+      infoboxes:
+        - title: SLS and Digital Provision tools
+          description: Infobox description
+        - title: Cyberwellness
+          description: Infobox description
 ---
