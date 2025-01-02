@@ -16,6 +16,9 @@ Insurance’s GPA portal (<a href="https://studentgpa.incomegroupins.com.sg" rel
 Insurance Plan for students can be found on Income’s website at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
 <p></p>
+<h3><strong>SLS Activation Guide 2025</strong></h3>
+<p></p>
+<p></p>
 <h3><strong>Parents' Handbook 2025</strong></h3>
 <p><a href="/files/Fengshan Document Links/2025/Parents__Handbook_2025.pdf" rel="noopener nofollow" target="_blank">Click here to download the Parents Handbook 2025</a>
 </p>
