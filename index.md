@@ -22,11 +22,18 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: Fengshan Latest
       announcement_items:
-        - title: New Announcement
+        - title: "Parent Engagement: SLS and Digital Provision"
           date: 02 January 2025
-          announcement: Announcement content
+          announcement: Download the presentation slides for the P1 Parents on SLS
+            activation as well as digital provision applications for students in
+            Fengshan Primary School
+          link_text: Download here
+          link_url: https://sg.yahoo.com/
+        - title: "Parent Engagement: Cybersecurity"
+          date: 02 January 2025
+          announcement: Download the presentation slides on cybersecurity for our P1 students
           link_text: ""
           link_url: ""
   - infopic:
@@ -46,14 +53,4 @@ sections:
       url: https://www.youtube.com/watch?v=NgrV6DAvTQ4&ab_channel=ETDtogo
       image: /images/School Logo and Photo Design/fengshan pri school pic.png
       alt: Happening at Fengshan 2023
-  - infocols:
-      title: Primary 1 Online Resources
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Please a
-      infoboxes:
-        - title: SLS and Digital Provision tools
-          description: Infobox description
-        - title: Cyberwellness
-          description: Infobox description
 ---
