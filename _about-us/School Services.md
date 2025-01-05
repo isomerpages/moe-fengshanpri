@@ -77,6 +77,108 @@ information</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Onsite Sales Schedule for the School Uniform</strong></h4>
+<p><strong>Venue:  School Canteen</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date (Tuesday)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7, 14, 21, 28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>February</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Website: <a href="https://www.intrenduniforms.com" rel="noopener nofollow" target="_blank">https://www.intrenduniforms.com</a>
 </p>
 <p>Email: <a href="mailto:sales@itu.com.sg" rel="noopener nofollow" target="_blank">sales@itu.com.sg</a>
