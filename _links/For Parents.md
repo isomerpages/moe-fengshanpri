@@ -7,13 +7,17 @@ variant: tiptap
 <h1>Links for Parents</h1>
 <p></p>
 <p></p>
-<h4>MOE Group Personal Accident (GPA) Insurance Plan for Students and Product Factsheet for 2024</h4>
-<p>Please refer to document (<a href="/files/Fengshan Document Links/2024/Product_Fact_Sheet__Year_2024_May__Revised_V1.pdf" rel="noopener nofollow" target="_blank">click here to download</a>)
+<h4>MOE Group Personal Accident (GPA) Insurance Plan for Students and Product Factsheet for 2025</h4>
+<p>Please refer to document (<a href="/files/Fengshan Document Links/2025/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Click here to download</a>)
 for the product factsheet for the MOE GPA Insurance Plan for Students.</p>
-<p>Parents may submit claims online and check the claims status through Income
-Insurance’s GPA portal (<a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>).</p>
+<p>Please refer to the document (click here to download) for the product
+factsheet for MOE Group Personal Accident (GPA) Insurance Plan for Students.</p>
+<p></p>
+<p>Parents are to submit the claims online through Income Insurance’s GPA
+portal <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>.</p>
 <p>Information on claims, FAQs and other details pertaining to the MOE GPA
-Insurance Plan for students can be found on Income’s website at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
+Insurance Plan for students can be found on Income’s website at&nbsp;
+<a href="https://www.income.com.sg/studentgpa" rel="noopener nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
 <p></p>
 <h3><strong>SLS Activation Guide 2025</strong></h3>

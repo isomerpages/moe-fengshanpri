@@ -19,6 +19,23 @@ sections:
           url: /about-us/school-matters/
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Fengshan Latest
+      announcement_items:
+        - title: "Parent Engagement: SLS and Digital Provision"
+          date: 02 January 2025
+          announcement: Download the presentation slides for the P1 Parents on SLS
+            activation as well as centrally provision digital applications for
+            students in Fengshan Primary School
+          link_text: Download here
+          link_url: https://fengshanpri.moe.edu.sg/files/Fengshan%20Document%20Links/2025/P1_Fengshan_Champion_SLS_amd_Digital_Provisioned_Tools.pdf
+        - title: "Parent Engagement: Cybersecurity"
+          date: 02 January 2025
+          announcement: Download the presentation slides on cybersecurity for our P1 students
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Parents' Handbook
       subtitle: Download Resources
