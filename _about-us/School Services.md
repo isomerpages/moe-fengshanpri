@@ -78,7 +78,7 @@ information</p>
 </tbody>
 </table>
 <h4><strong>Onsite Sales Schedule for the School Uniform</strong></h4>
-<p><strong>Venue:  School Canteen</strong>
+<p><strong>Venue: School Canteen</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
