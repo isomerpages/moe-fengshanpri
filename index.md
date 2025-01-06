@@ -34,8 +34,8 @@ sections:
         - title: "Parent Engagement: Cybersecurity"
           date: 02 January 2025
           announcement: Download the presentation slides on cybersecurity for our P1 students
-          link_text: ""
-          link_url: ""
+          link_text: Download here
+          link_url: https://fengshanpri.moe.edu.sg/files/Fengshan%20Document%20Links/2025/P1_Parents_Briefing_on_Cyber_Wellness_2025.pdf
   - infopic:
       title: Parents' Handbook
       subtitle: Download Resources
