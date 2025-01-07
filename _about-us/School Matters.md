@@ -81,7 +81,7 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 <p>7.30 a.m. – 1.25 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. – 1.10 p.m.</p>
+<p>7.30 a.m. – 1.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 2</p>
@@ -99,7 +99,7 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 <p>7.30 a.m. – 1.25 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. – 1.10 p.m.</p>
+<p>7.30 a.m. – 1.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 1</p>
