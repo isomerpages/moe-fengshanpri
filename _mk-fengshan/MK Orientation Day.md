@@ -13,7 +13,7 @@ look forward to meeting you soon!</p>
 <h4>Venue of Orientation Day</h4>
 <p>MOE Kindergarten @Fengshan, 307 Bedok North Road, Singapore 469680</p>
 <p>(<strong>Enter by Gate 5</strong>)</p>
-<h4>Time </h4>
+<h4>Time</h4>
 <p>To be updated once confirmed.</p>
 <h4>How to go to <strong>MK@Fengshan</strong></h4>
 <p><strong>Reporting area: </strong>Please enter by MK gate 5, located in
