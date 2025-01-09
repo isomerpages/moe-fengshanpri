@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h3>Open House 2025</h3>
+<h2>Open House 2025</h2>
 <p>Welcome to our upcoming Open House event. Here are the details and we
 look forward to meeting you soon!</p>
 <h3>Attendance Registration Link</h3>
@@ -13,10 +13,9 @@ look forward to meeting you soon!</p>
 <h4>Venue of Orientation Day</h4>
 <p>MOE Kindergarten @Fengshan, 307 Bedok North Road, Singapore 469680</p>
 <p>(<strong>Enter by Gate 5</strong>)</p>
-<h4>Time</h4>
-<p>Drop by any time between 8.30 am to 12.30pm. Last admission will be at
-12 pm.</p>
-<h4>How to go to MK@Fengshan</h4>
+<h4>Time </h4>
+<p>To be updated once confirmed.</p>
+<h4>How to go to <strong>MK@Fengshan</strong></h4>
 <p><strong>Reporting area: </strong>Please enter by MK gate 5, located in
 the HDB carpark between block 412 and 413.</p>
 <p>(Please do not enter by the main gate to Fengshan Primary School)</p>
