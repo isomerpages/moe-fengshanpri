@@ -9,9 +9,7 @@ description: ""
 <p>Welcome to our upcoming Open House event. Here are the details and we
 look forward to meeting you soon!</p>
 <h3>Attendance Registration Link</h3>
-<p>Open House Attendance Registration Link: Sign up for Open House and Registration
-links will be available on the MK website MOE Kindergarten | MOE (refer
-to the tabs) from mid-January 2025</p>
+<p>To be updated once confirmed.</p>
 <h4>Venue of Orientation Day</h4>
 <p>MOE Kindergarten @Fengshan, 307 Bedok North Road, Singapore 469680</p>
 <p>(<strong>Enter by Gate 5</strong>)</p>
