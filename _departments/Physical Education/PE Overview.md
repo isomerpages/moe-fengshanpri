@@ -79,14 +79,15 @@ and their areas for improvement.</p>
 <p>P1 &amp; P2 : Lower Primary Sports held during National Day celebrations</p>
 </li>
 <li>
-<p>P3/P4/P5 : SwimSafer</p>
+<p>P3/P4/P5 : SwimSafer forP4-D from 14 January to 11 March. P4R from 8 July
+to 16 September</p>
 </li>
 <li>
 <p>P1 – P6 Games Carnival (Multi Sports Exposure during Childrens’ Day celebrations)</p>
 </li>
 <li>
-<p>P5 : Camp at Dairy Farm Outdoor Adventure Learning Centre (DFOALC) from
-7 Nov – 9 Nov 2022</p>
+<p>P5 : Camp at MOE Jalan Bahtera Outdoor Adventure Learning Center from
+28 July- 30 July</p>
 </li>
 <li>
 <p>P3-P6 :Interclass Games</p>
