@@ -110,12 +110,4 @@ variant: tiptap
 <p></p>
 <p></p>
 <hr>
-<h2>Red Cross Youth</h2>
-<hr>
-<h3>Schedule:</h3>
-<p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
-<h3>Venue:</h3>
-<p>Classroom (E2-02)</p>
-<h3>Teachers I/C :</h3>
-<p>Mrs Ivy Wong*</p>
-<p>Ms Amanpreet Kaur</p>
+<p></p>
