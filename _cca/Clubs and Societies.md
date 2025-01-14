@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>Schedule:</strong></h4>
 <p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
 <h4><strong>Venue:</strong></h4>
-<p>Science Room Level 3, C2-01</p>
+<p>Science Room Level 3, C3-01</p>
 <h4><strong>Teachers I/C :</strong></h4>
 <p></p>
 <table style="minWidth: 25px">
