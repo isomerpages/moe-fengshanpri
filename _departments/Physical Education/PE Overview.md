@@ -71,31 +71,89 @@ and rubrics helps PE teachers (trained and untrained) to conduct an unbiased
 assessment for our pupils. It also helps pupils to know their strengths
 and their areas for improvement.</p>
 <h4><strong>Our Programmes</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>P1 &amp; P2 : PAL</p>
-</li>
-<li>
-<p>P1 &amp; P2 : Lower Primary Sports held during National Day celebrations</p>
-</li>
-<li>
-<p>P3/P4/P5 : SwimSafer</p>
-</li>
-<li>
-<p>P1 – P6 Games Carnival (Multi Sports Exposure during Childrens’ Day celebrations)</p>
-</li>
-<li>
-<p>P5 : Camp at Dairy Farm Outdoor Adventure Learning Centre (DFOALC) from
-7 Nov – 9 Nov 2022</p>
-</li>
-<li>
-<p>P3-P6 :Interclass Games</p>
-</li>
-<li>
-<p>P1-P6 : LLP – Netball/Basketball/Football/Multi-Games Exposure</p>
-</li>
-<li>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programmes</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>Primary 1 and 2</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Primary Sports held during National Day celebrations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4E Swimsafer from 8 July to 16 September 2025<strong> (upcoming)2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Camp at MOE Jalan Bahtera Outdoor Adventure Learning Center from 28 July-
+30 July 2025 <strong>(upcoming)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>Primary 1 to Primary 6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Games Carnival (Multi Sports Exposure during Childrens’ Day celebrations <strong>(upcoming)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Weight Management Programme during unstructured play</p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball/Basketball/Football/Multi-Games Exposure</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Swimsafer Update for Parents</h4>
+<p>1. Students participating in the swimsafer programme are to complete their
+theory tests before the practical assessment at <a href="https://go.gov.sg/sstheory" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sstheory</a> to facilitate
+the issuance of the SwimSafer e-certificates and that additional fields
+(email and mobile) will now be required when attempting the theory quiz.</p>
+<p>2. Upon successful completion of theory test and practical test for each
+stage, students will receive an email from FileSG with the transaction
+ID and and you may refer students to the short FileSG SwimSafer 2.0 e-Certificate
+retrieval video at <strong><a href="https://go.gov.sg/fsps-pe-video" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fsps-pe-video</a></strong> for
+your reference. A finalized report of the students results and e-certificate
+issuance status will be sent to you about 3-5 days after the completion
+of the practical assessment and theory quiz.</p>
+<p>3. Should you have any questions, please feel free to contact us. Students
+may refer to the SwimSafer official webpage at <a href="https://go.gov.sg/swimsafer" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/swimsafer</a> for more
+information.</p>
 <p></p>

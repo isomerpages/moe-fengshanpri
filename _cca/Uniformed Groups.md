@@ -9,9 +9,30 @@ variant: tiptap
 <h3>Schedule:</h3>
 <p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
 <h4>Venue:</h4>
-<p>Classrooms (D2-03/04)</p>
+<p>Classroom 1B/ 1C (D2-02/D2-01)</p>
 <h4>Teachers I/C:</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Jolin Tan*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Chen Wenjing</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p>Instructors:&nbsp;Boys Brigade Volunteers</p>
 <hr>
@@ -20,29 +41,73 @@ variant: tiptap
 <h3>Schedule:</h3>
 <p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
 <h3>Venue:</h3>
-<p>Classroom (E2-01)</p>
+<p>Classroom 2E (E2-01)</p>
 <h3>Teachers I/C :</h3>
-<p>Mdm Siti Khadijah*
-<br>Mr Firdaus
-<br>Mdm Marcellian Arlany</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Siti Khadijah*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Firdaus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Marcellian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Amanpreet Gill</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
-<h2>Brownies (Girl Guides)</h2>
+<h2>Girl Guides (Brownies)</h2>
 <hr>
 <h3>Schedule:</h3>
 <p>All Levels – Tuesday (2:30pm – 4:30pm)</p>
 <h3>Venue:</h3>
-<p>Classrooms (D2-01/02)</p>
+<p>Classroom 2A/2B (E2-05/E2-04)</p>
 <h3>Teachers I/C :</h3>
-<p>Mdm Marlina*</p>
-<p>Mrs Charmaine Wee</p>
-<p>Mdm Rashida</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Marlina*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Rashida</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <hr>
-<h2>Red Cross Youth</h2>
-<hr>
-<h3>Schedule:</h3>
-<p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
-<h3>Venue:</h3>
-<p>Classroom (E2-02)</p>
-<h3>Teachers I/C :</h3>
-<p>Mrs Ivy Wong*</p>
-<p>Ms Amanpreet Kaur</p>
+<p></p>
