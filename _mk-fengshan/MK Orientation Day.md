@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h2>Open House 2025</h2>
+<h2>MK@Fengshan Open House 2025</h2>
 <p>Welcome to our upcoming Open House event. Here are the details and we
 look forward to meeting you soon!</p>
 <h3>Attendance Registration Link</h3>
