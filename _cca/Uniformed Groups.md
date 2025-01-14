@@ -11,7 +11,28 @@ variant: tiptap
 <h4>Venue:</h4>
 <p>Classrooms (D2-03/04)</p>
 <h4>Teachers I/C:</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Jolin Tan*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Chen Wenjing</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p>Instructors:&nbsp;Boys Brigade Volunteers</p>
 <hr>
@@ -22,9 +43,39 @@ variant: tiptap
 <h3>Venue:</h3>
 <p>Classroom (E2-01)</p>
 <h3>Teachers I/C :</h3>
-<p>Mdm Siti Khadijah*
-<br>Mr Firdaus
-<br>Mdm Marcellian Arlany</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Siti Khadijah*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Firdaus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Marcellian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Amanpreet Gill</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h2>Brownies (Girl Guides)</h2>
 <hr>
