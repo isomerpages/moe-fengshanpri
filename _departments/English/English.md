@@ -15,62 +15,67 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Frances Yeo (HOD-EL)</p>
+<p>Mrs. Frances Yeo (HOD/EL)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Micki Hoe (Int)</p>
+<p>Mrs. Micki Hoe (LH/EL)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarinah Md Hussain</p>
+<p>Mdm. Zarinah Md Hussain (SH/CCE)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shanthi Panjiawarnam</p>
+<p>Ms. Shanthi Panjiawarnam (YH)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Charmaine Wee (AYH INT)</p>
+<p>Mdm. Tan Li Ting (HOD/CCE)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Soo Yin (ST)</p>
+<p>Mrs. Charmaine Wee (AYH)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanpreet Kaur Gill</p>
+<p>Ms. Chia Soo Yin (ST)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fannie Koh Hwee Hong</p>
+<p>Ms. Amanpreet Kaur Gill</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Jinghan</p>
+<p>Mdm. Fannie Koh Hwee Hong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Marisa Lee</p>
+<p>Mdm. Koh Jinghan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Meera d/o Pathmanathan</p>
+<p>Ms. Marisa Lee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norjahan Begum</p>
+<p>Ms. Meera d/o Pathmanathan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Norjahan Begum</p>
 </td>
 </tr>
 <tr>
@@ -80,17 +85,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Rahayu</p>
+<p>Mdm. Sri Rahayu</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Isabel Tay Rui Shan</p>
+<p>Mdm. Isabel Tay Rui Shan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Matsura Bte Sahidon (School Librarian)</p>
+<p>Mdm. Matsura Bte Sahidon (School Librarian)</p>
 </td>
 </tr>
 </tbody>
