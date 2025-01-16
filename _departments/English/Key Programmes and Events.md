@@ -8,19 +8,17 @@ variant: tiptap
 <h4><strong>Yearly ‘I love English’ week</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Organized on an annual basis</p>
+<p>Organised on an annual basis</p>
 </li>
 <li>
 <p>To enthuse, engage and motivate pupils in the learning of English</p>
 </li>
 <li>
-<p>School-wide activities such as assembly skits and talks by authors</p>
+<p>School-wide activities such as assembly skits and fringe activities</p>
 </li>
 <li>
-<p>Level activities such as competitions and performing arts items</p>
-</li>
-<li>
-<p>Recess activities such as online English-related games and book sale</p>
+<p>Recess activities such as online English-related games and book sale during
+recess</p>
 </li>
 </ol>
 <p></p>
@@ -35,12 +33,6 @@ variant: tiptap
 <li>
 <p>Class Borrowing from school library</p>
 </li>
-<li>
-<p>Story-telling at the library during recess</p>
-</li>
-<li>
-<p>Drop Everything And Read (DEAR) lessons for all levels</p>
-</li>
 </ol>
 <h4><strong>Oral Communication skills</strong></h4>
 <ol data-tight="true" class="tight">
@@ -51,7 +43,7 @@ variant: tiptap
 <p>Speech &amp; Drama lessons for P1&amp;P2 pupils</p>
 </li>
 <li>
-<p>One Minute of Fame conducted once a semester</p>
+<p>P3 Public speaking</p>
 </li>
 <li>
 <p>Oracy platforms in yearly ‘ I love English’ week</p>
@@ -60,14 +52,16 @@ variant: tiptap
 <h4><strong>Enrichment programmes</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Creative writing programme</p>
+<p>Creative writing programme (P4)</p>
+</li>
+<li>
+<p>Reading circles (P5)</p>
 </li>
 </ol>
 <h4><strong>Remediation for Lower Progress</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>P1 &amp; P2: Learning Support Programme (LSP), Reading Mum Programme,
-KidsREAD</p>
+<p>P1 &amp; P2: Learning Support Programme (LSP), KidsREAD</p>
 </li>
 <li>
 <p>P3 &amp;P4: Reading Remediation Programme (RRP) and School-Based Dyslexia
@@ -77,16 +71,13 @@ Remediation (SDR)</p>
 <p>P5 &amp; P6: Reading support for non-readers</p>
 </li>
 <li>
-<p>All levels: Pull-out support for weaker pupils in all levels</p>
+<p>P4 to P6 Achieve: Further support for pupils</p>
 </li>
 </ol>
 <h4><strong>Experiential programmes</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>P1 and P2: related to STELLAR texts</p>
-</li>
-<li>
-<p>P3-P6: Tie up with NE Learning Journey</p>
 </li>
 </ol>
 <h4><strong>ICT integration</strong></h4>
@@ -98,7 +89,7 @@ Remediation (SDR)</p>
 <p>MS PowerPoint for creation of e-books for P2 pupils</p>
 </li>
 <li>
-<p>Moway and coding for P3 and P4 pupils</p>
+<p>Curipod (P5 and P6)</p>
 </li>
 </ol>
 <p></p>
