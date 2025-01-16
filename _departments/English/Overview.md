@@ -21,4 +21,4 @@ core curriculum which the school adopts for English Language. STELLAR aims
 to strengthen children’s language and reading skills as well as promote
 a positive attitude towards learning in the foundation years. The programme
 uses research-based teaching strategies and age-appropriate materials to
-engage children in the learning of English.</p>
+engage children in the learning of English Language.</p>
