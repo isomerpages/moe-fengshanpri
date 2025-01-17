@@ -23,6 +23,16 @@ and Proficient Users, emphasizing on the three broad objectives of Communication
 Culture and Connection, so as to support and enable every student to learn
 Mother Tongue Language to as high a level as each student is able to.</p>
 <p></p>
+<h3>Our Key Programmes</h3>
+<p>Through these programmes, our students have the opportunities to build
+up their competencies in the respective languages and enhance their understanding
+of their own languages and cultures.</p>
+<p>1) MT Alive! (MTL Fortnight)</p>
+<p>2) INEX (whole-school Intensive and Extensive Reading Programme)</p>
+<p>3) Enrichment Programmes for different levels</p>
+<p>4) Cultural Performance Exposure Scheme (for CL, ML, TL)</p>
+<p></p>
+<p></p>
 <h3><strong>Mother Tongue Staff</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
