@@ -191,7 +191,5 @@ of their own languages and cultures.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>MT ALIVE</strong></h4>
-<p><a href="https://sites.google.com/moe.edu.sg/fsps-mt-alive/home" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/fsps-mt-alive/home</a>
-</p>
+<h4></h4>
 <p></p>
