@@ -5,17 +5,23 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Mother Tongue Department</strong></h3>
+<p>The Mother Tongue Languages Department offers the following languages
+in the school:</p>
+<p><strong>1) Chinese Language </strong>
+</p>
+<p><strong>2) Malay Language </strong>
+</p>
+<p><strong>3) Tamil Language </strong>
+</p>
 <h3><strong>Our Vision</strong></h3>
 <p>Every child fluent in his Mother Tongue and grounded in his culture.</p>
 <h3><strong>Our Mission</strong></h3>
-<p>To shape every child’s love for his culture and Mother Tongue through
-creativity and engagement.</p>
+<p>To shape every child’s love for his culture and Mother Tongue Language
+through creativity and engagement.</p>
 <p>The Mother Tongue Department is committed in nurturing Active Learners
 and Proficient Users, emphasizing on the three broad objectives of Communication,
 Culture and Connection, so as to support and enable every student to learn
-MTL to as high a level as each student is able to.</p>
-<p>Besides banding and differentiated instruction, we have the Mother Tongue
-reading programme, ICT home-based learning and other&nbsp;levelling programmes.</p>
+Mother Tongue Language to as high a level as each student is able to.</p>
 <p></p>
 <h3><strong>Mother Tongue Staff</strong></h3>
 <table style="minWidth: 25px">
