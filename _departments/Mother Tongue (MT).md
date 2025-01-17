@@ -191,5 +191,4 @@ of their own languages and cultures.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <p></p>
