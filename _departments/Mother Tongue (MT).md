@@ -178,7 +178,8 @@ of their own languages and cultures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Tamil Language Teachers</p>
+<p><strong>Tamil Language Teachers</strong>
+</p>
 </td>
 </tr>
 <tr>
