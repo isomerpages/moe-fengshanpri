@@ -1,6 +1,6 @@
 ---
-title: MK Orientation Day
-permalink: /mk-orientation-day/
+title: MK Open House
+permalink: /mk-openhouse/
 variant: tiptap
 description: ""
 ---

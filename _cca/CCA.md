@@ -51,9 +51,6 @@ and excel in activities outside the&nbsp;school curriculum.</p>
 <li>
 <p>Scouts</p>
 </li>
-<li>
-<p>Red Cross</p>
-</li>
 </ul>
 <h2>Visual &amp; Performing Arts</h2>
 <hr>
