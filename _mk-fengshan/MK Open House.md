@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h2>MK@Fengshan Open House 2025</h2>
-<p>Welcome to our upcoming Open House event. Here are the details and we
-look forward to meeting you soon!</p>
+<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MK@Fengshan Open House 2025" src="/images/MOE MK Files/MK Orientation Day/MK_Open_House_2025.png">
+</div>
 <h3>Attendance Registration Link</h3>
 <p>To be updated once confirmed.</p>
 <h4>Venue of Orientation Day</h4>
