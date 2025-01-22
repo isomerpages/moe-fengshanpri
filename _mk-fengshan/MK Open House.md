@@ -5,17 +5,19 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h2>MK@Fengshan Open House 2025</h2>
-<p>Welcome to our upcoming Open House event. Here are the details and we
-look forward to meeting you soon!</p>
+<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MK Open House 2025" src="/images/MOE MK Files/MK Orientation Day/1.png">
+</div>
 <h3>Attendance Registration Link</h3>
-<p>To be updated once confirmed.</p>
-<h4>Venue of Orientation Day</h4>
-<p>MOE Kindergarten @Fengshan, 307 Bedok North Road, Singapore 469680</p>
-<p>(<strong>Enter by Gate 5</strong>)</p>
-<h4>Time</h4>
-<p>To be updated once confirmed.</p>
-<h4>How to go to <strong>MK@Fengshan</strong></h4>
+<p><a href="https://go.gov.sg/mkoh2025" rel="noopener nofollow" target="_blank">Click here to register</a>
+</p>
+<h3>Venue of Orientation Day</h3>
+<h4><strong>Location</strong>: MOE Kindergarten @Fengshan,</h4>
+<p><strong>Address:</strong> 307 Bedok North Road, Singapore 469680</p>
+<p><strong>Enter by Gate 5 to MK@Fengshan (See below)</strong>
+</p>
+<h3>How to go to <strong>MK@Fengshan</strong></h3>
 <p><strong>Reporting area: </strong>Please enter by MK gate 5, located in
 the HDB carpark between block 412 and 413.</p>
 <p>(Please do not enter by the main gate to Fengshan Primary School)</p>
@@ -34,10 +36,9 @@ from HDB carpark located at Block 412 and Block 413.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/MK Orientation Day/Carpark_Entry.jpg">
 </div>
-<h3>Programme of Orientation Day</h3>
-<table style="minWidth: 50px">
+<h3>Programme of Orientation Day (Free and Easy)</h3>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -45,41 +46,26 @@ from HDB carpark located at Block 412 and Block 413.</p>
 <th rowspan="1" colspan="1">
 <p>Programme/Event</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Registration up arrival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Meet our hosts</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Explore MK free and easy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Fun activity stations for parents to try out with their nursery going
 children. Collect stickers and redeem a gift!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
 </td>
 </tr>
 </tbody>
