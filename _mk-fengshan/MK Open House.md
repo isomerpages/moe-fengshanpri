@@ -6,11 +6,14 @@ description: ""
 ---
 <p></p>
 <h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MK Open House 2025" src="/images/MOE MK Files/MK Orientation Day/1.png">
+</div>
 <h3>Attendance Registration Link</h3>
 <p><a href="https://go.gov.sg/mkoh2025" rel="noopener nofollow" target="_blank">Click here to register</a>
 </p>
 <h3>Venue of Orientation Day</h3>
-<h4><strong>Location</strong>: MOE Kindergarten @Fengshan, </h4>
+<h4><strong>Location</strong>: MOE Kindergarten @Fengshan,</h4>
 <p><strong>Address:</strong> 307 Bedok North Road, Singapore 469680</p>
 <p><strong>Enter by Gate 5 to MK@Fengshan (See below)</strong>
 </p>
