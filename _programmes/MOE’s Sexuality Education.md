@@ -16,7 +16,7 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<h4>2.	The <strong>Goals </strong>of Sexuality Education are:</h4>
+<h4>2. The <strong>Goals </strong>of Sexuality Education are:</h4>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -24,7 +24,7 @@ sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<h4>3.	The <strong>Key</strong> <strong>Messages</strong> of Sexuality Education are:</h4>
+<h4>3. The <strong>Key</strong> <strong>Messages</strong> of Sexuality Education are:</h4>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
@@ -35,8 +35,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click<strong> </strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a><strong> </strong>for
 more information on MOE Sexuality Education.</p>
-<p><strong> </strong>
-</p>
+<p></p>
 <h3><strong>OVERVIEW OF FENGSHAN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h3>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -46,7 +45,7 @@ information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
-<h4>Sexuality Education Lessons: </h4>
+<h4>Sexuality Education Lessons:</h4>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
