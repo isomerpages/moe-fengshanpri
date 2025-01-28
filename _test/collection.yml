@@ -2,6 +2,7 @@ collections:
   test:
     output: true
     order:
+      - Champion Mindset Attitude @ FSPS.md
       - The In–Box.md
       - Form Teacher Guidance Period.md
       - P6 Graduation Party.md
