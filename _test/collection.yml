@@ -2,6 +2,7 @@ collections:
   test:
     output: true
     order:
+      - P6 Graduation Party.md
       - Education Career Fair.md
       - PRRICE Winners.md
       - Toys From the Heart Programme.md
