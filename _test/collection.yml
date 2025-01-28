@@ -2,6 +2,7 @@ collections:
   test:
     output: true
     order:
+      - Programmes.md
       - Cyber Wellness.md
       - Principal’s Message.md
       - test.md
