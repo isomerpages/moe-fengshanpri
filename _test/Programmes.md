@@ -3,7 +3,7 @@ title: Programmes
 permalink: /departments/character-and-citizenry-education-cce/programmes/
 description: ""
 ---
-<h4><strong>Click on the links at the side to look at our department&rsquo;s programmes.</strong></h4>
+<h4><strong>Click on the links at the side to look at our department’s programmes.</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
