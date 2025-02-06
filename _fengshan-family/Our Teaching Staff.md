@@ -56,7 +56,7 @@ variant: tiptap
 <p>Senior Teacher (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_chiung_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_chiung_yao@moe.edu.sg</a>
+<p><a href="mailto:Huang_chiung-yao_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Huang_chiung-yao_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
