@@ -203,4 +203,5 @@ creations.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/Family Day 20th September 2024/Screenshot_2025_02_06_161047.png">
 </div>
 <p>Children had fun playing the water balloon game.</p>
+<h2><strong>P1 Transition Programme : 8th October 2024</strong></h2>
 <p></p>
