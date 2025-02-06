@@ -229,21 +229,4 @@ creations.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/Family Day 20th September 2024/Screenshot_2025_02_06_161047.png">
 </div>
 <p>Children had fun playing the water balloon game.</p>
-<h2><strong>P1 Transition Programme : 8th October 2024</strong></h2>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/P1 Trans Prog October 2024/Screenshot_2025_02_06_161743.png">
-</div>
-<p>Children learnt how to buy their own snack at the primary school canteen.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/P1 Trans Prog October 2024/Screenshot_2025_02_06_161754.png">
-</div>
-<p>Primary school children shared their primary school experiences with the
-K2 children.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/P1 Trans Prog October 2024/Screenshot_2025_02_06_161808.png">
-</div>
-<p>Children engaged in a story time session with the primary school children.</p>
-<p></p>
-<p></p>
 <p></p>
