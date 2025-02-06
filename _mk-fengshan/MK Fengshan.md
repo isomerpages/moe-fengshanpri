@@ -78,8 +78,9 @@ for children enrolled in our MK.</p>
 </tr>
 </tbody>
 </table>
-<h4>MK@Fengshan Operating Hours: 8.00 am to 5.00pm</h4>
-<h4>KCare Operating Hours: 7.00 am to 7.00 pm</h4>
+<h4>MK@Fengshan school session: 8.00 am to 12.00pm</h4>
+<h4>MK@Fengshan office hours: 8.00 am to 5.00pm</h4>
+<h4>KCare Operating Hours: 12.00 pm to 7.00 pm</h4>
 <h3>MK Application Form</h3>
 <p>Link to the how to register for MK 2025: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register</a>
 </p>
