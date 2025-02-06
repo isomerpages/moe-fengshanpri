@@ -45,6 +45,9 @@ hygiene.</p>
 </div>
 <p></p>
 <p>K2 Alumni - Together we grow.Together we shine.</p>
+<p></p>
+<h2><strong>K2 Celebrates : 25th October 2024</strong></h2>
+<p></p>
 <h2>Singapore Zoo Learning Journey - 11th August 2023</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20MK%20Files/11%20August%2023%20Singapore%20Zoo%20LJ/11th%20august%202023%20-%20singapore%20zoo%20learning%20journey%20pic%201.png">
@@ -67,6 +70,7 @@ we were still able to see some animals.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20MK%20Files/11%20August%2023%20Singapore%20Zoo%20LJ/11th%20august%202023%20-%20singapore%20zoo%20learning%20journey%20pic%205.png">
 </div>
 <p>The rain stopped after the show so we went on to explore</p>
+<p></p>
 <h2>National Day Celebration - 8th August 2023</h2>
 <p>As part of our National Day Celebrations, we collaborated with Fengshan
 Primary School and participated in the very first lower primary Sports
