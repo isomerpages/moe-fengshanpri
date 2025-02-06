@@ -8,6 +8,17 @@ variant: tiptap
 <p></p>
 <h2>Family Day - 20th September 2024</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Family Day 2024 Pic 1" src="/images/MOE MK Files/Family Day 20th September 2024/Screenshot_2025_02_06_160922.png">
+</div>
+<p>Parents and children warming up with a dance routine before a day of fun
+at Coastal Playgrove.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Family Day 2025 Pic 2" src="/images/MOE MK Files/Family Day 20th September 2024/Screenshot_2025_02_06_160941.png">
+</div>
+<p>Parents and children engaged in a toss ‘n catch game.</p>
+<p></p>
 <h2>Singapore Zoo Learning Journey - 11th August 2023</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20MK%20Files/11%20August%2023%20Singapore%20Zoo%20LJ/11th%20august%202023%20-%20singapore%20zoo%20learning%20journey%20pic%201.png">
