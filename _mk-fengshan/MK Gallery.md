@@ -30,10 +30,21 @@ at Coastal Playgrove.</p>
 </div>
 <p>Primary school children shared their primary school experiences with the
 K2 children.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/P1 Trans Prog October 2024/Screenshot_2025_02_06_161808.png">
+</div>
+<p>Children engaged in a story time session with the primary school children</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/P1 Trans Prog October 2024/Screenshot_2025_02_06_161833.png">
+</div>
+<p>Children visited the primary school dentist and learnt more about oral
+hygiene.</p>
 <p></p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/P1 Trans Prog October 2024/Screenshot_2025_02_06_161844.png">
+</div>
+<p></p>
+<p>K2 Alumni - Together we grow.Together we shine.</p>
 <h2>Singapore Zoo Learning Journey - 11th August 2023</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20MK%20Files/11%20August%2023%20Singapore%20Zoo%20LJ/11th%20august%202023%20-%20singapore%20zoo%20learning%20journey%20pic%201.png">
