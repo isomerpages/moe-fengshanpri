@@ -31,55 +31,62 @@ for children enrolled in our MK.</p>
 <p><strong>MK Virtual Tour:</strong>&nbsp;<a href="http://www.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour</a>
 </p>
 <h3>Our MK@Fengshan and KCare contact</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>MK@Fengshan</p>
+<p><strong>School Contact</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Office Number:</p>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MK@Fengshan</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>6343 2088</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>KCare contact</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Office Number:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>80201514</strong>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MK@Fengshan Email</strong>
-</p>
+<p>KCare contact</p>
+<p>(NASCANS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>mk_fengshan@moe.edu.sg</strong>
-</p>
-</td>
 </tr>
 </tbody>
 </table>
-<h4>MK@Fengshan Operating Hours: 8.00 am to 5.00pm</h4>
-<h4>KCare Operating Hours: 7.00 am to 7.00 pm</h4>
+<p></p>
+<h4>MK@Fengshan contact email:</h4>
+<blockquote>
+<p><a href="mailto:mk_fengshan@moe.edu.sg" rel="noopener nofollow" target="_blank">mk_fengshan@moe.edu.sg</a>
+</p>
+</blockquote>
+<p></p>
+<h4>MK@Fengshan school session:</h4>
+<blockquote>
+<p><strong>8.00 am to 12.00pm</strong>
+</p>
+</blockquote>
+<h4>MK@Fengshan office hours:</h4>
+<blockquote>
+<p><strong>8.00 am to 5.00pm</strong>
+</p>
+</blockquote>
+<h4>KCare Operating Hours:</h4>
+<blockquote>
+<p><strong>12.00 pm to 5.00pm</strong>
+</p>
+</blockquote>
 <h3>MK Application Form</h3>
 <p>Link to the how to register for MK 2025: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register</a>
 </p>
