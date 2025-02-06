@@ -59,8 +59,7 @@ for children enrolled in our MK.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>80201514</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -72,15 +71,27 @@ for children enrolled in our MK.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>mk_fengshan@moe.edu.sg</strong>
+<p><a href="mailto:mk_fengshan@moe.edu.sg" rel="noopener nofollow" target="_blank">mk_fengshan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>MK@Fengshan school session: 8.00 am to 12.00pm</h4>
-<h4>MK@Fengshan office hours: 8.00 am to 5.00pm</h4>
-<h4>KCare Operating Hours: 12.00 pm to 7.00 pm</h4>
+<h4>MK@Fengshan school session: </h4>
+<blockquote>
+<p><strong>8.00 am to 12.00pm</strong>
+</p>
+</blockquote>
+<h4>MK@Fengshan office hours: </h4>
+<blockquote>
+<p><strong>8.00 am to 5.00pm</strong>
+</p>
+</blockquote>
+<h4>KCare Operating Hours: </h4>
+<blockquote>
+<p><strong>12.00 pm to 5.00pm</strong>
+</p>
+</blockquote>
 <h3>MK Application Form</h3>
 <p>Link to the how to register for MK 2025: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register</a>
 </p>
