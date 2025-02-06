@@ -31,50 +31,36 @@ for children enrolled in our MK.</p>
 <p><strong>MK Virtual Tour:</strong>&nbsp;<a href="http://www.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/preschool/moe-kindergarten/mk-virtual-tour</a>
 </p>
 <h3>Our MK@Fengshan and KCare contact</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>MK@Fengshan</p>
+<p><strong>School Contact</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Office Number:</p>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MK@Fengshan</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>6343 2088</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>KCare contact</strong>
-</p>
-<p><strong>(NASCANS)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Office Number:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MK@Fengshan Email</strong>
-</p>
+<p>KCare contact</p>
+<p>(NASCANS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mk_fengshan@moe.edu.sg" rel="noopener nofollow" target="_blank">mk_fengshan@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
