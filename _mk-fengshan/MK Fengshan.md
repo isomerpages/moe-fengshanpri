@@ -53,6 +53,8 @@ for children enrolled in our MK.</p>
 <td rowspan="1" colspan="1">
 <p><strong>KCare contact</strong>
 </p>
+<p><strong>(NASCANS)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Office Number:</strong>
@@ -77,17 +79,17 @@ for children enrolled in our MK.</p>
 </tr>
 </tbody>
 </table>
-<h4>MK@Fengshan school session: </h4>
+<h4>MK@Fengshan school session:</h4>
 <blockquote>
 <p><strong>8.00 am to 12.00pm</strong>
 </p>
 </blockquote>
-<h4>MK@Fengshan office hours: </h4>
+<h4>MK@Fengshan office hours:</h4>
 <blockquote>
 <p><strong>8.00 am to 5.00pm</strong>
 </p>
 </blockquote>
-<h4>KCare Operating Hours: </h4>
+<h4>KCare Operating Hours:</h4>
 <blockquote>
 <p><strong>12.00 pm to 5.00pm</strong>
 </p>
