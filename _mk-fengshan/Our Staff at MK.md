@@ -20,7 +20,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>NAme</p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Designation</p>
@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Aaliyah May Decipeda</p>
+<p>Ms. Aaliyah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>K1 EL</p>
@@ -163,7 +163,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms.Quraisyah</p>
+<p>Ms. Quraisyah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>K2 EL</p>
