@@ -79,6 +79,13 @@ for children enrolled in our MK.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>MK@Fengshan contact email:</h4>
+<blockquote>
+<p><a href="mailto:mk_fengshan@moe.edu.sg" rel="noopener nofollow" target="_blank">mk_fengshan@moe.edu.sg</a>
+</p>
+</blockquote>
+<p></p>
 <h4>MK@Fengshan school session:</h4>
 <blockquote>
 <p><strong>8.00 am to 12.00pm</strong>
