@@ -177,18 +177,30 @@ Heartbeat@Bedok</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20MK%20Files/LJ%2028%20April%202023/mk%20pic%20012%20learning%20journey:%20heartbeat%20@%20bedok%20-%2028th%20april%202023.jpg">
 </div>
-<p>Children explored the different shops they can find in Bedok Town Central</p>
-<p>
+<p>Children explored the different shops they can find in Bedok Town Central
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20MK%20Files/LJ%2028%20April%202023/mk%20pic%20013%20learning%20journey:%20heartbeat%20@%20bedok%20-%2028th%20april%202023.jpg">
 </div>
-<p>Children entering Bedok Regional Library located in Heartbeat @ Bedok</p>
-<p>
+<p>Children entering Bedok Regional Library located in Heartbeat @ Bedok
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20MK%20Files/LJ%2028%20April%202023/mk%20pic%20014%20learning%20journey:%20heartbeat%20@%20bedok%20-%2028th%20april%202023.jpg">
 </div>
 <p>Recycling our bags at the recycling corner locatted in heartbeat</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/Family Day 20th September 2024/Screenshot_2025_02_06_161012.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/Family Day 20th September 2024/Screenshot_2025_02_06_161032.png">
+</div>
+<p>Children and parents joined forces to create their own boats using a variety
+of recycled materials, enjoying a friendly competition as they raced their
+creations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/Family Day 20th September 2024/Screenshot_2025_02_06_161047.png">
+</div>
+<p>Children had fun playing the water balloon game.</p>
+<p></p>
