@@ -49,7 +49,7 @@ HDB carpark located at Block 412 and Block 413.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Registration up arrival</p>
+<p>Registration upon arrival</p>
 </td>
 </tr>
 <tr>
