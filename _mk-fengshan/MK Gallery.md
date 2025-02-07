@@ -274,3 +274,7 @@ creations.</p>
 </div>
 <p>Children had fun playing the water balloon game.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/K2 Celebrates 25th Oct 2024/Screenshot_2025_02_07_102746.png">
+</div>
+<p></p>
