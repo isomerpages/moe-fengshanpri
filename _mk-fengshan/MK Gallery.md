@@ -48,6 +48,46 @@ hygiene.</p>
 <p></p>
 <h2><strong>K2 Celebrates : 25th October 2024</strong></h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/K2 Celebrates 25th Oct 2024/Screenshot_2025_02_07_071911.png">
+</div>
+<p>Registration for K2 Celebrates</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/K2 Celebrates 25th Oct 2024/Screenshot_2025_02_07_071926.png">
+</div>
+<p>Children marching in for K2 Celebrates</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/K2 Celebrates 25th Oct 2024/Screenshot_2025_02_07_071936.png">
+</div>
+<p>Children performed their opening dance</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/K2 Celebrates 25th Oct 2024/Screenshot_2025_02_07_071945.png">
+</div>
+<p>Narrator's bilingual introduction for the performance</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/K2 Celebrates 25th Oct 2024/Screenshot_2025_02_07_072304.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/K2 Celebrates 25th Oct 2024/Screenshot_2025_02_07_073539.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/K2 Celebrates 25th Oct 2024/Screenshot_2025_02_07_073552.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/K2 Celebrates 25th Oct 2024/Screenshot_2025_02_07_073605.png">
+</div>
+<p></p>
+<p>K2 Celebrates 2024 was inspired by the children’s WOW project, "Commotion
+in the Ocean." The children wrote and illustrated their own captivating
+storyline for the performance, which was beautifully transformed into a
+storybook.<strong>&nbsp;</strong>
+</p>
 <h2>Singapore Zoo Learning Journey - 11th August 2023</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20MK%20Files/11%20August%2023%20Singapore%20Zoo%20LJ/11th%20august%202023%20-%20singapore%20zoo%20learning%20journey%20pic%201.png">
