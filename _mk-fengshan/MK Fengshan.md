@@ -60,7 +60,7 @@ for children enrolled in our MK.</p>
 <p>(NASCANS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>+65 8157 5132</p>
 </td>
 </tr>
 </tbody>
