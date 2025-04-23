@@ -41,7 +41,7 @@ variant: tiptap
 <p>Mdm Theivanai d/o Palanisamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (TL)</p>
+<p>Lead Teacher (TL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:theivanai_palanisamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">theivanai_palanisamy@moe.edu.sg</a>
