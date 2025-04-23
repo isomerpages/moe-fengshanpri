@@ -19,6 +19,41 @@ sections:
           url: /about-us/school-matters/
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
+  - textcards:
+      title: Home-Based Learning
+      subtitle: Resources
+      id: textcards
+      description: Announcement
+      cards:
+        - title: Primary 1
+          description: HBL Resource Link
+          linktext: Click here
+          url: ""
+        - title: Primary 2
+          description: HBL Resource Link
+          linktext: Click here
+          url: ""
+        - title: Primary 3
+          description: HBL Resource Link
+          linktext: Click here
+          url: ""
+  - textcards:
+      title: Home-Based Learning
+      id: textcards
+      description: Announcement
+      cards:
+        - title: Primary 4
+          description: HBL Resource Link
+          linktext: Click here
+          url: ""
+        - title: Primary 5
+          description: HBL Resource Link
+          linktext: Click here
+          url: ""
+        - title: Primary 6
+          description: HBL Resource Link
+          linktext: Click here
+          url: ""
   - announcements:
       title: Announcements
       id: announcements
