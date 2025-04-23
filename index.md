@@ -20,7 +20,7 @@ sections:
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
   - textcards:
-      title: Home-Based Learning (Lower Primary)
+      title: Home-Based Learning
       subtitle: Resources
       id: textcards
       description: Announcement
@@ -38,7 +38,7 @@ sections:
           linktext: Click here
           url: ""
   - textcards:
-      title: Home-Based Learning (Upper Primary)
+      title: Home-Based Learning
       id: textcards
       description: Announcement
       cards:
