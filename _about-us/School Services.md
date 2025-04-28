@@ -200,11 +200,42 @@ information</p>
 <p>Registration form: Services will only be ready in Jan 2025</p>
 <p>Email: <a href="mailto:ask@nascans.com" rel="noopener noreferrer nofollow" target="_blank">ask@nascans.com</a>
 </p>
-<h3>Dental Clinic</h3>
-<p>Telephone No.: 6442 2459</p>
-<p>HPB Appointment No: <strong>6435 3782</strong>
+<h2>Dental Clinic</h2>
+<h4>Dental Contact Person</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact Person</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Dental Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>89402018</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Dental Opening hours</h4>
+<p><em>(Closed during lunch time from 1.00pm to 2.00pm)</em>
 </p>
-<h4>Opening hours</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -213,11 +244,19 @@ information</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Day</p>
+<p>Title</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time</p>
+<p>Contact Person</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Dental Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Lee</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -237,6 +276,9 @@ information</p>
 </tr>
 </tbody>
 </table>
+<p>Notes: During closure, for emergencies (e.g. swelling or unable to eat
+or sleep due to toothache), please contact at <strong>91122045</strong> (St
+Stephen Primary)</p>
 <p></p>
 <h4>For Emergency</h4>
 <table style="minWidth: 25px">
