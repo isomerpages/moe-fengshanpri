@@ -280,32 +280,3 @@ information</p>
 or sleep due to toothache), please contact at <strong>91122045</strong> (St
 Stephen Primary)</p>
 <p></p>
-<h4>For Emergency</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Contact for Dental Assistant</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>89402018</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>91122045</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>89401058</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
