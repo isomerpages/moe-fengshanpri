@@ -90,5 +90,5 @@ for children enrolled in our MK.</p>
 <h3>MK Application Form</h3>
 <p>Link to the how to register for MK 2025: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register</a>
 </p>
-<p>MK waitlist link: <a href="go.gov.sg/mkfs-waitlistform" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mkfs-waitlistform</a>
+<p>MK waitlist link: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mkfs-waitlistform</a>
 </p>
