@@ -4,7 +4,7 @@ permalink: /service-providers/
 variant: tiptap
 description: ""
 ---
-<h3><strong><u>School Bus Advertisement</u></strong></h3>
+<h1><strong>School Bus Advertisement</strong></h1>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
 <p></p>
