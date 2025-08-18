@@ -11,22 +11,24 @@ Procedure below.</p>
 <h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Call for Proposal (<em>to attach File #1</em>)</p>
+<p><a href="/files/Fengshan Document Links/Service Providers/1_call for proposal .pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+</p>
 </li>
 <li>
-<p>Terms and Conditions for School Bus Operator to Provide School Bus Services
-(<em>to attach File #3</em>)</p>
+<p><a href="/files/Fengshan Document Links/Service Providers/3_terms and conditions for school bus operator .pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a> 
+</p>
 </li>
 <li>
-<p>Request for School Bus Services (<em>to attach file #4</em>)</p>
+<p><a href="/files/Fengshan Document Links/Service Providers/4_request for school bus services .pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a> 
+</p>
 <p></p>
 </li>
 </ol>
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Complete the Call for Proposal –</strong> Annex A (Information
-Required from Vendor) (to attach File #2)</p>
+<p><strong><a href="/files/Fengshan Document Links/Service Providers/2_information required from vendor.pdf" rel="noopener noreferrer nofollow" target="_blank">Complete the Call for Proposal –</a></strong>
+<a href="/files/Fengshan Document Links/Service Providers/2_information required from vendor.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>(Information Required from Vendor)</p>
 </li>
 <li>
 <p><strong>Submit the completed Call for Proposal </strong>– Annex A by 26
@@ -46,7 +48,7 @@ Aug 2025, 1pm to the School’s General Office.</p>
 <a href="mailto:esther_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">esther_wee@schools.gov.sg</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Contact Person: Ms Esther Wee</p>
+<p>Contact Person: Ms. Esther Wee</p>
 </li>
 </ul>
 <p>&nbsp;</p>
