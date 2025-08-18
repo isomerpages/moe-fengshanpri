@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs. Micki Hoe (LH/EL)</p>
+<p>Mrs. Micki Koh (LH/EL)</p>
 </td>
 </tr>
 <tr>
