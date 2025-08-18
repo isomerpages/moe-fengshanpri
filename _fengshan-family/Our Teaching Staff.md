@@ -911,7 +911,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Hoe Mei Fong Micki</p>
+<p>Mrs. Micki Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoe_mei_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_mei_fong@moe.edu.sg</a>
