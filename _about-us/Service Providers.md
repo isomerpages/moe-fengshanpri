@@ -15,11 +15,11 @@ Procedure below.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Fengshan Document Links/Service Providers/3_terms and conditions for school bus operator .pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a> 
+<p><a href="/files/Fengshan Document Links/Service Providers/3_terms and conditions for school bus operator .pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Fengshan Document Links/Service Providers/4_request for school bus services .pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a> 
+<p><a href="/files/Fengshan Document Links/Service Providers/4_request for school bus services .pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
 </p>
 <p></p>
 </li>
@@ -51,7 +51,7 @@ Aug 2025, 1pm to the School’s General Office.</p>
 <p>Contact Person: Ms. Esther Wee</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <h4><strong>How to get there?</strong></h4>
 <p>Nearest MRT: Bedok MRT (EW5 line)</p>
 <p>Bus number: 17, 45</p>
