@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Hoe Mei Fong Micki</p>
+<p>Mrs. Micki Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head</p>
