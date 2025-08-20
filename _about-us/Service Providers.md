@@ -11,7 +11,7 @@ Procedure below.</p>
 <h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Fengshan Document Links/Service Providers/1_call for proposal .pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+<p><a href="/files/Fengshan Document Links/Service Providers/1_Call_for_Proposals_For_Single_Bus_Service.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
 </p>
 </li>
 <li>
@@ -31,8 +31,8 @@ Procedure below.</p>
 <a href="/files/Fengshan Document Links/Service Providers/2_information required from vendor.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>(Information Required from Vendor)</p>
 </li>
 <li>
-<p><strong>Submit the completed Call for Proposal </strong>– Annex A by 26
-Aug 2025, 1pm to the School’s General Office.</p>
+<p><strong>Submit the completed Call for Proposal </strong>– Annex A by 2
+Sep 2025, 1pm to the School’s General Office.</p>
 </li>
 </ol>
 <p></p>
