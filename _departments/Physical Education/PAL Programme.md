@@ -3,72 +3,169 @@ title: PAL Programme
 permalink: /departments/physical-education/pal-programme/
 description: ""
 third_nav_title: Physical Education
+variant: tiptap
 ---
 <h4><strong>Programme for Active Learning (PAL)</strong></h4>
-<ul>
-<li>an extension to the existing curriculum for PE, Music and Art</li>
-<li>one of the recommendations from the Primary Education Review &amp; Implementation (PERI) (March 2009)</li>
-<li>builds and strengthens the Non-Academic Programme within the formal curriculum</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>an extension to the existing curriculum for PE, Music and Art</p>
+</li>
+<li>
+<p>one of the recommendations from the Primary Education Review &amp; Implementation
+(PERI) (March 2009)</p>
+</li>
+<li>
+<p>builds and strengthens the Non-Academic Programme within the formal curriculum</p>
+</li>
 </ul>
 <h4><strong>Objectives</strong></h4>
-<ul>
-<li>Provide pupils with broad exposure and experiences through fun and varied activities in Sports &amp; Games, Outdoor Education, Performing Arts &amp; Visual Arts</li>
-<li>Facilitate all rounded development of pupils in the 5 learning domains (Moral/Cognitive/Physical/Social/Aesthetics)</li>
-<li>Provide varied avenues for pupils to develop social and emotional&nbsp;competencies</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide pupils with broad exposure and experiences through fun and varied
+activities in Sports &amp; Games, Outdoor Education, Performing Arts &amp;
+Visual Arts</p>
+</li>
+<li>
+<p>Facilitate all rounded development of pupils in the 5 learning domains
+(Moral/Cognitive/Physical/Social/Aesthetics)</p>
+</li>
+<li>
+<p>Provide varied avenues for pupils to develop social and emotional&nbsp;competencies</p>
+</li>
 </ul>
 <h4><strong>PAL Characteristics</strong></h4>
-<ul>
-<li>Experiential</li>
-<li>Fun &amp; Enjoyable</li>
-<li>Encompasses learning in a creative way</li>
-<li>Provides opportunities for children to create</li>
-<li>Incorporates values education and social &amp; emotional learning</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Experiential</p>
+</li>
+<li>
+<p>Fun &amp; Enjoyable</p>
+</li>
+<li>
+<p>Encompasses learning in a creative way</p>
+</li>
+<li>
+<p>Provides opportunities for children to create</p>
+</li>
+<li>
+<p>Incorporates values education and social &amp; emotional learning</p>
+</li>
 </ul>
 <h4><strong>PAL Learning Outcomes</strong></h4>
-<ul>
-<li>Exhibit confidence in what they do &amp; express themselves effectively</li>
-<li>Exhibit curiosity &amp; positive attitudes to learn</li>
-<li>Enjoy group experiences &amp; teamwork</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Exhibit confidence in what they do &amp; express themselves effectively</p>
+</li>
+<li>
+<p>Exhibit curiosity &amp; positive attitudes to learn</p>
+</li>
+<li>
+<p>Enjoy group experiences &amp; teamwork</p>
+</li>
 </ul>
 <h4><strong>PAL Structure</strong></h4>
-<ul>
-<li>Adherence to MOE guidelines</li>
-<li>Alignment to school&rsquo;s Strategic Trusts</li>
-<li>ST1: Empowering Students (Leveraging on PAL to provide pupils with wider exposure to PE/Art/Music)</li>
-<li>ST2: Enabling Staff (Seeking opportunities, creating space to learn and improve competency in PAL facilitation)</li>
-<li>ST3: Engaging Stakeholders (Establishing partnership with schools to share and learn from their experiences in PAL implementation)</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Adherence to MOE guidelines</p>
+</li>
+<li>
+<p>Alignment to school’s Strategic Trusts</p>
+</li>
+<li>
+<p>ST1: Empowering Students (Leveraging on PAL to provide pupils with wider
+exposure to PE/Art/Music)</p>
+</li>
+<li>
+<p>ST2: Enabling Staff (Seeking opportunities, creating space to learn and
+improve competency in PAL facilitation)</p>
+</li>
+<li>
+<p>ST3: Engaging Stakeholders (Establishing partnership with schools to share
+and learn from their experiences in PAL implementation)</p>
+</li>
 </ul>
 <p>3 domains from PAL have been implemented in P1 &amp; P2 Time-table</p>
-<ul>
-<li>Visual Art</li>
-<li>Performing Arts</li>
-<li>Sports &amp; Games</li>
-<li>Outdoor Education</li>
-<li>14 sessions of at least 1hr/session/domain</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visual Art</p>
+</li>
+<li>
+<p>Performing Arts</p>
+</li>
+<li>
+<p>Sports &amp; Games</p>
+</li>
+<li>
+<p>Outdoor Education</p>
+</li>
+<li>
+<p>14 sessions of at least 1hr/session/domain</p>
+</li>
 </ul>
 <p>* (Teacher-Facilitated)</p>
-<ul>
-<li>Classes placed into 3 groups
-<ul>
-<li>(~30 pupils per class)</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>Classes placed into 3 groups</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>(~30 pupils per class)</p>
+</li>
 </ul>
 </li>
-<li>P1s will complete Visual Arts, Outdoor Education and Performing Arts</li>
-<li>P2s will complete Visual Arts, Sports and Performing Arts</li>
+<li>
+<p>P1s will complete Visual Arts, Outdoor Education and Performing Arts</p>
+</li>
+<li>
+<p>P2s will complete Visual Arts, Sports and Performing Arts</p>
+</li>
 </ul>
-<img style="width: 70%;" src="/images/pal.png" />
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" src="/images/pal.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/pal1.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/pal2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/pal3.jpg"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/pal1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/pal2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/pal3.jpg">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/pal4.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/pal5.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/pal6.jpg"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/pal4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/pal5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/pal6.jpg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
-<img src="/images/pal7.jpg">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/pal7.jpg">
+</div>
+<p></p>
