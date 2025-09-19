@@ -127,19 +127,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Jumadi Bin Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head</p>
-<p>PE &amp; CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jumadi_b_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jumadi_b_ahmad@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms. Choy Wai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
