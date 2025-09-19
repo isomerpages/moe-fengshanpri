@@ -81,4 +81,4 @@ and excel in activities outside the&nbsp;school curriculum.</p>
 <p>Science and Environmental Club</p>
 </li>
 </ul>
-<p>CCA Overall &nbsp;I/C: Mr Ivan Teo (PE/CCA HOD), Mr Jumadi (PE/CCA SH)</p>
+<p>CCA Overall &nbsp;I/C: Mr Ivan Teo (PE/CCA HOD)</p>
