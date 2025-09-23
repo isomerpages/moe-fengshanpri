@@ -34,8 +34,8 @@ while building their executive capacity and socialemotional</p>
 <h2>In-house Programme: Bridges -</h2>
 <h2>Building Readiness and Easing Entry To School</h2>
 <p>Tier 2 transition support for K2 children with behavioural and learning
-needs, focusing on building classroom functioning, social-emotional and</p>
-<p>communication skills, as well as self regulation.</p>
+needs, focusing on building classroom functioning, social-emotional and
+communication skills, as well as self regulation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE MK Files/2025 In House Programmes/bridge building pic 1.png">
 </div>
