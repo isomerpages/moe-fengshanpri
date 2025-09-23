@@ -103,13 +103,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Jenefer</p>
+<p>Ms. Jefrin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>K1 / K2 TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joseph_edwin_selvakumar_patric@moe.edu.sg" rel="noopener nofollow" target="_blank">joseph_edwin_selvakumar_patric@moe.edu.sg</a>
+<p><a href="mailto:mohamed_jahabar_sadik_jefrin@moe.edu.sg" rel="noopener nofollow" target="_blank">mohamed_jahabar_sadik_jefrin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
