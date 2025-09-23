@@ -5,9 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h1>Our Kindergarten Gallery</h1>
+<h1>In-House Programmes 2025</h1>
+<p></p>
+<h2>In-house Programme: Little Bravehearts</h2>
+<p></p>
 <p></p>
 <h2>Family Day - 20th September 2024</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Family Day 2024 Pic 1" src="/images/MOE MK Files/Family Day 20th September 2024/Screenshot_2025_02_06_160922.png">
 </div>
