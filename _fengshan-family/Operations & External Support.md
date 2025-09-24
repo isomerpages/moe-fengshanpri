@@ -60,14 +60,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Soh Cheng Kee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms. Ong Siew Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Nurain binte Udi Suriadi</p>
+<p>Miss Victoria Lu Xue-Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer (NCS)</p>
