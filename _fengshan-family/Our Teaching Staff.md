@@ -1011,18 +1011,6 @@ variant: tiptap
 <p>Allied Educator (Special Educational Needs Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. A Rabiyathul Basiria</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:a_rabiyathul_basiria@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">a_rabiyathul_basiria@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Allied Educator (Special Educational Needs Officer)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms. Natalie Peters</p>
 </td>
 <td rowspan="1" colspan="1">
