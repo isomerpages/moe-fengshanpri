@@ -20,14 +20,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Esther Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr. Muhammad Fariz</p>
 </td>
 <td rowspan="1" colspan="1">
