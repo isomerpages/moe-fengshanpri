@@ -68,6 +68,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr.Lee Yong Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Chong Kwee Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer - Adjunct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr. Jamil Calope Omar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +120,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Library Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Alvin Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Security Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Mohd Sultan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Security Officer</p>
 </td>
 </tr>
 </tbody>
