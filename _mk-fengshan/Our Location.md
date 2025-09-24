@@ -1,5 +1,5 @@
 ---
-title: MK Open House
+title: Our Location
 permalink: /mk-openhouse/
 variant: tiptap
 description: ""

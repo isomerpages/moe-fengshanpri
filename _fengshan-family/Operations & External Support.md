@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Soh Cheng Kee</p>
+<p>Ms. Ong Siew Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -68,10 +68,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Ong Siew Hwa</p>
+<p>Mr. Lee Yong Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Chong Kwee Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer - Adjunct</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Nurain binte Udi Suriadi</p>
+<p>Miss Victoria Lu Xue-Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer (NCS)</p>
@@ -100,10 +108,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm. Muzirah bte Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lab Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Mastura binte Sahidon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Library Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Alvin Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Security Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Mohd Sultan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Security Officer</p>
 </td>
 </tr>
 </tbody>
