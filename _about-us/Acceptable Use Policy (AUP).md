@@ -35,26 +35,6 @@ are not authorized to.</p>
 <li>
 <p>You are reminded that the use of learning devices and school’s EdTech
 resources should solely be for the purpose of learning.</p>
-<p>[For Secondary Schools] Using your PLD</p>
-</li>
-<li>
-<p>You are responsible for your PLD. In the event of loss or theft of the
-device, you must make a police report and report the matter to the school.</p>
-</li>
-<li>
-<p>In order to have a positive learning experience, you should ensure that
-your PLD is fully charged before bringing it to school. Should you need
-to charge your PLD in school, you should only do so at the school’s designated
-charging stations, during recess and/or after-school hours. [1]</p>
-</li>
-<li>
-<p>You are reminded to keep your PLD updated by installing the relevant patches
-and updates when being prompted by the system.</p>
-</li>
-<li>
-<p>All PLDs are installed with a Device Management Application (DMA) to support
-a safe and conducive learning environment.&nbsp; You should not attempt
-to bypass the DMA.</p>
 </li>
 <li>
 <p>You are responsible for regularly backing up your learning materials in
@@ -156,7 +136,7 @@ one hour before bedtime.</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<h4><strong>&nbsp;Footnotes</strong></h4>
+<h4><strong>Footnotes</strong></h4>
 <p>[1] Schools can customise this in accordance with existing school routines.</p>
 <p>[2] Schools can add link to the “Digital Literacy and Technological Skills
 – File Management and Data Backup” Module on SLS</p>
