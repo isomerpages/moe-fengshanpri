@@ -48,20 +48,33 @@ your PLD to prevent data loss. [2]</p>
 should not post online remarks that are</p>
 </li>
 </ol>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Racially and/or religiously
-insensitive,</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vulgar and/or offensive, or</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hurtful to others.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Racially and/or religiously insensitive,</p>
+</li>
+<li>
+<p>Vulgar and/or offensive, or</p>
+</li>
+<li>
+<p>Hurtful to others.</p>
+</li>
+</ul>
 <ol start="9" data-tight="true" class="tight">
 <li>
 <p>You should not use any devices to</p>
 </li>
 </ol>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Store, modify, create or share
-content (e.g. documents, presentations, pictures and videos) that is inappropriate
-(e.g. indecent, pornographic, defamatory, hurtful to self or others).</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make threats, cause harassment
-or embarrassment, impersonate or intimidate others.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Store, modify, create or share content (e.g. documents, presentations,
+pictures and videos) that is inappropriate (e.g. indecent, pornographic,
+defamatory, hurtful to self or others).</p>
+</li>
+<li>
+<p>Make threats, cause harassment or embarrassment, impersonate or intimidate
+others.</p>
+</li>
+</ul>
 <p>10.&nbsp; <strong>You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).</strong>
 </p>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
