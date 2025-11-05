@@ -38,7 +38,7 @@ resources should solely be for the purpose of learning.</p>
 </li>
 <li>
 <p>You are responsible for regularly backing up your learning materials in
-your PLD to prevent data loss. [2]</p>
+your PLD to prevent data loss.</p>
 </li>
 </ol>
 <h2><strong>Being a Responsible Digital Citizen</strong></h2>
@@ -78,8 +78,7 @@ others.</p>
 <p>10.&nbsp; <strong>You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).</strong>
 </p>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
-with the school’s discipline policy.<a href="https://sgc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en%2DUS&amp;rs=en%2DUS&amp;hid=00E9D5A1%2DC01D%2D4000%2D19E3%2D116D51FE4C64%2E0&amp;WOPISrc=https%3A%2F%2Fsgmoe%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Fmuhammad%5Ffariz%5Fmohamed%5Fzain%5Fschools%5Fgov%5Fsg%2F%5Fvti%5Fbin%2Fwopi%2Eashx%2Ffiles%2F880a864574ce4ef9ae3dea1adaa94ca9&amp;&amp;&amp;sc=%7B%22pmo%22%3A%22https%3A%2F%2Fsgmoe-my.sharepoint.com%22%2C%22pmshare%22%3Atrue%7D&amp;dchat=1%2C1&amp;wdOrigin=AppModeSwitch&amp;wdprevioussession=ccb0bcfc%2D6a3d%2D4302%2D8f81%2D882225ee5e07%2C3ec32f4a%2De355%2Daae1%2Dd328%2D914662ee3a86&amp;wdprevioussessionsrc=AppHomeWeb&amp;wdenableroaming=1&amp;wdodb=1&amp;wdlcid=en%2DUS&amp;wdhostclicktime=1762218158370&amp;wdredirectionreason=Unified%5FSingleFlush&amp;wdModeSwitchTime=1762220278224&amp;wdPid=9DD4843&amp;wdPreviousSession=c46b3ce0-2306-485d-9f75-3121da424098&amp;uih=sharepointcom&amp;sftc=1&amp;jsApi=1&amp;jsapiver=v2&amp;muv=1&amp;uihit=docaspx&amp;pdcn=pdc5c4f#_ftn3" rel="noopener noreferrer nofollow" target="_blank"><sup>[3]</sup></a>
-</p>
+with the school’s discipline policy.</p>
 <h2><strong>Respecting Copyright</strong></h2>
 <ol start="11" data-tight="true" class="tight">
 <li>
@@ -100,7 +99,7 @@ each AI tool's age restrictions before using it.</p>
 </li>
 <li>
 <p>If the use of AI is permitted, you should acknowledge the use of AI in
-weighted assessments and homework as required.<sup> </sup><strong><sup>[3]</sup></strong>
+weighted assessments and homework as required.<sup> </sup>
 </p>
 </li>
 <li>
@@ -113,8 +112,7 @@ yourself if you pass off other’s work as your own.</p>
 <ol start="16" data-tight="true" class="tight">
 <li>
 <p>You should report any incidents (e.g. unusual device behaviour or inappropriate
-use of devices), to the school. <strong>[4]</strong>
-</p>
+use of devices), to the school.</p>
 </li>
 <li>
 <p>You are reminded to develop online safety habits. This includes not disclosing
@@ -149,11 +147,5 @@ one hour before bedtime.</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<h4><strong>Footnotes</strong></h4>
-<p>[1] Schools can customise this in accordance with existing school routines.</p>
-<p>[2] Schools can add link to the “Digital Literacy and Technological Skills
-– File Management and Data Backup” Module on SLS</p>
-<p>[3] Schools can customise this in accordance with existing school rules
-/ classroom routines.</p>
-<p>[4] School can request students to inform Form Teacher or provide an email
-of the ICT team for students to report</p>
+<h4></h4>
+<p></p>
