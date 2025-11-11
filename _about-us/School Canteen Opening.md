@@ -26,16 +26,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>-</strong>
+<p>Chinese Cooked Food Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>28 November 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Closed</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>-</strong>
-</p>
+<p>Menu may include noodle and/or rice items</p>
 </td>
 </tr>
 </tbody>
@@ -46,22 +44,44 @@ variant: tiptap
 during School Term.</p>
 <h4>Requirements</h4>
 <p>Applicants should meet the following criteria (for any openings):</p>
-<p><strong>Singapore Citizens or Singapore Permanent Resident.</strong>
-</p>
-<p><strong>Adhere to Healthy Meals in School Programme (HMSP) where all food sold must meet the programme requirement. Please see details at (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).</strong>
-</p>
-<p><strong>Able to provide good service and quality food at reasonable prices in consultation with school.</strong>
-</p>
-<p><strong>Maintain high standard of food and personal hygiene set out by National Environment Agency (NEA) for food handlers.</strong>
-</p>
-<p><strong>Applicant must be in personal attendance at the stall during operating hours</strong>
-</p>
-<p><strong>Both applicant &amp; stall assistant(s) must have passed the WSQ Basic Food Hygiene Course conducted by any of the accredited training providers appointed by WDA (Workforce Development Agency).</strong>
-</p>
-<p><strong>Successful applicant will need to apply for a hawker license from NEA.</strong>
-</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Singapore Citizens or Singapore Permanent Resident.</p>
+</li>
+<li>
+<p>Adhere to Healthy Meals in School Programme (HMSP) where all food sold
+must meet the programme requirement. Please see details at (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).</p>
+</li>
+<li>
+<p>Able to provide good service and quality food at reasonable prices in
+consultation with school.</p>
+</li>
+<li>
+<p>Maintain high standard of food and personal hygiene set out by National
+Environment Agency (NEA) for food handlers.</p>
+</li>
+<li>
+<p>Applicant must be in personal attendance at the stall during operating
+hours</p>
+</li>
+<li>
+<p>Both applicant &amp; stall assistant(s) must have passed the WSQ Basic
+Food Hygiene Course conducted by any of the accredited training providers
+appointed by WDA (Workforce Development Agency).</p>
+</li>
+<li>
+<p>Successful applicant will need to apply for a hawker license from NEA.</p>
+</li>
+<li>
 <p>Applicants with relevant experience in a school canteen or with catering
 experience is preferred.</p>
+</li>
+<li>
+<p>Shortlisted applicants would be notified for an interview and will be
+required to provide food sampling for the School Canteen Selection Committee
+at the applicant’s own expense. &nbsp;</p>
+</li>
+</ol>
 <h4>Application Procedure and Food Tasting</h4>
 <p>Download and complete the application form link below. You may also request
 for a hardcopy from the School’s General Office.</p>
