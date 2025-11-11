@@ -38,7 +38,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Fengshan Primary School not inviting any openings at the moment.</p>
+<p>Fengshan Primary School is inviting applicants to operate a “Chinese Cooked
+Food Stall”. Menu may include noodle and/or rice items.</p>
 <p>We are a single session school with an estimated student population of
 1200. The canteen operating hours are from Mondays to Fridays, 7am to 3pm
 during School Term.</p>
