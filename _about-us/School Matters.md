@@ -5,12 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>School Operating Hours</h2>
-<h4>All Level School hours (except on Tuesday for Primary 4,5 and 6)</h4>
+<h4>All Level School hours</h4>
 <p>P1 Pupils will be dismissed 10 mins earlier on in Term 1 ( i.e. at 1.20pm
 on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -22,11 +21,7 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 <p>Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>School hours on <u>Monday, Thursday and Friday</u>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>School hours on <u>Wednesday</u>
+<p>School hours on <u>Monday to Friday</u>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -42,16 +37,13 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. – 1.20 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 a.m. – 1.05 p.m.</p>
+<p>7.30 a.m. – 1.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.45 a.m. – 10.15 a.m.</p>
+<p>8.50 a.m. to 9.30 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -63,13 +55,10 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 <p>7.30 a.m. – 1.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. – 1.15 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Gate 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.15 a.m. – 9.45 a.m.</p>
+<p>9.50 a.m. to 1030 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -81,13 +70,10 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 <p>7.30 a.m. – 1.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. – 1.15 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Gate 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.45 a.m. – 9.15 a.m.</p>
+<p>10.50 a.m. to 11.30 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -99,13 +85,10 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 <p>7.30 a.m. – 1.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. – 1.15 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Gate 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.15 a.m. – 10.45 a.m.</p>
+<p>9.10 a.m. to 9.50 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -117,13 +100,10 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 <p>7.30 a.m. – 1.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. – 1.15 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Gate 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.15 a.m. – 11.45 a.m.</p>
+<p>10.10 a.m. to 10.50 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -135,13 +115,10 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 <p>7.30 a.m. – 1.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. – 1.15 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Gate 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.45 a.m. – 11.15 a.m.</p>
+<p>11.10 a.m. to 11.50 a.m.</p>
 </td>
 </tr>
 </tbody>
@@ -157,60 +134,6 @@ daily</p>
 prevailing situation in 2024</p>
 </li>
 </ol>
-<h4>School hours on Tuesday for Primary 4,5 and 6</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>School hours on Tuesday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Dismissal Gate</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 a.m. –2.30 p.m</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gate 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 a.m. –2.30 p.m</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gate 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 a.m. –2.30 p.m</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gate 1</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>* All pupils are given an additional 10-minute snack break.</strong>
 </p>
 <p><strong>[Do refer to updates on dismissal timings sent through Parents Gateway]</strong>
