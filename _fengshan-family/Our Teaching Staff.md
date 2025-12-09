@@ -6,8 +6,10 @@ variant: tiptap
 ---
 <h1>Our Teaching Staff 2025</h1>
 <h2>Teacher Leaders</h2>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -23,6 +25,12 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Form Teacher Email</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -34,6 +42,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:allen_losey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">allen_losey@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -47,6 +61,12 @@ variant: tiptap
 <p><a href="mailto:theivanai_palanisamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">theivanai_palanisamy@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -59,17 +79,11 @@ variant: tiptap
 <p><a href="mailto:Huang_chiung-yao_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Huang_chiung-yao_1@moe.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Soo Yin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (English)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chia_soo_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_soo_yin@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -97,18 +111,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>P1A</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms. Meera Pathmanathan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:meera_pathmanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meera_pathmanathan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr. Ivan Teo</p>
 </td>
@@ -268,7 +273,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>P2B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -276,15 +281,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_bee_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_bee_choo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Ramzathumunnisha (Mrs Haja)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ramzathumunnisha_nazurudee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramzathumunnisha_nazurudee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -361,7 +357,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P2F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -378,15 +374,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jessica_tsang_sien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_tsang_sien@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Wong Kah Wai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_kah_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kah_wai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -415,18 +402,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P3A</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Tay Rui Shan Isabel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_rui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_rui_shan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Elsa Sahida Binte Md Kassim</p>
 </td>
@@ -1011,18 +989,6 @@ variant: tiptap
 <p>Allied Educator (Counselling)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Suvitha Pillai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suvitha_g_k_pillai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suvitha_g_k_pillai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Allied Educator (Counselling)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm. Gurneet Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1350,18 +1316,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:theivanai_palanisamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">theivanai_palanisamy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TAMIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Ramzathumunnisha (Mrs Haja)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ramzathumunnisha_nazurudee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramzathumunnisha_nazurudee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
