@@ -1328,18 +1328,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TAMIL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Ramzathumunnisha (Mrs Haja)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ramzathumunnisha_nazurudee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramzathumunnisha_nazurudee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h2>Physical Education (PE) Teachers</h2>
