@@ -273,7 +273,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>P2B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -281,15 +281,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_bee_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_bee_choo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Ramzathumunnisha (Mrs Haja)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ramzathumunnisha_nazurudee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramzathumunnisha_nazurudee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
