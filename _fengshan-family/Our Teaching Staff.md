@@ -111,18 +111,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>P1A</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms. Meera Pathmanathan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:meera_pathmanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meera_pathmanathan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr. Ivan Teo</p>
 </td>
@@ -375,7 +366,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P2F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -392,15 +383,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jessica_tsang_sien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_tsang_sien@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Wong Kah Wai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_kah_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kah_wai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -429,18 +411,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P3A</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Tay Rui Shan Isabel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_rui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_rui_shan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Elsa Sahida Binte Md Kassim</p>
 </td>
