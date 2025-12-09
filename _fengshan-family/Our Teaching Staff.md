@@ -6,8 +6,10 @@ variant: tiptap
 ---
 <h1>Our Teaching Staff 2025</h1>
 <h2>Teacher Leaders</h2>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -23,6 +25,12 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Form Teacher Email</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -34,6 +42,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:allen_losey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">allen_losey@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -47,6 +61,12 @@ variant: tiptap
 <p><a href="mailto:theivanai_palanisamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">theivanai_palanisamy@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -59,17 +79,11 @@ variant: tiptap
 <p><a href="mailto:Huang_chiung-yao_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Huang_chiung-yao_1@moe.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Soo Yin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (English)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chia_soo_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_soo_yin@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1005,18 +1019,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Contact Email</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Allied Educator (Counselling)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Suvitha Pillai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suvitha_g_k_pillai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suvitha_g_k_pillai@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
