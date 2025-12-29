@@ -40,3 +40,8 @@ links:
         url: /explore/for-staff/
       - title: Music Learning @ FSPS
         url: https://sites.google.com/moe.edu.sg/musiclearningfsps
+  - title: MK@Fengshan
+    url: https://sites.google.com/moe.edu.sg/mkfengshan/home
+    sublinks:
+      - title: MK@Fengshan Menu
+        url: /mk-fengshan
