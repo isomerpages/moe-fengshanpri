@@ -41,9 +41,11 @@ information</p>
 <p>Website: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 <h3>In Trend Uniform (School Uniform supplier)</h3>
-<p>Venue: <strong>1 Kaki Bukit Road 1 #01-31 Enterprise One S(415934)</strong>
+<p>Venue: <strong>1 Kaki Bukit Road 1 #01-31 Enterprise One S(415934) (Nearest MRT Station : DT27 Ubi)</strong>
 </p>
 <p>Contact No: <strong>67410930</strong>
+</p>
+<p>Email: <strong>sales@itu.com.sg</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -184,9 +186,9 @@ information</p>
 <p>Email: <a href="mailto:sales@itu.com.sg" rel="noopener nofollow" target="_blank">sales@itu.com.sg</a>
 </p>
 <h3>Kim Chye Bus Services (School Transport)</h3>
-<p>Contact Person: <strong>Mr. See</strong>
+<p>Contact Person: <strong>Mr. See/ Ms. Jerrine See</strong>
 </p>
-<p>Contact: <strong>81881826</strong>
+<p>Contact: <strong>8188 1826 / 9695 1246</strong>
 </p>
 <p>Email : <a href="mailto:register@kcbus.net" rel="noopener nofollow" target="_blank">register@kcbus.net</a>
 </p>
@@ -225,7 +227,7 @@ information</p>
 <p>Assistant Dental Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee</p>
+<p>Mdm. Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>89402018</p>
@@ -263,7 +265,7 @@ information</p>
 <p>Monday, Wednesday and Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 am to 5pm</p>
+<p>8 am to 4.30 pm</p>
 </td>
 </tr>
 <tr>

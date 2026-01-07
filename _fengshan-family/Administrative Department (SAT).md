@@ -20,10 +20,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms. Loh Soo Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager (AM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr. Muhammad Fariz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Grace Lim Li Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Executive</p>
 </td>
 </tr>
 <tr>
@@ -48,14 +64,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Rogini Bora Ganapathi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
 </td>
 </tr>
 <tr>

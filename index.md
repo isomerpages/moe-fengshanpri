@@ -19,34 +19,6 @@ sections:
           url: /about-us/school-matters/
       background: /images/Homepage Design/Homepage Final v2 1920x720.png
       variant: image
-  - textcards:
-      title: HBL Resource Link
-      subtitle: Resources
-      id: textcards
-      description: Announcement
-      cards:
-        - title: Primary 1
-          description: HBL resource link
-          linktext: Click here
-          url: https://for.edu.sg/fsps-hbl-p1
-        - title: Primary 2
-          description: HBL resource link
-          linktext: Click here
-          url: https://for.edu.sg/fsps-hbl-p2
-        - title: Primary 3
-          description: HBL resource link
-          linktext: Click here
-          url: https://for.edu.sg/fsps-hbl-p3
-  - textcards:
-      title: HBL Resource Link
-      subtitle: RESOURCES
-      id: textcards
-      description: Announcement
-      cards:
-        - title: Primary 4
-          description: HBL resource link
-          linktext: Click here
-          url: https://for.edu.sg/fsps-hbl-p4
   - announcements:
       title: Announcements
       id: announcements
