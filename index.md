@@ -37,15 +37,6 @@ sections:
           link_text: Download here
           link_url: https://fengshanpri.moe.edu.sg/files/Fengshan%20Document%20Links/2025/P1_Parents_Briefing_on_Cyber_Wellness_2025.pdf
   - infopic:
-      title: Parents' Handbook
-      subtitle: Download Resources
-      id: infopic
-      description: Click to download the Parents' Handbook for 2025
-      button: Click here to download
-      url: https://www.fengshanpri.moe.edu.sg/files/Fengshan%20Document%20Links/2025/Parents__Handbook_2025.pdf
-      image: /images/Homepage Design/2025/Parents_Handbook__1_.png
-      alt: Parents Handbook 2024
-  - infopic:
       title: Happenings @ Fengshan Primary
       subtitle: FEATURED VIDEO
       description: See our latest school video featured in Youtube
