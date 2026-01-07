@@ -106,7 +106,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P1A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,14 +116,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>P1B</p>
-</td>
 <td rowspan="1" colspan="1">
-<p>Misss Batrisyia Binte Mohammed Fadzil</p>
+<p>Miss Batrisyia Binte Mohammed Fadzil</p>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>P1B</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Loh Chee Hui Faith (ST/LN-SEN)
 <br>
@@ -131,16 +131,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>P1C</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Qin Ying (CL)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>P1C</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lian Zimin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cher Wei Shan (MU)</p>
 </td>
 </tr>
 <tr>
@@ -148,14 +153,14 @@ variant: tiptap
 <p>P1D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cher Wei Shan (MU)</p>
+<p>Ms Ang Bee Choo (Mrs Vanessa Chan)
+<br>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Bee Choo (Mrs Vanessa Chan)
-<br>
-</p>
+<p>Miss Huang Chiung-Yao (CL)</p>
 </td>
 </tr>
 <tr>
@@ -163,14 +168,14 @@ variant: tiptap
 <p>P1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Huang Chiung-Yao (CL)</p>
+<p>Mdm Marcellian Arlany (Mrs Goh)
+<br>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Marcellian Arlany (Mrs Goh)
-<br>
-</p>
+<p>Mdm Jessica Tsang Si'en (Mrs Tok) (PE)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -178,12 +183,12 @@ variant: tiptap
 <p>P1F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jessica Tsang Si'en (Mrs Tok) (PE)&nbsp;</p>
+<p>Mdm Winnie Teng Sin Yi&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Winnie Teng Sin Yi&nbsp;</p>
+<p>Mdm Michelle Moi (LH/MA)</p>
 </td>
 </tr>
 </tbody>
