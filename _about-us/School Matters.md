@@ -78,6 +78,51 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Primary 6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 a.m. – 1.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gate 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.10 a.m. to 11.50 a.m.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School hours on <u>Monday to Friday</u>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dismissal Gate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recess Time (Monday, Wednesday, Thursday, Friday)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recess Time (Tuesday)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Primary 4</strong>
 </p>
 </td>
@@ -89,6 +134,10 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.10 a.m. to 9.50 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.30 a.m. to 9.50 a.m.</p>
+<p>12.50 p.m. to 1.10 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -105,25 +154,14 @@ on Mon/Tues/Thurs/Fri and 1.05pm on Wed).</p>
 <td rowspan="1" colspan="1">
 <p>10.10 a.m. to 10.50 a.m.</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 6</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30 a.m. – 1.30 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gate 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.10 a.m. to 11.50 a.m.</p>
+<p>10.30 a.m. to 10.50 a.m.</p>
+<p>1.10 p.m. to 1.30 p.m.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Note</h4>
+<h4><strong>Note</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>On top of recess, all pupils are given an additional 10-minute snack break
@@ -131,7 +169,7 @@ daily</p>
 </li>
 <li>
 <p>Dismissal timings are subject to change (staggered dismissal) pending
-prevailing situation in 2024</p>
+prevailing situation in 2026</p>
 </li>
 </ol>
 <p><strong>* All pupils are given an additional 10-minute snack break.</strong>
