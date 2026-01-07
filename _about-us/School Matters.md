@@ -285,4 +285,4 @@ could park at the nearest public parking lots located beside school (behind
 HDB flat block 413 beside school).</p>
 <p>Vendor delivery vehicles will not be allowed to enter the school by security
 between 11.30am to 2.00pm, as well as after 4.00pm due to school bus/van
-movement for dismissal.</p>
+movement for dismissal</p>
