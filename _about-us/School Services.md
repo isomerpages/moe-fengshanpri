@@ -41,9 +41,11 @@ information</p>
 <p>Website: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 <h3>In Trend Uniform (School Uniform supplier)</h3>
-<p>Venue: <strong>1 Kaki Bukit Road 1 #01-31 Enterprise One S(415934)</strong>
+<p>Venue: <strong>1 Kaki Bukit Road 1 #01-31 Enterprise One S(415934) (Nearest MRT Station : DT27 Ubi)</strong>
 </p>
-<p>Contact No: <strong>67410930</strong>
+<p>Contact No: <strong>67410930 </strong>
+</p>
+<p>Email: <strong>sales@itu.com.sg</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
