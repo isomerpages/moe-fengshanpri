@@ -940,6 +940,18 @@ variant: tiptap
 <p>Allied Educator (Counselling)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms. Daphne Heng Syn Yee</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><a href="mailto:heng_syn_yee_daphne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_syn_yee_daphne@moe.edu.sg</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Allied Educator (Counselling)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm. Gurneet Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1334,7 +1346,7 @@ variant: tiptap
 <p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheryl Lim</p>
+<p>Mdm. Cheryl Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheryl_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_lim@moe.edu.sg</a>
