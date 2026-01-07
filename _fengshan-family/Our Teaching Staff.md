@@ -692,7 +692,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (Counselling)</p>
+<p>Senior Allied Educator (Special Educational Needs Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Daphne Heng Syn Yee</p>
