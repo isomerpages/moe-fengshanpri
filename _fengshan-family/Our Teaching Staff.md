@@ -1298,10 +1298,11 @@ variant: tiptap
 <p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Alvin Low Jun Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:low_jun_ting_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_jun_ting_alvin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
