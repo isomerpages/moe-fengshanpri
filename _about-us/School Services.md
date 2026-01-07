@@ -227,7 +227,7 @@ information</p>
 <p>Assistant Dental Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee</p>
+<p>Mdm. Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>89402018</p>
@@ -265,7 +265,7 @@ information</p>
 <p>Monday, Wednesday and Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 am to 5pm</p>
+<p>8 am to 4.30 pm</p>
 </td>
 </tr>
 <tr>
