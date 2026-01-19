@@ -83,7 +83,7 @@ variant: tiptap
 <p>P1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Chee Hui Faith (ST/LN-SEN)
+<p>Mdm Loh Chee Hui Faith
 <br>
 </p>
 </td>
@@ -221,7 +221,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Khim Meng Matthias (HOD/AES)</p>
+<p>Mr Chua Khim Meng Matthias</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ variant: tiptap
 <p>P3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Zahirah Surattee B Gulam MKS (AYH Int)</p>
+<p>Mdm Nur Zahirah Surattee B Gulam MKS</p>
 </td>
 </tr>
 <tr>
@@ -417,7 +417,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Chea Ing Allen (Mrs Losey) (LT/MU)</p>
+<p>Mdm Ang Chea Ing Allen (Mrs Losey)</p>
 </td>
 </tr>
 </tbody>
@@ -475,7 +475,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hoe Mei Fong Micki (Mrs Koh) -</p>
+<p>Mdm Hoe Mei Fong Micki (Mrs Koh)</p>
 </td>
 </tr>
 <tr>
@@ -548,7 +548,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Guo Liyan Veronica (SSD) CL</p>
+<p>Mdm Guo Liyan Veronica</p>
 </td>
 </tr>
 <tr>
@@ -556,12 +556,12 @@ variant: tiptap
 <p>P6B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aw Shihui (CL)</p>
+<p>Mdm Aw Shihui</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Haikal Suhaimi (PE)</p>
+<p>Mr Muhammad Haikal Suhaimi</p>
 </td>
 </tr>
 <tr>
