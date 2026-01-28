@@ -614,17 +614,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mdm Theivanai d/o Palanisamy</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Marisa Lee Pei Shan
-<br>
-</p>
-</td>
-</tr>
+<tr></tr>
 </tbody>
 </table>
 <h2>School Counsellors and SENOs</h2>
