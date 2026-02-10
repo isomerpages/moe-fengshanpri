@@ -171,7 +171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs. Vanessa Chan</p>
+<p>Hoon Ding Cheng</p>
 </td>
 </tr>
 </tbody>
