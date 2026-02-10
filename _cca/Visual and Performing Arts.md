@@ -68,18 +68,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs. Ganesan</p>
+<p>Mdm. Theivanai P.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Nadiah</p>
+<p>Ms. Elsa Sahida Md. Kassim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xu Bo</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h2>Chinese Dance</h2>
+<h2>Contemporary Dance</h2>
 <hr>
 <h3>Schedule</h3>
 <p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
@@ -106,78 +111,23 @@ variant: tiptap
 <p>Ms. Hu Xuan Xuan</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<h2>Indian Dance</h2>
-<hr>
-<h3>Schedule:</h3>
-<p>P3 to P6 – Tuesday (2:30pm – 4:30pm),</p>
-<h3>Venue:</h3>
-<p>PAL Room 2 (Level 4, B4-03)</p>
-<h3>Teachers I/C:</h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Meera*</p>
+<p>Ms. Fatihah Johari</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs. Haja</p>
+<p>Ms. Nuradilah Abdul Wahid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Raba’ah Ismail</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h3>Instructor:&nbsp;&nbsp;</h3>
-<p>Ms. Kamariah Bte Yusuf</p>
-<hr>
-<h2>Malay Dance (inclusive of Malay LDDS)</h2>
-<h3>Schedule:</h3>
-<p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
-<h3>Venue:</h3>
-<p>PAL Room 1 (Level 4, B4-02)</p>
-<h3>Teachers I/C:</h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Fatihah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Raba’ah*</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm.Nuradilah</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h3>Instructor:</h3>
-<p>Nur Saliza Mohd Salleh (Fitness Arts Pte Ltd)</p>
 <hr>
 <h3>Visual Art Club</h3>
 <h3>Schedule&nbsp;:</h3>
@@ -197,40 +147,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Chia Soo Yin*</p>
+<p>Ms. Nabilah Bte Zainudin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Nabilah BteZainudin</p>
+<p>Ms. Chia Soo Yin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Lisa Koh</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Our Performing Arts Groups</h3>
-<h4>Malay Dance</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/CCA Album/Malay_Dance_web.png">
-</div>
-<h4>Indian Dance</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/CCA Album/Indian_Dance.png">
-</div>
-<h4>Percussion Ensemble</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/CCA Album/Band_web.png">
-</div>
-<h4>Chinese Dance</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/CCA Album/Chinese_Dance_web.png">
-</div>
-<h4>Choir</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage Design/CCA Album/Choir_web.png">
-</div>
-<hr>
+<h3>O</h3>
 <p></p>
