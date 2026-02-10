@@ -42,6 +42,11 @@ variant: tiptap
 <p>Ms. Azah bte Abdul Aziz</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Alvin Low</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -78,7 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Wong Kah Wai</p>
+<p>Batrisyia Bte Md. Fadzil</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Pavitra d/o Palani</p>
+<p>Ms.Faith Loh</p>
 </td>
 </tr>
 </tbody>
