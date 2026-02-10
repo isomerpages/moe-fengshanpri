@@ -36,7 +36,7 @@ and excel in activities outside the&nbsp;school curriculum.</p>
 <p>Wushu</p>
 </li>
 <li>
-<p>Health &amp; Fitness Club</p>
+<p>Multi-sport club</p>
 </li>
 </ul>
 <h2>Uniformed Groups</h2>
@@ -44,9 +44,6 @@ and excel in activities outside the&nbsp;school curriculum.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Boys Brigade</p>
-</li>
-<li>
-<p>Brownies</p>
 </li>
 <li>
 <p>Scouts</p>
@@ -62,13 +59,7 @@ and excel in activities outside the&nbsp;school curriculum.</p>
 <p>Concert Band</p>
 </li>
 <li>
-<p>Chinese Dance</p>
-</li>
-<li>
-<p>Indian Dance</p>
-</li>
-<li>
-<p>MLDDs (incl. Malay Dance)</p>
+<p>Contemporary Dance</p>
 </li>
 <li>
 <p>Visual Art Club</p>
