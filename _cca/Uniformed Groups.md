@@ -31,6 +31,11 @@ variant: tiptap
 <p>Mdm. Chen Wenjing</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Marcel Arlany</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -61,53 +66,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Firdaus</p>
+<p>Mdm. Marlina Mohktar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Marcellian</p>
+<p>Mrs. Nur Atikah Bte Mohamad Zin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Amanpreet Gill</p>
+<p>Ms. Shainaz Banu</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h2>Girl Guides (Brownies)</h2>
-<hr>
-<h3>Schedule:</h3>
-<p>All Levels – Tuesday (2:30pm – 4:30pm)</p>
-<h3>Venue:</h3>
-<p>Classroom 2A/2B (E2-05/E2-04)</p>
-<h3>Teachers I/C :</h3>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Marlina*</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Rashida</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
 <hr>
 <p></p>

@@ -42,6 +42,11 @@ variant: tiptap
 <p>Ms. Azah bte Abdul Aziz</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Alvin Low</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -78,7 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Wong Kah Wai</p>
+<p>Batrisyia Bte Md. Fadzil</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Pavitra d/o Palani</p>
+<p>Ms.Faith Loh</p>
 </td>
 </tr>
 </tbody>
@@ -166,7 +171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs. Vanessa Chan</p>
+<p>Hoon Ding Cheng</p>
 </td>
 </tr>
 </tbody>
@@ -174,7 +179,7 @@ variant: tiptap
 <h4>Coach:</h4>
 <p>Mr Loy Ming Xin&nbsp;(Wen Wu Learning Studio)</p>
 <p>Mr Koh Yi Yew&nbsp;(Wen Wu Learning Studio)</p>
-<h2>Health And Fitness Club</h2>
+<h2>Multi-Sport Club</h2>
 <hr>
 <h4>Schedule:</h4>
 <p>P3 to P6 – Tuesday (2.30pm – 4.30pm)</p>
@@ -198,12 +203,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Tan Wee Su</p>
+<p>Ms. Ivy Lim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Farhana</p>
+<p>Noor Karmila Binti Sukardi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nurul Khaulah Bte Nazri</p>
 </td>
 </tr>
 </tbody>
