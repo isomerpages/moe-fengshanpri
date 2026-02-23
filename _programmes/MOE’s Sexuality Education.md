@@ -18,7 +18,7 @@ and stable nuclear family units with extended family support. The teaching
 and learning of SEd is based on respect for the values and beliefs of the
 different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p></p>
-<h4>2. The <strong>Goals</strong> of Sexuality Education are:</h4>
+<p>2. The <strong>Goals</strong> of Sexuality Education are:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -27,7 +27,7 @@ sexuality matters</p>
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society</p>
 <p></p>
-<h4>3. The <strong>Key Messages</strong> of Sexuality Education are:</h4>
+<p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
@@ -41,24 +41,16 @@ ones.</p>
 <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
 MOE Sexuality Education.</p>
 <h3><strong><br>Overview of Fengshan Primary School’s Sexuality Education Programme for 2026</strong></h3>
-<p>&nbsp;</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
-is delivered in a holistic manner through the school curriculum. The content
-for Sexuality Education is grouped into five main themes: Human Development,
-Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
-Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
+<p>4.Sexuality Education is delivered in a holistic manner through the school
+curriculum. The content for Sexuality Education is grouped into five main
+themes: Human Development, Interpersonal Relationships, Sexual Health,
+Sexual Behaviour, and, Culture, Society and Law. You may click here (https://go.gov.sg/moe-sexuality-education-scope)
 for more information on the scope of Sexuality Education in the school
 curriculum.</p>
-<p>&nbsp;</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
-topics on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
-(CCE)</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<h4><strong>Sexuality Education Lessons</strong></h4>
-<p>&nbsp;</p>
+<p>5.&nbsp;The subjects that incorporate topics on sexuality include:</p>
+<p>a) Science</p>
+<p>b) Character and Citizenship Education (CCE)</p>
+<h3><strong>Sexuality Education Lessons</strong></h3>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years
 mark the onset of puberty. With better nutrition and improved health care,
 children are reaching puberty at a younger age and have to grapple with
@@ -70,7 +62,6 @@ exposed to a wide range of influences that could endanger health and undermine
 the integrity of the family. Our students require close guidance so that
 they can respond with discernment to the sexual messages in the media and
 other sources.</p>
-<p>&nbsp;</p>
 <p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
 lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these
 lessons, students will learn healthy ways to manage the physiological,
@@ -83,8 +74,6 @@ responsible decisions to keep themselves safe from sexuality-related risks</p>
 <h4><strong>At Fengshan Primary School, the following Sexuality Education lessons will be taught in 2026:</strong></h4>
 <p></p>
 <h3><strong>2026 Sexuality Education Lessons in CCE</strong></h3>
-<p><strong>&nbsp;</strong>
-</p>
 <h3><strong>Primary 5</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
