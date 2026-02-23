@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <h1><strong>FENGSHAN PRIMARY SCHOOL</strong></h1>
 <h2><strong>MOE Sexuality Education in Schools</strong></h2>
-<p>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 (SEd) in schools aims to enable students to understand the physiological,
 social and emotional changes they experience as they mature, develop healthy
@@ -17,7 +16,6 @@ basic unit of society. This means encouraging healthy, heterosexual marriages
 and stable nuclear family units with extended family support. The teaching
 and learning of SEd is based on respect for the values and beliefs of the
 different ethnic and religious communities in Singapore on sexuality issues.</p>
-<p></p>
 <p>2. The <strong>Goals</strong> of Sexuality Education are:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships</p>
