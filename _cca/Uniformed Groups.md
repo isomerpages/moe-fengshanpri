@@ -9,8 +9,6 @@ variant: tiptap
 <h3>Schedule:</h3>
 <p>Session(s) : Tuesdays, 2.00 pm – 4.00 pm</p>
 <p>BB Volunteers : Captain Andy Chua and Sir Mike</p>
-<h4>Venue:</h4>
-<p>Classroom 1B/ 1C (D2-02/D2-01)</p>
 <h4>Teachers I/C:</h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -46,8 +44,6 @@ variant: tiptap
 <hr>
 <h3>Schedule:</h3>
 <p>Session: Tuesdays, 2.00 pm – 4.00 pm</p>
-<h3>Venue:</h3>
-<p>Classroom 2E (E2-01)</p>
 <h3>Teachers I/C :</h3>
 <p></p>
 <table style="minWidth: 25px">
