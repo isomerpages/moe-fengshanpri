@@ -7,8 +7,8 @@ variant: tiptap
 <h2>Basketball</h2>
 <hr>
 <h4>Schedule:</h4>
-<p>School Team – Monday &amp; Thursday (4.00pm – 5.10pm).</p>
-<p>Development Team – Tuesday (2.30pm – 4.30pm)</p>
+<p>Sessions: Tuesdays, 2.00 pm - 4.00 pm (Development and School Team)</p>
+<p>Fridays, 2.00pm – 4.00pm (School Team)</p>
 <h4>Venue:</h4>
 <p>ISH Basketball Court</p>
 <h4>Teachers I/C:</h4>
