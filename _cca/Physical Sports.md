@@ -183,7 +183,7 @@ variant: tiptap
 <h2>Multi-Sport Club</h2>
 <hr>
 <h4>Schedule:</h4>
-<p>P3 to P6 – Tuesday (2.30pm – 4.30pm)</p>
+<p>Session: Tuesdays, 2.00 pm – 4.00 pm</p>
 <h4>Venue:</h4>
 <p>Block F, Front of School Hall</p>
 <h4>Teachers I/C :</h4>
