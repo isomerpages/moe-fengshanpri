@@ -7,7 +7,8 @@ variant: tiptap
 <h2>Boys Brigade</h2>
 <hr>
 <h3>Schedule:</h3>
-<p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
+<p>Session(s) : Tuesdays, 2.00 pm – 4.00 pm</p>
+<p>BB Volunteers : Captain Andy Chua and Sir Mike</p>
 <h4>Venue:</h4>
 <p>Classroom 1B/ 1C (D2-02/D2-01)</p>
 <h4>Teachers I/C:</h4>
