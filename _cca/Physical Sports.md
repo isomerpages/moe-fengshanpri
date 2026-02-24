@@ -9,8 +9,6 @@ variant: tiptap
 <h4>Schedule:</h4>
 <p>Sessions: Tuesdays, 2.00 pm - 4.00 pm (Development and School Team)</p>
 <p>Fridays, 2.00pm – 4.00pm (School Team)</p>
-<h4>Venue:</h4>
-<p>ISH Basketball Court</p>
 <h4>Teachers I/C:</h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -61,8 +59,6 @@ variant: tiptap
 </p>
 <p>Wednesdays: 2.00 pm - 4.00 pm (Junior) / 3.30 pm – 5 pm (Senior)</p>
 <p>Fridays: 2.00 pm – 4.00 pm (Senior) / 3.00 pm – 5.00 pm (Junior )</p>
-<h4>Venue:</h4>
-<p>ISH Building Level 4</p>
 <h4>Teachers I/C:</h4>
 <table style="minWidth: 25px">
 <colgroup>
