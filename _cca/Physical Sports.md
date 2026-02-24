@@ -9,8 +9,6 @@ variant: tiptap
 <h4>Schedule:</h4>
 <p>Sessions: Tuesdays, 2.00 pm - 4.00 pm (Development and School Team)</p>
 <p>Fridays, 2.00pm – 4.00pm (School Team)</p>
-<h4>Venue:</h4>
-<p>ISH Basketball Court</p>
 <h4>Teachers I/C:</h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -61,8 +59,6 @@ variant: tiptap
 </p>
 <p>Wednesdays: 2.00 pm - 4.00 pm (Junior) / 3.30 pm – 5 pm (Senior)</p>
 <p>Fridays: 2.00 pm – 4.00 pm (Senior) / 3.00 pm – 5.00 pm (Junior )</p>
-<h4>Venue:</h4>
-<p>ISH Building Level 4</p>
 <h4>Teachers I/C:</h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -107,8 +103,6 @@ variant: tiptap
 <p>Session(s): Tuesdays, 2.00 pm - 4.00 pm (development team)</p>
 <p>Mondays, 2.00 pm - 4.00 pm (school team)</p>
 <p>Fridays, 2.00 pm - 4.00 pm (school team)</p>
-<h4>Venue:</h4>
-<p>ISH, School Football Field</p>
 <h4>Teachers I/C:</h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -142,17 +136,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4>Coach:</h4>
-<p>Mr. Mohamed Rezal Bin Hassan</p>
-<p>Mr. Mohamed Azahari</p>
+<h4></h4>
 <h2>Wushu</h2>
 <hr>
 <h4>Schedule:</h4>
 <p>Session(s): Tuesdays, 2.00 pm - 4.00 pm</p>
 <p>Fridays, 2.00pm – 4.00pm (School Team)</p>
-<h4>Venue:</h4>
-<p>Block F, Back of school Hall</p>
 <h4>Teachers I/C:</h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -181,15 +170,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Coach:</h4>
-<p>Mr Loy Ming Xin&nbsp;(Wen Wu Learning Studio)</p>
-<p>Mr Koh Yi Yew&nbsp;(Wen Wu Learning Studio)</p>
 <h2>Multi-Sport Club</h2>
 <hr>
 <h4>Schedule:</h4>
 <p>Session: Tuesdays, 2.00 pm – 4.00 pm</p>
-<h4>Venue:</h4>
-<p>Block F, Front of School Hall</p>
 <h4>Teachers I/C :</h4>
 <table style="minWidth: 25px">
 <colgroup>
