@@ -87,7 +87,7 @@ variant: tiptap
 <h2>Contemporary Dance</h2>
 <hr>
 <h3>Schedule</h3>
-<p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
+<p>Session(s): Tuesdays, 2.00 pm - 4.00 pm</p>
 <h3>Venue</h3>
 <p>ISH Building- Dance Studio (Level 4)</p>
 <h3>Teachers I/C :</h3>
