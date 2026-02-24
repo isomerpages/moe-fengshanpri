@@ -7,7 +7,7 @@ variant: tiptap
 <h2>Choir</h2>
 <hr>
 <h3>Schedule:</h3>
-<p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
+<p>Session(s): Tuesdays, 2.00 pm to 4.00 pm</p>
 <h3>Venue:</h3>
 <p>Music Room 1 (F1-01)</p>
 <h3>Teachers I/C:</h3>
@@ -47,7 +47,7 @@ variant: tiptap
 <h2>Concert Band</h2>
 <hr>
 <h3>Schedule:</h3>
-<p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
+<p>Session(s): Tuesdays, 2.00 pm - 4.00 pm; Friday, 2 pm - 4 pm</p>
 <h3>Venue:</h3>
 <p>(Music Room 2 / Zest Room) - Level 1</p>
 <h3>Teachers I/C:</h3>
@@ -87,7 +87,7 @@ variant: tiptap
 <h2>Contemporary Dance</h2>
 <hr>
 <h3>Schedule</h3>
-<p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
+<p>Session(s): Tuesdays, 2.00 pm - 4.00 pm</p>
 <h3>Venue</h3>
 <p>ISH Building- Dance Studio (Level 4)</p>
 <h3>Teachers I/C :</h3>

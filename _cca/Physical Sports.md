@@ -7,8 +7,8 @@ variant: tiptap
 <h2>Basketball</h2>
 <hr>
 <h4>Schedule:</h4>
-<p>School Team – Monday &amp; Thursday (4.00pm – 5.10pm).</p>
-<p>Development Team – Tuesday (2.30pm – 4.30pm)</p>
+<p>Sessions: Tuesdays, 2.00 pm - 4.00 pm (Development and School Team)</p>
+<p>Fridays, 2.00pm – 4.00pm (School Team)</p>
 <h4>Venue:</h4>
 <p>ISH Basketball Court</p>
 <h4>Teachers I/C:</h4>
@@ -54,10 +54,13 @@ variant: tiptap
 <h2>Netball</h2>
 <hr>
 <h4>Schedule:</h4>
-<p>Development Team – Tuesday (2.30pm – 4.30pm)</p>
-<p>Juniors – Wednesday (1.40&nbsp;pm – 3.40 pm)</p>
-<p>Seniors – Wednesday (3.20 pm – 5.15 pm)</p>
-<p>Seniors/Juniors – Thursday (4.00 pm – 5.15pm)</p>
+<p><strong>Development Team</strong>
+</p>
+<p>Tuesdays: 2.00 pm – 4.00 pm (P3,P4,P5 and P6)</p>
+<p><strong>School Team</strong>
+</p>
+<p>Wednesdays: 2.00 pm - 4.00 pm (Junior) / 3.30 pm – 5 pm (Senior)</p>
+<p>Fridays: 2.00 pm – 4.00 pm (Senior) / 3.00 pm – 5.00 pm (Junior )</p>
 <h4>Venue:</h4>
 <p>ISH Building Level 4</p>
 <h4>Teachers I/C:</h4>
@@ -101,8 +104,9 @@ variant: tiptap
 <h2>Football</h2>
 <hr>
 <h4>Schedule:</h4>
-<p>Development Team – Tuesday (2.30pm – 4.30pm)</p>
-<p>School Team – Monday &amp; Thursday (4.10pm – 5.30pm)&nbsp;</p>
+<p>Session(s): Tuesdays, 2.00 pm - 4.00 pm (development team)</p>
+<p>Mondays, 2.00 pm - 4.00 pm (school team)</p>
+<p>Fridays, 2.00 pm - 4.00 pm (school team)</p>
 <h4>Venue:</h4>
 <p>ISH, School Football Field</p>
 <h4>Teachers I/C:</h4>
@@ -145,7 +149,8 @@ variant: tiptap
 <h2>Wushu</h2>
 <hr>
 <h4>Schedule:</h4>
-<p>School Team – Tuesday (2.30 pm – 4.30 pm) &amp; Wed (1.45pm – 3.45pm)</p>
+<p>Session(s): Tuesdays, 2.00 pm - 4.00 pm</p>
+<p>Fridays, 2.00pm – 4.00pm (School Team)</p>
 <h4>Venue:</h4>
 <p>Block F, Back of school Hall</p>
 <h4>Teachers I/C:</h4>
@@ -182,7 +187,7 @@ variant: tiptap
 <h2>Multi-Sport Club</h2>
 <hr>
 <h4>Schedule:</h4>
-<p>P3 to P6 – Tuesday (2.30pm – 4.30pm)</p>
+<p>Session: Tuesdays, 2.00 pm – 4.00 pm</p>
 <h4>Venue:</h4>
 <p>Block F, Front of School Hall</p>
 <h4>Teachers I/C :</h4>
