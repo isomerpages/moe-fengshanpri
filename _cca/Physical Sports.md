@@ -149,7 +149,8 @@ variant: tiptap
 <h2>Wushu</h2>
 <hr>
 <h4>Schedule:</h4>
-<p>School Team – Tuesday (2.30 pm – 4.30 pm) &amp; Wed (1.45pm – 3.45pm)</p>
+<p>Session(s): Tuesdays, 2.00 pm - 4.00 pm</p>
+<p>Fridays, 2.00pm – 4.00pm (School Team)</p>
 <h4>Venue:</h4>
 <p>Block F, Back of school Hall</p>
 <h4>Teachers I/C:</h4>
