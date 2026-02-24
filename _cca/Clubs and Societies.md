@@ -7,8 +7,6 @@ variant: tiptap
 <h3>Science and Environmental Club</h3>
 <h4><strong>Schedule:</strong></h4>
 <p>Session : Tuesdays, 2.00 pm – 4.00 pm</p>
-<h4><strong>Venue:</strong></h4>
-<p>Science Room Level 3, C3-01</p>
 <h4><strong>Teachers I/C :</strong></h4>
 <p></p>
 <table style="minWidth: 25px">
