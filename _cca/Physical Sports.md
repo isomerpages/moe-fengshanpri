@@ -101,8 +101,9 @@ variant: tiptap
 <h2>Football</h2>
 <hr>
 <h4>Schedule:</h4>
-<p>Development Team – Tuesday (2.30pm – 4.30pm)</p>
-<p>School Team – Monday &amp; Thursday (4.10pm – 5.30pm)&nbsp;</p>
+<p>Session(s): Tuesdays, 2.00 pm - 4.00 pm (development team)</p>
+<p>Mondays, 2.00 pm - 4.00 pm (school team)</p>
+<p>Fridays, 2.00 pm - 4.00 pm (school team)</p>
 <h4>Venue:</h4>
 <p>ISH, School Football Field</p>
 <h4>Teachers I/C:</h4>
