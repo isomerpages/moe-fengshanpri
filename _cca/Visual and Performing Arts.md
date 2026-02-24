@@ -7,7 +7,7 @@ variant: tiptap
 <h2>Choir</h2>
 <hr>
 <h3>Schedule:</h3>
-<p>P3 to P6 – Tuesday (2:30pm – 4:30pm)</p>
+<p>Session(s): Tuesdays, 2.00 p.m. - 4.00 p.m.</p>
 <h3>Venue:</h3>
 <p>Music Room 1 (F1-01)</p>
 <h3>Teachers I/C:</h3>
