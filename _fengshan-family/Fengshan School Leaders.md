@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Leaders" src="/images/School Logo and Photo Design/School Staff Photos or Videos/School_Leaders.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Logo and Photo Design/School Staff Photos or Videos/2026.png">
 </div>
 <p></p>
