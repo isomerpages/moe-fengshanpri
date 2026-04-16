@@ -18,7 +18,13 @@ of the Arts</p>
 <p>Ms Allen Losey (Lead Teacher / Music)</p>
 </li>
 <li>
+<p>Ms. Cher Wei Shan (Music)</p>
+</li>
+<li>
 <p>Mdm Nur Nadiah (Visual Art)</p>
+</li>
+<li>
+<p>Mdm. Nabilah</p>
 </li>
 </ol>
 <h4><strong>Art – Our Practice</strong></h4>
