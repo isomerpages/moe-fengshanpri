@@ -17,9 +17,6 @@ on days when school may be closed due to emergency situations</p>
 You will be directed to SLS website. Alternatively, you can directly go
 to&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/sls.png">
-</div>
 <p></p>
 <h3>Frequently Asked Question (FAQs)</h3>
 <h4>Q1 : I have forgotten my password. What should I do?</h4>
@@ -56,9 +53,70 @@ If you are still not sure of your username, please approach your teacher.</p>
 <h4><strong>Q6 : What are the Operating System and Browser Requirements for SLS?</strong></h4>
 <p><strong>SLS is accessible through internet browsers on either Windows PC, Mac, iPad or Android tablets. For a good user experience, tablets should have a screen size of at least 7 inches. However, a small number of resources may not work on tablets due to missing plugins. Currently, SLS is not fully optimised to display on mobile phones even though users can access the system and resources. The recommended operating systems and browsers are:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sls1.png">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Operating System</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Browsers</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Microsoft Windows 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Google Chrome 123 and laterMicrosoft Edge 123 and later</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mac OS 13 and later</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Safari 16 and laterGoogle Chrome 123 and later</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>iPadOS 16 and later</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Safari 16 and laterGoogle Chrome 123 and later</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>iOS 16 and later</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Safari 16 and laterGoogle Chrome 123 and later</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Android 13 and later</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Google Chrome 123 and later</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ChromeOS 123 and later</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Google Chrome 123 and later</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>SLS Support for Home-based Learning</strong></h3>
 <h4><strong>School Operating Hours</strong></h4>
 <p><strong>During school operating hours, students should contact the&nbsp;School-based Helpline&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments. Student can also approach their Form teacher/subject teacher for password reset.</strong>
