@@ -5,7 +5,12 @@ description: ""
 third_nav_title: ICT
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQaoe2DxEL5CvqlbzyAxU_7qAr8g9CG-n-VWY_reDmnhxDTCc9BuTq-o2gLh8vCwomjP6t4V3ISgoey/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Logo and Photo Design/Main Page Picture/Digital_Literacy_2025_site.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Logo and Photo Design/Main Page Picture/Genius_Hour_2025_site.png">
 </div>
 <p></p>
