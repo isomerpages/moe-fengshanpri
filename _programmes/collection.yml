@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Values–in–action (VIA).md
       - Spot Me Good.md
       - Reach Out For The Stars.md
       - Character Focused Programme.md
