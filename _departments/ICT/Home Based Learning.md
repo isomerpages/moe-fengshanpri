@@ -42,7 +42,6 @@ If you are still not sure of your username, please approach your teacher.</p>
 <h4><strong>Q4 : I used the “Password Reset Link</strong></h4>
 <p><strong>Method” but I cannot find my password reset email. What can I do?</strong>
 </p>
-<p></p>
 <p><strong>If you cannot see the email in your inbox, it may be in the spam or junk email folder. It is also possible that you have not keyed in or verified the email address in SLS.</strong>
 </p>
 <p><strong>Note: The URL in the email will expire within 20 minutes. If the URL has expired, go to the login page and select “Forgot Password” to try again.</strong>
@@ -121,25 +120,50 @@ If you are still not sure of your username, please approach your teacher.</p>
 <h4><strong>School Operating Hours</strong></h4>
 <p><strong>During school operating hours, students should contact the&nbsp;School-based Helpline&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments. Student can also approach their Form teacher/subject teacher for password reset.</strong>
 </p>
-<p><strong>School-based Helpline: (65) 6586 0123 /65860175</strong>
+<p><strong>School-based Helpline: (65) 6586 0123 </strong>
 </p>
 <p><strong>Mondays – Fridays: 8:00 am – 4:00 pm</strong>
 </p>
 <p><strong>For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</strong>
 </p>
 <h4><strong>Non-School Operating Hours</strong></h4>
-<p><strong>Students can only contact the&nbsp;SLS Helpdesk&nbsp;outside the school operating hours.</strong>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SLS Helpdesk</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Information</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email: <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>
 </p>
-<p><strong>SLS Helpdesk: 6702 6513</strong>
-</p>
-<p><strong>Mondays – Fridays: 4:00 pm – 9:00 pm</strong>
-</p>
-<p><strong>Saturdays: 9:00 am – 9:00 pm</strong>
-</p>
-<p><strong>*Closed on Sundays &amp; Public Holidays</strong>
-</p>
-<p><strong>Alternatively, students can email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</strong>
-</p>
+<p>Tel: (+65) 6702 6513</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays - Fridays:
+<br>4 pm - 9 pm (School Days)
+<br>9 am - 9 pm (School Holidays)</p>
+<p>Saturdays:9:00 am - 3:00 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Online Form (On HBL Days) - Disabled on normal term</strong></h4>
 <p><strong>Please use the FormSG (click&nbsp;<a href="https://form.gov.sg/5d65d57cd6754c0012d6d775" rel="noopener noreferrer nofollow" target="_blank">disabled link</a>) as attached to request for passwords reset/to unlock accounts. Please ensure that you provide a contactable number as a reference.</strong>
 </p>
