@@ -28,7 +28,6 @@ lifelong learners even after leaving the school.</p>
 <p><strong>HOD</strong>
 </p>
 <p>Miss Tan Chwee Li</p>
-<p></p>
 <p>Ms Geraldine Ma Wanting</p>
 <p>Ms Cindy Leisinger</p>
 <p></p>
@@ -36,7 +35,6 @@ lifelong learners even after leaving the school.</p>
 </p>
 <p>Mr Phoon Yee Pung</p>
 <p>Mrs Vanessa Chan</p>
-<p>Mrs Katherine Phoon</p>
 <p>Mr Mark Tay</p>
 <p>Ms Xu Fang Ling</p>
 <p>Ms Winnie Teng</p>
