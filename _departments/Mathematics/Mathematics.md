@@ -93,14 +93,6 @@ of pupils.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Wong Kah Wai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 &amp; P6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Chng Zimin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,14 +113,6 @@ of pupils.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 &amp; P6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Farhana Begum d/o Abd Jabbar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6</p>
 </td>
 </tr>
 <tr>
