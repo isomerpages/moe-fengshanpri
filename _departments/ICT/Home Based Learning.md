@@ -34,11 +34,8 @@ In such cases, their username may be affixed with a number, e.g. (RACHE1234Z_01)
 If you are still not sure of your username, please approach your teacher.</p>
 <p></p>
 <h4><strong>Q3 : My account has been locked. What should I do?</strong></h4>
-<p></p>
 <p><strong>Your account will be locked after&nbsp;<u>10 consecutive</u>&nbsp;attempts to log in with an incorrect password. You can either contact your School-based Helpline during school hours or SLS Helpdesk for after school hours.</strong>
 </p>
-<p></p>
-<p></p>
 <h4><strong>Q4 : I used the “Password Reset Link</strong></h4>
 <p><strong>Method” but I cannot find my password reset email. What can I do?</strong>
 </p>
@@ -120,7 +117,7 @@ If you are still not sure of your username, please approach your teacher.</p>
 <h4><strong>School Operating Hours</strong></h4>
 <p><strong>During school operating hours, students should contact the&nbsp;School-based Helpline&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments. Student can also approach their Form teacher/subject teacher for password reset.</strong>
 </p>
-<p><strong>School-based Helpline: (65) 6586 0123 </strong>
+<p><strong>School-based Helpline: (65) 6586 0123</strong>
 </p>
 <p><strong>Mondays – Fridays: 8:00 am – 4:00 pm</strong>
 </p>
@@ -164,12 +161,6 @@ If you are still not sure of your username, please approach your teacher.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Online Form (On HBL Days) - Disabled on normal term</strong></h4>
-<p><strong>Please use the FormSG (click&nbsp;<a href="https://form.gov.sg/5d65d57cd6754c0012d6d775" rel="noopener noreferrer nofollow" target="_blank">disabled link</a>) as attached to request for passwords reset/to unlock accounts. Please ensure that you provide a contactable number as a reference.</strong>
-</p>
-<p><strong>For all technical assistance and support&nbsp;</strong>
-</p>
-<p><strong>Please email to <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>&nbsp;or contact SLS helpdesk at&nbsp;(65) 6702 6513.</strong>
-</p>
+<h4></h4>
 <p><strong>&nbsp;</strong>
 </p>
