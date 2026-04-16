@@ -2,7 +2,6 @@ collections:
   old-programmes:
     output: true
     order:
-      - Cyberwellness.md
       - Family Matters Programme.md
       - Character Focused Programme.md
       - "P6 Champion Mindset: Enhanced Learning Experience (ELE) using SAMLABs
