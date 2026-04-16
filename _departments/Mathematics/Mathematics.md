@@ -131,6 +131,30 @@ of pupils.</p>
 <p>P6</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Emily Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Ow Ling Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Daisy Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
