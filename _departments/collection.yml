@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Departments.md
       - English/.keep
       - English/English.md
       - English/Overview.md
