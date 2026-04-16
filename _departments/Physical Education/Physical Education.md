@@ -13,4 +13,6 @@ a lifetime of active, healthy living.</p>
 <p>Mr Muhammad Haikal Suhaimi</p>
 <p>Ms Jessica Tsang Si’en</p>
 <p>Ms Cheryl Lim</p>
+<p>Ms Batrisyia Fadzil</p>
+<p>Ms Elsa Sahida</p>
 <p></p>
