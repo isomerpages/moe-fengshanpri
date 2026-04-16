@@ -44,27 +44,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Meera</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm. Fatihah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Pavitra</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm. Rosila Sharif</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Wong Kah Wai</p>
 </td>
 </tr>
 <tr>
@@ -75,11 +60,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr. Firdaus Rahmat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Lee Sok Kiang</p>
 </td>
 </tr>
 </tbody>
