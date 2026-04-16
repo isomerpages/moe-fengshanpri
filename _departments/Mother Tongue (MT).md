@@ -83,6 +83,15 @@ of their own languages and cultures.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hafidah Mahat</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head – Lower Primary</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Chinese Language Teachers</strong>
 </p>
@@ -125,7 +134,15 @@ of their own languages and cultures.</p>
 <p>Mdm Lee Sok Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Xu Bo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Lee Wah (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Lim Hong Eng</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +190,7 @@ of their own languages and cultures.</p>
 <p>Mdm Nuradilah Abdul Wahid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm. Noor Karmila</p>
 </td>
 </tr>
 <tr>

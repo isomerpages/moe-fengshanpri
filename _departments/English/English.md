@@ -20,7 +20,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Zarinah Md Hussain (SH/CCE)</p>
+<p>Ms. Shanthi Panjiawarnam (YH)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Marisa Lee Pei Shan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Zarinah Md Hussain</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +40,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Shanthi Panjiawarnam (YH)</p>
+<p>Mrs. Charmaine Wee (AYH)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Loh Chee Hui Faith</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Chia Soo Yin (ST)</p>
+<p>Ms. Chia Soo Yin</p>
 </td>
 </tr>
 <tr>
@@ -61,6 +76,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm. Koh Jinghan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. James Wong</p>
 </td>
 </tr>
 <tr>
@@ -81,6 +101,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm. Sri Rahayu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Tong Yeok Lin (FAJT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Shainaz Banu (FAJT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs. Daisy Koh (FAJT)</p>
 </td>
 </tr>
 <tr>
