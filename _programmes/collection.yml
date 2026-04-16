@@ -2,9 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Values–in–action (VIA).md
-      - Spot Me Good.md
-      - Reach Out For The Stars.md
-      - Character Focused Programme.md
-      - Cyberwellness.md
       - MOE’s Sexuality Education.md
+      - Cyberwellness.md
+      - Character Focused Programme.md
+      - Values–in–action (VIA).md
+      - Reach Out For The Stars.md
+      - Spot Me Good.md
