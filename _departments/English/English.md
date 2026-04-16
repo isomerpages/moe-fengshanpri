@@ -20,12 +20,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs. Micki Koh (LH/EL)</p>
+<p>Mdm. Zarinah Md Hussain (SH/CCE)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Zarinah Md Hussain (SH/CCE)</p>
+<p>Mrs. Micki Koh</p>
 </td>
 </tr>
 <tr>
@@ -70,11 +70,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Meera d/o Pathmanathan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm. Norjahan Begum</p>
 </td>
 </tr>
@@ -86,11 +81,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm. Sri Rahayu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Isabel Tay Rui Shan</p>
 </td>
 </tr>
 <tr>
