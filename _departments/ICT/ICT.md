@@ -62,14 +62,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Isabel Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr. Shen Baiyue</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Nurain binte Udi Suriadi</p>
+<p>Ms .Victoria Lu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NCS-DE</p>

@@ -20,9 +20,6 @@ of the Arts</p>
 <li>
 <p>Mdm Nur Nadiah (Visual Art)</p>
 </li>
-<li>
-<p>Mdm Suzana (Visual Art)</p>
-</li>
 </ol>
 <h4><strong>Art – Our Practice</strong></h4>
 <div class="isomer-image-wrapper">
