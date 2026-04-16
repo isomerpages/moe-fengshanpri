@@ -2,14 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - MOE’s Sexuality Education.md
-      - Cyberwellness.md
-      - Family Matters Programme.md
-      - Character Focused Programme.md
-      - "P6 Champion Mindset: Enhanced Learning Experience (ELE) using SAMLABs
-        STEAM kit & Lego.md"
-      - Leadership Development Programme.md
-      - Reach Out For The Stars.md
-      - Compassion Week.md
-      - Spot Me Good.md
       - Values–in–action (VIA).md
+      - Spot Me Good.md
+      - Reach Out For The Stars.md
+      - Character Focused Programme.md
+      - Cyberwellness.md
+      - MOE’s Sexuality Education.md

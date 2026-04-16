@@ -1,0 +1,9 @@
+collections:
+  old-programmes:
+    output: true
+    order:
+      - Family Matters Programme.md
+      - "P6 Champion Mindset: Enhanced Learning Experience (ELE) using SAMLABs
+        STEAM kit & Lego.md"
+      - Leadership Development Programme.md
+      - Compassion Week.md

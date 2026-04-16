@@ -5,28 +5,11 @@ links:
   - title: Fengshan Family
     collection: fengshan-family
   - title: Departments
-    url: /departments/
-    sublinks:
-      - title: English
-        url: /departments/english/
-      - title: Mathematics
-        url: /departments/mathematics/
-      - title: Mother Tongue
-        url: /departments/mother-tongue-mt/
-      - title: Science
-        url: /departments/science/
-      - title: ICT
-        url: /departments/ict/
-      - title: Character & Citizen Education
-        url: /departments/character-and-citizenry-education-cce/
-      - title: Aesthetics
-        url: /aesthetics-department/
-      - title: Physical Education
-        url: /departments/physical-education/
-  - title: Programmes
-    collection: programmes
+    collection: departments
   - title: CCA
     collection: cca
+  - title: Programmes
+    collection: programmes
   - title: Links
     url: /links
     sublinks:
