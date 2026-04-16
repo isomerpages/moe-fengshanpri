@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - English/.keep
-      - English/English.md
       - English/Overview.md
+      - English/English.md
       - English/Key Programmes and Events.md
       - Mother Tongue (MT).md
       - Mathematics/.keep
