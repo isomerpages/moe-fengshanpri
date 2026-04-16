@@ -13,9 +13,8 @@ of pupils.</p>
 <p>2. To provide the best Maths programmes to help pupils learn Maths.</p>
 <p>3. To conduct the best classroom strategies for learning.</p>
 <h4><strong>Mathematics Committee Members:</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -23,136 +22,85 @@ of pupils.</p>
 <td rowspan="1" colspan="1">
 <p>Name of Member</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Level</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Michelle Moi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Vicki Png</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>P1</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Marcellian Arlany</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P1 LSM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Marlina Binte Mokhtar</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>P1 TRANSIT, P1 LSM &amp; P2</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Jolin Aw</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>P2, P2 LSM &amp; P6</p>
+<p>Ms Lisa Koh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr James Wong Tze Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Neresa Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4</p>
+<p>Ms Ivy Lim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Zahirah Suratee</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>P4</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Chng Zimin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Norhayati Binte Mohamad</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>P5 &amp; P6</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Shanaz Nazeeha Binte Ramli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 &amp; P6</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Irwan Bin Mohd Talib</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>P6</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Ivy Wong</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>P6</p>
+<p>Mrs Emily Liew (FAJT)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Emily Liew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
+<p>Mdm. Ow Ling Ling (FAJT)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Ow Ling Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Daisy Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
+<p>Mrs Daisy Koh (FAJT)</p>
 </td>
 </tr>
 </tbody>
