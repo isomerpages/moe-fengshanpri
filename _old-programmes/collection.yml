@@ -2,7 +2,6 @@ collections:
   old-programmes:
     output: true
     order:
-      - MOE’s Sexuality Education.md
       - Cyberwellness.md
       - Family Matters Programme.md
       - Character Focused Programme.md
