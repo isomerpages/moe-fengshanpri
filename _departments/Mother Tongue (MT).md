@@ -138,6 +138,14 @@ of their own languages and cultures.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Lee Wah (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Lim Hong Eng</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p><strong>Malay Language Teachers</strong>
 </p>
