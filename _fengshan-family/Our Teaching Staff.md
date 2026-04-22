@@ -940,6 +940,22 @@ variant: tiptap
 <p>Mdm. Cheryl Lim</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Hoon Ding Cheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Ridhwan bin Zahid</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Music and Art</h2>
