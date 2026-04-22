@@ -71,7 +71,7 @@ variant: tiptap
 <p>Mdm. Juminah Aripin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Customer Servicer Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 </tr>
 </tbody>
