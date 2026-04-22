@@ -63,7 +63,7 @@ variant: tiptap
 <p>Ms. Ong Siew Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
+<p>Operations Support Officer (MK)</p>
 </td>
 </tr>
 <tr>
@@ -136,6 +136,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Security Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Mike Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Security Officer (MK)</p>
 </td>
 </tr>
 </tbody>
