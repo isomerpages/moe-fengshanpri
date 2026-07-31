@@ -624,7 +624,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Counsellor</p>
+<p>Counsellor (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joseph Choo Hua Long</p>
@@ -654,7 +654,7 @@ variant: tiptap
 <p>Ms. Nur Azeimah binte Itam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_azeimah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azeimah@moe.edu.sg</a> 
+<p><a href="mailto:nur_azeimah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azeimah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -666,7 +666,7 @@ variant: tiptap
 <p>Ms. Natalie Peters</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:natalie_peters@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natalie_peters@moe.edu.sg</a> 
+<p><a href="mailto:natalie_peters@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natalie_peters@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -678,7 +678,7 @@ variant: tiptap
 <p>Ms. Amirah binte Azlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:amirah_azlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amirah_azlan@moe.edu.sg</a> 
+<p><a href="mailto:amirah_azlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amirah_azlan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1027,4 +1027,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>(FAJT)</p>
