@@ -55,12 +55,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<p>Class</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<p>Name</p>
 </td>
 </tr>
 <tr>
@@ -68,14 +66,12 @@ variant: tiptap
 <p>P1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Rahayu Rusyanto
-<br>
-</p>
+<p>Mdm Sri Rahayu Rusyanto</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Batrisyia Binte Mohammed Fadzil</p>
+<p>Mr. Hoon Ding Cheng</p>
 </td>
 </tr>
 <tr>
@@ -83,9 +79,7 @@ variant: tiptap
 <p>P1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Chee Hui Faith
-<br>
-</p>
+<p>Mdm Loh Chee Hui Faith</p>
 </td>
 </tr>
 <tr>
@@ -111,9 +105,7 @@ variant: tiptap
 <p>P1D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Bee Choo (Mrs Vanessa Chan)
-<br>
-</p>
+<p>Ms Ang Bee Choo (Mrs Vanessa Chan)</p>
 </td>
 </tr>
 <tr>
@@ -126,9 +118,7 @@ variant: tiptap
 <p>P1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marcellian Arlany (Mrs Goh)
-<br>
-</p>
+<p>Mdm Marcellian Arlany (Mrs Goh)</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Moi</p>
+<p>Mdm. Raba'ah Bte Ismail</p>
 </td>
 </tr>
 </tbody>
@@ -160,12 +150,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<p>Class</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<p>Name</p>
 </td>
 </tr>
 <tr>
@@ -173,9 +161,7 @@ variant: tiptap
 <p>P2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Hui Min Gladys
-<br>
-</p>
+<p>Miss Lim Hui Min Gladys</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +192,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Raba'ah Bte Ismail</p>
+<p>Mdm. Nur Atikah Binte Mohamad Zin</p>
 </td>
 </tr>
 <tr>
@@ -214,14 +200,12 @@ variant: tiptap
 <p>P2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marlina Bte Mokhtar
-<br>
-</p>
+<p>Mdm Marlina Bte Mokhtar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Khim Meng Matthias</p>
+<p>Ms. Xu Bo</p>
 </td>
 </tr>
 <tr>
@@ -261,12 +245,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<p>Class</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<p>Name</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +261,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Elsa Shahida b Md Kassim</p>
+<p>Mdm. Lee Sok Kiang</p>
 </td>
 </tr>
 <tr>
@@ -345,12 +327,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<p>Class</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<p>Name</p>
 </td>
 </tr>
 <tr>
@@ -371,9 +351,7 @@ variant: tiptap
 <p>P4B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chia Soo Yin
-<br>
-</p>
+<p>Miss Chia Soo Yin</p>
 </td>
 </tr>
 <tr>
@@ -431,12 +409,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<p>Class</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<p>Name</p>
 </td>
 </tr>
 <tr>
@@ -501,7 +477,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Irwan Bin Md Talib</p>
+<p>Mr. Irwan Bin Md Talib</p>
 </td>
 </tr>
 <tr>
@@ -528,12 +504,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<p>Class</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<p>Name</p>
 </td>
 </tr>
 <tr>
@@ -585,7 +559,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Chwee Li</p>
+<p>Mr. Ridhwan Bin Zahid</p>
 </td>
 </tr>
 <tr>
@@ -593,7 +567,7 @@ variant: tiptap
 <p>P6E1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shen Baiyue</p>
+<p>Mr. Shen Baiyue</p>
 </td>
 </tr>
 <tr>
@@ -602,19 +576,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>P6E2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheryl Lim (Mrs Cheong)</p>
+<p>Mdm. Cheryl Lim (Mrs Cheong)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Mdm Theivanai d/o Palanisamy</p>
+<td rowspan="1" colspan="1">
+<p>Mdm. Theivanai d/o Palanisamy</p>
 </td>
 </tr>
-<tr></tr>
 </tbody>
 </table>
 <h2>School Counsellors and SENOs</h2>
@@ -628,15 +601,38 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
+<p>Designation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contact Email</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Toh Ling Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Toh_Ling_Ling_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Toh_Ling_Ling_A@moe.edu.sg</a>
 </p>
 </td>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Contact Email</p>
-</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Counsellor (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joseph Choo Hua Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choo_hua_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_hua_long@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -645,10 +641,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms. Daphne Heng Syn Yee</p>
 </td>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:heng_syn_yee_daphne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_syn_yee_daphne@moe.edu.sg</a>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:heng_syn_yee_daphne@moe.edu.sg" rel="" target="_blank">heng_syn_yee_daphne@moe.edu.sg</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -688,7 +684,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <h2>Mother Tongue Language Teachers</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -698,12 +693,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Language</strong>
-</p>
+<p>Language</p>
 </td>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Name</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -783,6 +777,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Shen Baiyue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHINESE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Jiao Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHINESE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Xu Bo</p>
 </td>
 </tr>
 <tr>
@@ -1017,4 +1027,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>(FAJT)</p>
